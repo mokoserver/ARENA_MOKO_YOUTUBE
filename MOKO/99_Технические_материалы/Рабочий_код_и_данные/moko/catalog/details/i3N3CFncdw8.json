@@ -1,0 +1,7 @@
+{
+  "id": "i3N3CFncdw8",
+  "title": "Стрим #1: Делаем основу драйвера и переделываем скрипт Rohde & Schwarz",
+  "description": "Разбираемся как быстро сделать драйвер, проект со скриптом, что бы приступить к измерениям менее чем за час.\nСам не ожидал что все так быстро можно настроить:)\n\nПрограммная платформа: MOKO SE\n\nСодержание:\n00:00 - Приветствие\n02:04 - Поставленная задача\n05:02 - Система папок и иконка GitHub\n07:42 - Сообщество Telegram\n10:04 - Начинаем создавать драйвер\n28:05 - Тестирование драйвера и делаем документацию\n29:13 - Установка лицензии MOKO SE\n31:20 - Продолжаем тестировать драйвер\n36:20 - Обзор Preset в драйверах\n40:08 - Настройка портов подключения\n42:50 - Создание проекта\n45:50 - Редактируем старый скрипт\n01:10:20 - Заключительные мысли\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nСайт компании MOKO: https://mokose.pro/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#rohde&schwarz #mokose #автоматизация",
+  "http": 200,
+  "playability": "OK"
+}

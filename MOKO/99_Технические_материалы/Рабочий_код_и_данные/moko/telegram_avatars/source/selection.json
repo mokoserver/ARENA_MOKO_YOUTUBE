@@ -1,0 +1,17 @@
+{
+  "news": {
+    "status": "approved",
+    "variant": "Н1 — Мегафон",
+    "file": "alternatives04/png/news_01_megaphone.png"
+  },
+  "group": {
+    "status": "approved",
+    "variant": "Г4 — Крупный фирменный знак MOKO",
+    "file": "group05/png/group_04_symbol.png"
+  },
+  "base": "concept03",
+  "other_four": "carried_over_unchanged",
+  "release": "final_graphic/MOKO_Telegram_Финал_В.zip",
+  "archived_release": "selected/MOKO_Telegram_Итоговый_комплект.zip",
+  "final_direction": "В — Графический знак (исходный)"
+}

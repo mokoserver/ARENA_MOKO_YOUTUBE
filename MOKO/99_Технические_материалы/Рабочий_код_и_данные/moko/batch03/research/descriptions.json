@@ -1,0 +1,86 @@
+[
+  {
+    "id": "tgIy0Ra-mn0",
+    "http": 200,
+    "description": "Пояснение что находится в папках программы MOKO SE.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:21 - Открытие папки\n00:29 - Папка Data\n00:41 - Папка Drivers\n00:48 - Папка Images \n01:03 - Папка License\n01:08 - Папка PDF reports\n01:15 - Папка Plugins\n01:21 - Папка Projects\n01:31 - Папка PythonLibrary\n01:38 - Папка Report\n01:43 - Папка Screenshot\n01:51 - Папка Settings\n02:00 - Папка Temp\n02:08 - Папка Utilities\n02:15 - Папка Word reports\n02:21 - Спасибо за внимание\n02:29 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#mokose #python #автоматизация",
+    "source": "public watch page",
+    "title": "Урок №0.1. Разбираем предназначение всех папок в директории платформы.",
+    "playability": "OK",
+    "caption_tracks": [
+      {
+        "language": "ru",
+        "url": "https://www.youtube.com/api/timedtext?v=tgIy0Ra-mn0&ei=QYOgasmEHaaZy_sPiIO08AU&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788929457&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=407885CFA432C684E0657A83584DC1325C3F62F7.9318BA4495D5D96CA56063A46CBF9D8DBB3888B2&key=yt8&kind=asr&lang=ru"
+      }
+    ]
+  },
+  {
+    "id": "pzxfkmvQW2U",
+    "http": 200,
+    "description": "Сборка проекта для автоматизации. Подключаем 3 скрипта, библиотеку MOKO.py и шаблон протокола Microsoft Word. \n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Запуск MOKO SE\n00:35 - Название проекта\n00:54 - Подключение скриптов\n02:21 - Подключение библиотеки\n02:35 - Подключение шаблона MS Word\n03:08 - Открытие проекта\n03:19 - Спасибо за внимание\n03:26 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#moko #python #автоматизация",
+    "source": "public watch page",
+    "title": "Урок №1. Создание проекта: подключение скриптов, библиотек и шаблона Microsoft Word.",
+    "playability": "OK",
+    "caption_tracks": [
+      {
+        "language": "ru",
+        "url": "https://www.youtube.com/api/timedtext?v=pzxfkmvQW2U&ei=QYOgaqWyHYKXy_sPo-XE4AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788929457&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=AE4196E845C12AF7AB554C5AE30D54D9AEB124BC.2D4D02AC42390443C0A1F3B8B1ADDF04F3516E01&key=yt8&kind=asr&lang=ru"
+      }
+    ]
+  },
+  {
+    "id": "9QniN5XarQo",
+    "http": 200,
+    "description": "Меняем название скрипта, пишем код и запускаем проект.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Запуск MOKO SE\n00:28 - Открытие проекта\n00:36 - Изменение названия скрипта\n01:30 - Запуск пустого проекта\n01:45 - Заполнение первого скрипта\n01:58 - Запуск проекта\n02:07 - Дополнение первого скрипта\n02:28 - Запуск проекта\n02:50 - Заполнение второго скрипта\n03:30 - заполнение третьего скрипта\n03:56 - Запуск проекта\n04:09 - Спасибо за внимание\n04:17 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#moko #python #автоматизация",
+    "source": "public watch page",
+    "title": "Урок №2. Запуск проекта. Импорт библиотеки MOKO и применение стандартных функций.",
+    "playability": "OK",
+    "caption_tracks": [
+      {
+        "language": "ru",
+        "url": "https://www.youtube.com/api/timedtext?v=9QniN5XarQo&ei=QYOgatzWHajsut0Pv9epkQk&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788929457&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=136A580B33C14A678776F63DC63FB964C8524A81.7725ED7AA6B91C2341440770811FFE2439D9C402&key=yt8&kind=asr&lang=ru"
+      }
+    ]
+  },
+  {
+    "id": "koGtgs5iNfk",
+    "http": 200,
+    "description": "Рассматриваем функцию Stage, используем разные типы сообщений.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Запуск MOKO SE\n01:06 - Просмотр функции в библиотеке\n01:38 - Тип info\n02:16 - Тип error\n02:55 - Тип plugin\n03:39 - Тип driver\n04:14 - Тип report\n05:13 - Тип warning\n05:44 - Спасибо за внимание\n05:52 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#stage #python #автоматизация",
+    "source": "public watch page",
+    "title": "Урок №3. Функция Stage. Предназначение разных типов",
+    "playability": "OK",
+    "caption_tracks": [
+      {
+        "language": "ru",
+        "url": "https://www.youtube.com/api/timedtext?v=koGtgs5iNfk&ei=QYOgauKvG_DHsfIPhIWrkAk&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788929457&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=4A754E2516EF3C8088204DE65224460554677DAF.85645FFC11571BBE4B484B292959DD6B718F39E5&key=yt8&kind=asr&lang=ru"
+      }
+    ]
+  },
+  {
+    "id": "w9YARQn9SFs",
+    "http": 200,
+    "description": "Рассматриваем функцию Messenger, используем режимы *set* и *get*, вставляем картинки.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Запуск MOKO SE\n00:38 - Что же такое Messenger?\n01:07 - Просмотр функции в библиотеке MOKO\n02:04 - Формирование простого окна\n03:16 - Формирование окна с таймером\n04:26 - Получение данных типа string от пользователя\n05:50 - Получение данных типа boolean от пользователя\n07:54 - Формирование окна с выбором\n09:48 - Формирование окна с получением директории файла\n11:24 - Формирование окон с картинками\n14:07 - Спасибо за внимание\n14:14 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#messenger #python #автоматизация",
+    "source": "public watch page",
+    "title": "Урок №4. Функция Messenger. Использование разных режимов, типов и вставка картинок",
+    "playability": "OK",
+    "caption_tracks": [
+      {
+        "language": "ru",
+        "url": "https://www.youtube.com/api/timedtext?v=w9YARQn9SFs&ei=QYOgaq_LG-iVt7EP9JHv0Ak&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788929457&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A639E3B2693DB61BC25C5F63759D8372F2809622.97D771CAD96ED3B67161FB3A16CE44EA99156FB4&key=yt8&kind=asr&lang=ru"
+      }
+    ]
+  },
+  {
+    "id": "S3gTxhKKBOs",
+    "http": 200,
+    "description": "Рассматриваем функцию Driver. Устанавливаем значения в драйвере, получаем данные из драйвера, а также формируем протокол Microsoft Word.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:25 - Директория драйверов\n00:44 - Запуск MOKO SE\n00:50 - Окно Peripheral management\n00:58 - Описание команд драйвера ExDriver\n01:12 - Открытие файла с описанием команд драйвера\n01:26 - Запуск файла с описанием команд драйвера\n02:02 - Driver - set\n06:47 - Driver - get\n07:50 - Формирование закладок\n11:15 - Подготовка шаблона Microsoft Word\n12:49 - Формирование протокола Microsoft Word\n13:09 - Спасибо за внимание\n13:13 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#driver #python #автоматизация",
+    "source": "public watch page",
+    "title": "Урок №6. Функция Driver. Отправка и получение данных из электронных приборов",
+    "playability": "OK",
+    "caption_tracks": [
+      {
+        "language": "ru",
+        "url": "https://www.youtube.com/api/timedtext?v=S3gTxhKKBOs&ei=QYOgapmQHcyvzLUPhKKJ2QE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788929457&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=ECEA0FAC34463FAC14DB4CE3654F5AFEA9C3F321.A46CFE63911C3B96D07BA9D6B3973B9ACDEA154E&key=yt8&kind=asr&lang=ru"
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "w9YARQn9SFs",
+  "http": 200,
+  "description": "Рассматриваем функцию Messenger, используем режимы *set* и *get*, вставляем картинки.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Запуск MOKO SE\n00:38 - Что же такое Messenger?\n01:07 - Просмотр функции в библиотеке MOKO\n02:04 - Формирование простого окна\n03:16 - Формирование окна с таймером\n04:26 - Получение данных типа string от пользователя\n05:50 - Получение данных типа boolean от пользователя\n07:54 - Формирование окна с выбором\n09:48 - Формирование окна с получением директории файла\n11:24 - Формирование окон с картинками\n14:07 - Спасибо за внимание\n14:14 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#messenger #python #автоматизация",
+  "source": "public watch page",
+  "title": "Урок №4. Функция Messenger. Использование разных режимов, типов и вставка картинок",
+  "playability": "OK",
+  "caption_tracks": [
+    {
+      "language": "ru",
+      "url": "https://www.youtube.com/api/timedtext?v=w9YARQn9SFs&ei=QYOgaq_LG-iVt7EP9JHv0Ak&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788929457&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A639E3B2693DB61BC25C5F63759D8372F2809622.97D771CAD96ED3B67161FB3A16CE44EA99156FB4&key=yt8&kind=asr&lang=ru"
+    }
+  ]
+}

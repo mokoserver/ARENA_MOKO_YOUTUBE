@@ -1,0 +1,7 @@
+{
+  "id": "LXg7Ql5Aye0",
+  "title": "Урок №7. Функция Plugin. Прорисовка графиков, подключение к БД, управление группой устройств",
+  "description": "Рассматриваем функцию Plugin. Вычисляем сумму двух чисел, записываем строку, запускаем и останавливаем график, делаем скриншот.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Что такое плагин?\n00:42 - Директория драйверов\n00:55 - Запуск ExPlugin\n02:19 - Plugin - init\n02:38 - Plugin - set\n09:12 - Plugin - get\n12:20 - Plugin - close\n13:32 - Подготовка шаблона Microsoft Word\n14:57 - Формирование протокола Microsoft Word\n15:10 - Спасибо за внимание\n15:18 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#plugin #python #автоматизация",
+  "http": 200,
+  "playability": "OK"
+}

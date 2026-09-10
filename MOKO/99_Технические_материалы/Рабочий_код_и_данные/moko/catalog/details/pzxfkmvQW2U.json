@@ -1,0 +1,14 @@
+{
+  "id": "pzxfkmvQW2U",
+  "http": 200,
+  "description": "Сборка проекта для автоматизации. Подключаем 3 скрипта, библиотеку MOKO.py и шаблон протокола Microsoft Word. \n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Запуск MOKO SE\n00:35 - Название проекта\n00:54 - Подключение скриптов\n02:21 - Подключение библиотеки\n02:35 - Подключение шаблона MS Word\n03:08 - Открытие проекта\n03:19 - Спасибо за внимание\n03:26 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#moko #python #автоматизация",
+  "source": "public watch page",
+  "title": "Урок №1. Создание проекта: подключение скриптов, библиотек и шаблона Microsoft Word.",
+  "playability": "OK",
+  "caption_tracks": [
+    {
+      "language": "ru",
+      "url": "https://www.youtube.com/api/timedtext?v=pzxfkmvQW2U&ei=QYOgaqWyHYKXy_sPo-XE4AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788929457&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=AE4196E845C12AF7AB554C5AE30D54D9AEB124BC.2D4D02AC42390443C0A1F3B8B1ADDF04F3516E01&key=yt8&kind=asr&lang=ru"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "original_files_moved": 732,
+  "all_original_sha256_unchanged": true,
+  "original_bytes": 132577237,
+  "deleted_original_files": 0,
+  "convenience_copies": 8,
+  "zip_archives_verified": 15,
+  "legacy_dirs_removed_when_empty": true,
+  "working_tree_restore_tested": true,
+  "regenerated_active_png_byte_matches": 32,
+  "relocated_gallery_browser_checks": [
+    {
+      "gallery": "YouTube · 94",
+      "cards": 94,
+      "all_images_loaded": true,
+      "mobile_overflow": false,
+      "js_errors": []
+    },
+    {
+      "gallery": "YouTube · локальный индекс",
+      "cards": 94,
+      "all_images_loaded": true,
+      "mobile_overflow": false,
+      "js_errors": []
+    },
+    {
+      "gallery": "Telegram · финал",
+      "cards": 6,
+      "all_images_loaded": true,
+      "mobile_overflow": false,
+      "js_errors": []
+    },
+    {
+      "gallery": "Telegram · эмодзи",
+      "cards": 24,
+      "all_images_loaded": true,
+      "mobile_overflow": false,
+      "js_errors": []
+    },
+    {
+      "gallery": "Брендинг",
+      "cards": 25,
+      "all_images_loaded": true,
+      "mobile_overflow": false,
+      "js_errors": []
+    },
+    {
+      "gallery": "Telegram · архив",
+      "cards": 36,
+      "all_images_loaded": true,
+      "mobile_overflow": false,
+      "js_errors": []
+    }
+  ],
+  "catalog_material_rows": 740,
+  "catalog_file_links_checked": 753
+}

@@ -1,0 +1,53 @@
+{
+  "concept": 3,
+  "status": "awaiting_approval",
+  "published": false,
+  "files": [
+    {
+      "file": "png/01_news.png",
+      "bytes": 122892,
+      "sha256": "333b3da1456757063189c85d1b6be8739b8d7d446f7020444f38ce54dc746fae"
+    },
+    {
+      "file": "png/02_news_chat.png",
+      "bytes": 132740,
+      "sha256": "0b0e0af059adf53e3ac72fb47b2dbb0d4cac948b6aede75380b3f6cc26bc0e67"
+    },
+    {
+      "file": "png/03_moko_systems.png",
+      "bytes": 130867,
+      "sha256": "4821eb793c581ed15a941db28194afad2ec7de3c3af8252f1e610f8affe364d9"
+    },
+    {
+      "file": "png/04_moko_se_bot.png",
+      "bytes": 134685,
+      "sha256": "e3bf5e9a26498079020d17fa8e56aaac9e46dd79a7f43c26cfc7452c11128df6"
+    },
+    {
+      "file": "png/05_contact_bot.png",
+      "bytes": 153223,
+      "sha256": "6fd471542ec3c575035cc70f41f306fa96d45d0355d580513c49cf67831d0b1b"
+    },
+    {
+      "file": "png/06_johnny_respect.png",
+      "bytes": 132148,
+      "sha256": "72bf8f3c52c37dbff2d13315b49b69eed2f0c3810384749e982dc3a3ba75cce7"
+    }
+  ],
+  "browser": {
+    "widths": [
+      390,
+      1440
+    ],
+    "cards": 6,
+    "mixed_list_rows": 9,
+    "all_images_loaded": true,
+    "modal_and_escape": true,
+    "horizontal_overflow": false,
+    "js_errors": []
+  },
+  "visual_review": {
+    "overview": true,
+    "small_64px": true
+  }
+}

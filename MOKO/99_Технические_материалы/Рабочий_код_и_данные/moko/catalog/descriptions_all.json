@@ -1,0 +1,702 @@
+[
+  {
+    "id": "ex8ibsNSCiA",
+    "title": "Expo Electronica 2026: Как MOKO SE превратился в RF-SE для РФ | Партнерство с RFTEX",
+    "description": "Наша команда отчиталась с выставки Expo Electronica 2026 (Москва). Главная новость: продукт MOKO SE теперь доступен на российском рынке под именем RF-SE совместно с нашими надежными партнерами — компанией RFTEX.\n\nНа стенде было многолюдно: коллеги, друзья, профессионалы из отрасли. Ключевая обратная связь — наш софт действительно заходит целевой аудитории.\n\nПолезные ссылки:\n👤 Олег Герман: https://www.youtube.com/@german.chanel\n👤 Telegram «Главный метролог»: t.me/main_metrologist\n\nВсе ресурсы проекта под видео ▼\n\n🔠Сайты: https://mokose.pro/ | https://moko.by/ | https://moko.company/\n🔠База знаний: https://unimetrolog.ru/\n🔠GitHub: https://github.com/mokoserver\n🔠YouTube: https://www.youtube.com/@MOKOserver\n🔠Instagram: https://instagram.com/mokoserver/ | https://instagram.com/johnnyrespect/\n🔠Telegram: https://t.me/mokosystems | Бот: @MokoSeBot (https://t.me/MokoSeBot)",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "AFPlbt1Zhhw",
+    "title": "Простой автоматизированный тест источника питания с помощью MOKO SE #3 Стрим с Олегом Германом",
+    "description": "Тестируем напряжение на источнике питания автоматически из парка приборов Герман Олега.\n\nКаналы стримеров:\n\nОлег Герман:  @german.chanel\nИван Анищенко:  @MOKOserver  \n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\n🔠Сайт компании: \nhttps://mokose.pro/\nhttps://moko.by/\nhttps://moko.company/\n\n🔠База знаний:\n https://unimetrolog.ru/\n\n🔠Репозиторий GitHub:\nhttps://github.com/mokoserver\n\n🔠YouTube\n   / @mokoserver  \n\n🔠Instagram:\n  / mokoserver  \n  / johnnyrespect  \n\n🔠Telegram:\nhttps://t.me/mokosystems\n@MokoSeBot (https://t.me/MokoSeBot)",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "OmXJkxET17k",
+    "title": "Автоматизация измерений с Олегом Герман стрим #2",
+    "description": "Рассказываем про новые возможности платформы MOKO SE, а так же удаленно запускаем стойку для тестирования нагрузки на оборудовании Олега Герман.\n\nКаналы стримеров:\n\nОлег Герман:  @german.chanel\nИван Анищенко:  @MOKOserver  \n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\n🔠Сайт компании: \nhttps://mokose.pro/\nhttps://moko.by/\nhttps://moko.company/\n\n🔠База знаний:\n https://unimetrolog.ru/\n\n🔠Репозиторий GitHub:\nhttps://github.com/mokoserver\n\n🔠YouTube\n   / @mokoserver  \n\n🔠Instagram:\n  / mokoserver  \n  / johnnyrespect  \n\n🔠Telegram:\nhttps://t.me/mokosystems\n@MokoSeBot (https://t.me/MokoSeBot)",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "a6cwVJ20iwU",
+    "title": "Стрим-интервью: Олег Герман и Иван Анищенко о MOKO SE + Новогодняя распаковка подарка!",
+    "description": "Добро пожаловать на стрим-интервью с Олегом Германом и Иваном Анищенко! В этом видео мы обсуждаем автоматизацию измерений в лабораториях и уникальные возможности платформы MOKO SE. А в конце видео вас ждет приятный сюрприз — новогодняя распаковка подарка! 🎁\n\nКаналы стримеров:\n\nОлег Герман: @german.chanel \nИван Анищенко: @MOKOserver \n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\n🔠Сайт компании: \nhttps://mokose.pro/\nhttps://moko.by/\nhttps://moko.company/\n\n🔠База знаний:\n https://unimetrolog.ru/\n\n🔠Репозиторий GitHub:\nhttps://github.com/mokoserver\n\n🔠YouTube\n   / @mokoserver  \n\n🔠Instagram:\n  / mokoserver  \n  / johnnyrespect  \n\n🔠Telegram:\nhttps://t.me/mokosystems\n@MokoSeBot (https://t.me/MokoSeBot)",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "OhPQyqKovhA",
+    "title": "Стрим #4.2:  Формируем запись в таблицу и структурируем панель подключения к приборам.",
+    "description": "Видео посвящено формированию записей в таблицу и структурированию панели подключения к приборам. В нём много работы с прикладными инструментами LabVIEW, а также размышления о том, как упрощение кода может повлиять на его дальнейшие доработки и скорость написания.\n\nЭтот ролик станет полезным для тех, кто стремится оптимизировать свои процессы и научиться эффективно использовать возможности LabVIEW.\n \nПроект для:    / @german.chanel  \n\n00:00 Приветствие и проблематика\n00:45 Формирование панели управления\n29:19 Настройка очереди\n46:45 Имитация измерений и запись в таблицу значений\n1:14:39 Эпилог\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\n🔠Сайт компании: \nhttps://mokose.pro/\nhttps://moko.by/\nhttps://moko.company/\n\n🔠База знаний:\n https://unimetrolog.ru/\n\n🔠Репозиторий GitHub:\nhttps://github.com/mokoserver\n\n🔠YouTube\n   / @mokoserver  \n\n🔠Instagram:\n  / mokoserver  \n  / johnnyrespect  \n\n🔠Telegram:\nhttps://t.me/mokosystems\n@MokoSeBot (https://t.me/MokoSeBot)\n\n#labview #измерения #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "feEv04DYWbA",
+    "title": "Стрим #4.1: Разработка плагина для скоростного считывания данных с устройств.",
+    "description": "Разработка программы для скоростного опроса измеренных значений. \nПроект для: https://www.youtube.com/@german.chanel\n\n00:00 Приветствие и проблематика\n01:17 Копирование и перелинковка файлов \n49:35 Проверка работы сервера/отладка\n1:11:55 Перезагрузка и удачный запуск сервера\n1:14:22 Разработка адаптивного интерфейса\n1:41:00 Компиляция программы\n1:43:50 Эпилог\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\n🔠Сайт компании: \nhttps://mokose.pro/\nhttps://moko.by/\nhttps://moko.company/\n\n🔠База знаний:\n https://unimetrolog.ru/\n\n🔠Репозиторий GitHub:\nhttps://github.com/mokoserver\n\n🔠YouTube\nhttps://www.youtube.com/@MOKOserver\n\n🔠Instagram:\nhttps://instagram.com/mokoserver/\nhttps://instagram.com/johnnyrespect/\n\n🔠Telegram:\nhttps://t.me/mokosystems\n@MokoSeBot (https://t.me/MokoSeBot)\n\n#labview #измерения #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "l3xewCeguhM",
+    "title": "Стрим #3: Автоматическое обновление MOKO SE и логирование времени выполнения программы (перезалив)",
+    "description": "Новая группа Telegram где собранно ВСЕ для работы и это не шутка)\nhttps://t.me/mokosystems\n\nДемонстрация авто обновления программы MOKO SE. Теперь программа сама сообщает что появилась новая версия и автоматически ее скачивает и устанавливает.\n\nУчет времени выполнения программы с последующей записью в файл.\n\n00:00 Приветствие\n00:37 Telegram и откуда скачать MOKO SE\n02:27 Авто обновление  MOKO SE\n05:10 Время выполнения и логирование\n12:44 Эпилог\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nСайт компании MOKO: https://mokose.pro/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\n\n\n#автообновление #mokose #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "Szt2Qw5Gb7o",
+    "title": "Стрим #3: Автоматическое обновление MOKO SE и логирование времени выполнения программы",
+    "description": "Новая группа Telegram где собранно ВСЕ для работы и это не шутка)\nhttps://t.me/mokosystems\n\nДемонстрация авто обновления программы MOKO SE. Теперь программа сама сообщает что появилась новая версия и автоматически ее скачивает и устанавливает.\n\nУчет времени выполнения программы с последующей записью в файл.\n\n00:00 Приветствие\n00:37 Telegram и откуда скачать MOKO SE\n02:27 Авто обновление  MOKO SE\n05:10 Время выполнения и логирование\n12:44 Эпилог\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nСайт компании MOKO: https://mokose.pro/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\n\n\n#автообновление #mokose #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "nnktD99huyE",
+    "title": "Тестирование светодиодной фары с помощью MOKO SE",
+    "description": "Демонстрация тестирования светодиодной фары с помощью:\nИсточника питания BK PRECISION 1697\n\n\nВидео ознакомительное, все вопросы пишите под видео\nили в новую телеграмм группу, где можно ознакомится\nсо всей информацией о продукте.\nhttps://t.me/mokosystems\n\nСодержание:\n00:00 - Приветствие\n00:30 - Ход испытаний\n05:17 - Спасибо за внимание\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nСайт компании MOKO: https://mokose.pro/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#ioT #mokose #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "L8DhEf9Mquo",
+    "title": "Стрим #2: Обновления в инициализации драйверов и дополнение к раскрутке ошибок",
+    "description": "Разбираемся с нововведениями в инициализации драйверов, а так же изучаем улучшенный доступ к документации и группе Telegram.\nДобавлен визуальный контроль для кнопок сохранения.\n\nСодержание:\n00:00 - Приветствие\n00:20 - Иконки файлов *.mpps\n00:47 - ReInit в драйверах и дополнительные настройки\n03:30 - Визуализация для кнопок сохранения\n04:34 - Быстрый доступ к Telegram и GitHub\n05:35 - Заключительные мысли\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nСайт компании MOKO: https://mokose.pro/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#измерения  #mokose #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "0M9TZE58Ryg",
+    "title": "Автоматизированный стенд тестирования IoT устройств",
+    "description": "Демонстрация тестирования IoT устройства с помощью:\nИсточника питания BK PRECISION 1697\nМультиметра APPA 207\nГенератора KKMOON FY6900\nОсциллографа OWON SDS1102\n\nВидео ознакомительное, все вопросы пишите под видео\nили в новую телеграмм группу, где можно ознакомится\nсо всей информацией о продукте.\nhttps://t.me/mokosystems\n\nСодержание:\n00:00 - Приветствие\n00:24 - Запускаем проект автоматизации\n01:34 - Подключение к измерительным устройствам\n02:40 - Ход испытаний с прорисовкой графика измерений\n05:36 - Создание протокола измерений с графиками\n06:07 - Сохраненные параметры подключения к приборам\n07:08 - Спасибо за внимание\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nСайт компании MOKO: https://mokose.pro/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#ioT #mokose #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "i3N3CFncdw8",
+    "title": "Стрим #1: Делаем основу драйвера и переделываем скрипт Rohde & Schwarz",
+    "description": "Разбираемся как быстро сделать драйвер, проект со скриптом, что бы приступить к измерениям менее чем за час.\nСам не ожидал что все так быстро можно настроить:)\n\nПрограммная платформа: MOKO SE\n\nСодержание:\n00:00 - Приветствие\n02:04 - Поставленная задача\n05:02 - Система папок и иконка GitHub\n07:42 - Сообщество Telegram\n10:04 - Начинаем создавать драйвер\n28:05 - Тестирование драйвера и делаем документацию\n29:13 - Установка лицензии MOKO SE\n31:20 - Продолжаем тестировать драйвер\n36:20 - Обзор Preset в драйверах\n40:08 - Настройка портов подключения\n42:50 - Создание проекта\n45:50 - Редактируем старый скрипт\n01:10:20 - Заключительные мысли\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nСайт компании MOKO: https://mokose.pro/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#rohde&schwarz #mokose #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "MSGRIN6oUZQ",
+    "title": "Анонс управление сторонними приложениями с помощью AutoIt через MOKO SE",
+    "description": "Новая функция AutoIt управления сторонними приложениями через MOKO SE.\n\nЭто видео только анонсирует возможность, так как функция пока находиться в тестировании.\n\nСкачать AutoIt: https://www.autoitscript.com/site/\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nСайт компании MOKO: https://mokose.pro/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#mokose #autoit #приложения",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "tpdw4fKgaEg",
+    "title": "Приобретен новый станок для резки металла XT-H1530",
+    "description": "С помощью нового станка у нас повысилась производительность труда и качество изготавливаемых изделий.\n\nОсновные характеристики:\n- Режущая головка Max фотоник;\n- Мощность 3000w; \n- Толщина резки до 25 мм; \n- Условная скорость реза при толщине металла 5мм 4 метра/мин;\n- Рабочая поверхность 1500х3000 мм;\n- Резка нержавеющей стали(включая полированную),алюминий, латунь, медь, бронза.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nСайт компании MOKO: https://mokose.pro/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#резкаметалла",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "CllBnT_-hKs",
+    "title": "Автоматизированная поверка мультиметра на базе MOKO SE - демо проект",
+    "description": "Демонстрация автоматизированной поверки по интерфейсу.\nЭталон: Калибратор Fluke 5520A;\nПоверяемое устройство: Мультиметр Keysight(Agilent) 34460A\nПрограммная платформа: MOKO SE\n\nСодержание:\n00:00 - Интро\n00:05 - Приветствие\n00:37 - Запуск демо проекта MOKO SE\n04:23 - Создание протокола поверки\n04:45 - Редактирование протокола поверки\n05:50 - Возможность перемерить точку\n07:57 - Формат выводимых данных\n08:20 - Спасибо за внимание\n08:41 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nСайт компании MOKO: https://mokose.pro/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#поверка #мультиметр #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "HEmNyEcmrZY",
+    "title": "Урок №14. Дерево. Одноименные регионы и хэшы",
+    "description": "Рассматриваем новый функционал платформы MOKO SE: возможность создания одноименных регионов и хэшей в дереве проекта\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Запуск MOKO SE\n00:35 - Создаем одинаковые регионы и хэшы\n01:21 - Проверяем прохождение дерева\n02:04 - Новый функционал для дерева!\n02:46 - Проверяем и наслаждаемся\n03:59 - Спасибо за внимание\n04:07 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#tree #python #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "KmLxID8LONo",
+    "title": "Урок №2.2. Утилиты. Подключение к MOKO SE",
+    "description": "Рассмотрим подключение утилиты к программе MOKO SE и создадим проект для тестирования утилиты.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Подключение утилиты к MOKO SE\n01:04 - Запуск MOKO SE\n01:20 - Проверка утилиты\n01:43 - Создание проекта\n04:03 - Тестирование утилиты из скрипта\n06:54 - Спасибо за внимание\n07:02 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#utility #dll #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "J_5qLMX5uNs",
+    "title": "Урок №2.1. Утилиты. Разработка и компиляция",
+    "description": "Рассмотрим создание собственной утилиты и её компиляцию.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:24 - Переходим на сайт unimetrolog.ru\n00:38 - Необходимые файлы для разработки утилит\n01:01 - Распаковка MOKO_LabViewLibrary\n01:04 - Распаковка MOKO_ExUtility\n01:12 - Создание папки GitHub\n01:20 - Изменение значка папки\n01:40 - Создание папки MOKO\n02:14 - Создание новой утилиты\n02:51 - Открытие проекта LabView\n03:57 - Создание утилиты MyUtility\n04:03 - Комментарий для всех типов в Mode\n04:37 - Замена кластера с данными\n07:05 - Функциональные блоки в утилите\n07:43 - Создание пользовательского окна\n20:23 - Настройка для открытия окна при запуске vi\n21:44 - Создание команд в get\n24:40 - Изменение иконки драйвера\n24:56 - Назначение входов и выходов драйвера\n25:13 - Создание build для MyUtility\n26:32 - Создание dll утилиты\n27:22 - Спасибо за внимание\n27:29 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#utility #dll #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "shP4XNNsC6Q",
+    "title": "Урок №1.2. Драйверы. Подключение к MOKO SE",
+    "description": "Рассмотрим подключение драйвера к программе MOKO SE и создадим проект для тестирования драйвера.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Подключение драйвера к MOKO SE\n01:02 - Запуск MOKO SE\n01:11 - Проверка драйвера\n02:26 - Создание проекта\n04:18 - Тестирование драйвера из скрипта\n07:44 - Спасибо за внимание\n07:52 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#driver #dll #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "EsLUSn9RDL4",
+    "title": "Урок №1.1. Драйверы. Разработка и компиляция",
+    "description": "Рассмотрим создание собственного драйвера и его компиляцию.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:24 - Переходим на сайт unimetrolog.ru\n00:38 - Необходимые файлы для разработки драйверов\n01:20 - Создание папки GitHub\n01:28 - Изменение значка папка\n01:58 - Создание папки MOKO\n02:12 - Распаковка MOKO_ExDriver\n02:19 - Распаковка MOKO_LabViewLibrary\n02:39 - Назначение папки MOKO_ExDriver\n02:44 - Назначение папки MOKO_LabViewLibrary\n03:00 - Создание нового драйвера\n03:21 - Открытие проекта LabView\n03:37 - Создание драйвера MyDriver\n04:00 - Комментарий для всех типов в Mode\n04:35 - Функциональные блоки в драйвере\n05:57 - Mode - init\n07:15 - Создание команды в set\n12:09 - Создание команды в get\n15:04 - Изменение иконки драйвера\n15:12 - Назначение входов и выходов драйвера\n15:45 - Создание build для MyDriver\n16:52 - Создание dll драйвера\n17:34 - Спасибо за внимание\n17:41 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#driver #dll #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "zv4wZlanZzg",
+    "title": "Урок №0. Введение. Установка ПО для разработки утилит и драйверов",
+    "description": "Первые шаги в разработке собственных утилит и драйверов.\n\nСсылки для скачивания:\nLabView2018 - https://drive.google.com/file/d/18ruieBTtKmW3_LwYOGCEstHY1qrRx9p8/view\nVIPM - https://drive.google.com/file/d/1bOh4pQ1goFA1r0rvrbuEKVhHa48x4U98/view\nMokoLvStandartGlobalLib - https://drive.google.com/file/d/1JZtxm4Lgx_TwvDJ4Bj1BuxrYm7GSJ5gK/view\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:19 - Что такое драйвер?\n00:28 - Директория для драйверов\n00:38 - Что такое утилита?\n00:47 - Директория для утилит\n01:01 - Переходим на сайт unimetrolog.ru\n01:47 - Установка LabView2018\n03:07 - Установка VIPM\n04:00 - Установка JSON и OpenG\n05:45 - Спасибо за внимание\n05:52 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#utility #driver #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "E2Wj5L17Oxo",
+    "title": "Урок №13.2. Плагин MOKO Clicker. Команды Screenshot, PngPath и PngFile",
+    "description": "Рассматриваем плагин MOKO Clicker. Применяем команды Screenshot, PngPath и PngFile\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Запуск MOKO SE\n00:40 - Команда Screenshot\n04:14 - Команда PngPath\n06:10 - Команды PngFile\n07:54 - Настройки плагина\n08:52 - Спасибо за внимание\n09:00 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#click #python #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "kuzcOBW11rk",
+    "title": "Урок №13.1. Плагин MOKO Clicker. Команды управления кнопками мыши и курсором",
+    "description": "Рассматриваем плагин MOKO Clicker. Применяем команды ClickerInit, MouseLeftClick, MouseRightClick, MouseMiddleClick и MouseMove\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Запуск MOKO SE\n00:31 - Подключение библиотеки MCLK\n01:05 - Команда ClickerInit\n02:02 - Команда MouseLeftClick\n03:25 - Команды MouseRightClick\n04:18 - Команда MouseMiddleClick\n05:06 - Команды MouseMove\n06:46 - Запуск проекта целиком\n07:46 - Спасибо за внимание\n07:54 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#click #python #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "aSjRYZWMfjc",
+    "title": "Урок №12.3. Плагин MOKO Graph. Команды Autoscale, Screenshot и Legend",
+    "description": "Рассматриваем плагин MOKO Graph. Используем команды Autoscale, Screenshot и Legend, а также сохраняем скриншоты в Report.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Запуск MOKO SE\n00:33 - Команда Autoscale\n02:17 - Команды Screenshot\n04:15 - Команда Legend\n05:31 - Команды GetScreenshot\n07:24 - Спасибо за внимание\n07:31 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#graph #python #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "jq_D-9nsomg",
+    "title": "Урок №12.2. Плагин MOKO Graph. Команды HideLine, ShowLine, ShowOnlyLine и DeleteLine",
+    "description": "Рассматриваем плагин MOKO Graph. Скрываем и показываем графики, а также удаляем их.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Запуск MOKO SE\n00:33 - Запуск проекта\n01:16 - Команда HideLine\n03:03 - Команда ShowLine\n04:12 - Команда ShowOnlyLine\n05:46 - Команда DeleteLine\n07:26 - Спасибо за внимание\n07:33 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#graph #python #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "b5zjy0PHU0s",
+    "title": "Урок №12.1. Плагин MOKO Graph. Добавление графиков и их изменение, подпись осей и очистка графика",
+    "description": "Рассматриваем плагин MOKO Graph. Добавляем график в плагин, изменяем его, подписываем оси Ox и Oy, а также очищаем график.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:25 - Для чего используется плагин MOKO Graph?\n00:48 - Инициализация плагина, очистка плагина и добавление графика\n05:11 - Подпись осей\n08:31 - Изменение графика\n10:49 - Спасибо за внимание\n10:56 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#graph #python #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "-WRagVBYLxg",
+    "title": "Урок №11.3. Архитектура проекта. Скрипт формирования протокола",
+    "description": "Содержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Архитектура проекта\n00:40 - Запуск MOKO SE\n01:14 - Команда для программного сохранения протокола Microsoft Word\n01:30 - Строим дерево\n03:34 - Заполнение шаблона Microsoft Word\n06:05 - Запуск проекта\n06:40 - Второй шаблон Microsoft Word\n06:47 - Добавление шаблона Microsoft Word в проект\n07:59 - Спасибо за внимание\n08:08 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#project #python #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "Tiff450MBJ4",
+    "title": "Урок №11.2. Архитектура проекта. Скрипты испытаний",
+    "description": "Рассматриваем архитектуру проекта. Пишем скрипт испытаний и строим дерево.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Архитектура проекта\n01:00 - Запуск проекта\n02:00 - Создание скрипта\n15:40 - Формирование таблицы\n18:58 - Запуск готового проекта\n20:58 - Отмена прохождения хэша\n21:38 - Спасибо за внимание\n21:45 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#project #python #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "egIx1gEHksA",
+    "title": "Урок №11.1. Архитектура проекта. Регистрация образца",
+    "description": "Рассматриваем архитектуру проекта. Строим дерево, взаимодействуем с утилитой и сохраняем данные в Report.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Архитектура проекта\n01:06 - Запуск утилиты\n02:25 - Получение данных из утилиты\n09:06 - Строим дерево\n11:08 - Спасибо за внимание\n11:16 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#project #python #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "tXsjlxHMt6Y",
+    "title": "Урок №10. Функция Telegram. Подключение телеграм бота MOKO SE BOT и его использование",
+    "description": "Рассматриваем функцию Telegram. Подключаем бота и взаимодействуем с ним\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Подключение бота MOKO SE BOT\n02:53 - Telegram - set\n03:58 - Telegram - get\n05:25 - Telegram - Stage\n07:02 - Telegram - Driver\n07:33 - Telegram - Report\n08:06 - Telegram - Messenger\n08:38 - Telegram - Program\n08:57 - Telegram - Plugin\n09:23 - Telegram - Utility\n11:00 - Спасибо за внимание\n11:10 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#telegram #python #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "FKGsam4DP6w",
+    "title": "Урок №9. Функция Program. Управление MOKO SE из скрипта",
+    "description": "Рассматриваем функцию Program. Делаем \"дерево\", программно очищаем Stage и управляем проектом.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Что такое функция Program?\n00:35 - Program - script\n02:27 - Program - control\n03:52 - Program - project\n05:15 - Program - tree\n08:10 - Спасибо за внимание\n08:18 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#program #python #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "oUseu_82YBM",
+    "title": "Урок №8. Функция Utility. Окно с интерфейсом для заполнения формы",
+    "description": "Рассматриваем функцию Utility. Взаимодействуем с ExUtility и запускаем 2 утилиты из реальных проектов.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Что такое утилита?\n00:55 - Директория утилит\n00:55 - Utility - set\n02:04 - Utility - get\n03:21 - Первая утилита из реального проекта\n04:56 - Вторая утилита из реального проекта\n05:51 - Спасибо за внимание\n05:57 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#utility #python #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "LXg7Ql5Aye0",
+    "title": "Урок №7. Функция Plugin. Прорисовка графиков, подключение к БД, управление группой устройств",
+    "description": "Рассматриваем функцию Plugin. Вычисляем сумму двух чисел, записываем строку, запускаем и останавливаем график, делаем скриншот.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Что такое плагин?\n00:42 - Директория драйверов\n00:55 - Запуск ExPlugin\n02:19 - Plugin - init\n02:38 - Plugin - set\n09:12 - Plugin - get\n12:20 - Plugin - close\n13:32 - Подготовка шаблона Microsoft Word\n14:57 - Формирование протокола Microsoft Word\n15:10 - Спасибо за внимание\n15:18 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#plugin #python #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "S3gTxhKKBOs",
+    "http": 200,
+    "description": "Рассматриваем функцию Driver. Устанавливаем значения в драйвере, получаем данные из драйвера, а также формируем протокол Microsoft Word.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:25 - Директория драйверов\n00:44 - Запуск MOKO SE\n00:50 - Окно Peripheral management\n00:58 - Описание команд драйвера ExDriver\n01:12 - Открытие файла с описанием команд драйвера\n01:26 - Запуск файла с описанием команд драйвера\n02:02 - Driver - set\n06:47 - Driver - get\n07:50 - Формирование закладок\n11:15 - Подготовка шаблона Microsoft Word\n12:49 - Формирование протокола Microsoft Word\n13:09 - Спасибо за внимание\n13:13 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#driver #python #автоматизация",
+    "source": "public watch page",
+    "title": "Урок №6. Функция Driver. Отправка и получение данных из электронных приборов",
+    "playability": "OK",
+    "caption_tracks": [
+      {
+        "language": "ru",
+        "url": "https://www.youtube.com/api/timedtext?v=S3gTxhKKBOs&ei=QYOgapmQHcyvzLUPhKKJ2QE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788929457&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=ECEA0FAC34463FAC14DB4CE3654F5AFEA9C3F321.A46CFE63911C3B96D07BA9D6B3973B9ACDEA154E&key=yt8&kind=asr&lang=ru"
+      }
+    ]
+  },
+  {
+    "id": "oJktpGbr7WA",
+    "title": "Урок №5. Функция Report. Сохранение, очистка и удаление строк, таблиц и картинок",
+    "description": "Рассматриваем функцию Report. Создаем, сохраняем, очищаем, удаляем строки, таблицы и картинки, а также формируем протокол Microsoft Word\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Запуск MOKO SE\n00:50 - Просмотр функции в библиотеке\n01:32 - Report - set\n05:24 - Report - get\n07:30 - Report - save\n08:55 - Report - clear\n09:44 - Report - delete\n10:08 - Формирование протокола Microsoft Word\n12:41 - Спасибо за внимание\n12:48 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#report #python #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "w9YARQn9SFs",
+    "http": 200,
+    "description": "Рассматриваем функцию Messenger, используем режимы *set* и *get*, вставляем картинки.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Запуск MOKO SE\n00:38 - Что же такое Messenger?\n01:07 - Просмотр функции в библиотеке MOKO\n02:04 - Формирование простого окна\n03:16 - Формирование окна с таймером\n04:26 - Получение данных типа string от пользователя\n05:50 - Получение данных типа boolean от пользователя\n07:54 - Формирование окна с выбором\n09:48 - Формирование окна с получением директории файла\n11:24 - Формирование окон с картинками\n14:07 - Спасибо за внимание\n14:14 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#messenger #python #автоматизация",
+    "source": "public watch page",
+    "title": "Урок №4. Функция Messenger. Использование разных режимов, типов и вставка картинок",
+    "playability": "OK",
+    "caption_tracks": [
+      {
+        "language": "ru",
+        "url": "https://www.youtube.com/api/timedtext?v=w9YARQn9SFs&ei=QYOgaq_LG-iVt7EP9JHv0Ak&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788929457&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A639E3B2693DB61BC25C5F63759D8372F2809622.97D771CAD96ED3B67161FB3A16CE44EA99156FB4&key=yt8&kind=asr&lang=ru"
+      }
+    ]
+  },
+  {
+    "id": "koGtgs5iNfk",
+    "http": 200,
+    "description": "Рассматриваем функцию Stage, используем разные типы сообщений.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Запуск MOKO SE\n01:06 - Просмотр функции в библиотеке\n01:38 - Тип info\n02:16 - Тип error\n02:55 - Тип plugin\n03:39 - Тип driver\n04:14 - Тип report\n05:13 - Тип warning\n05:44 - Спасибо за внимание\n05:52 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#stage #python #автоматизация",
+    "source": "public watch page",
+    "title": "Урок №3. Функция Stage. Предназначение разных типов",
+    "playability": "OK",
+    "caption_tracks": [
+      {
+        "language": "ru",
+        "url": "https://www.youtube.com/api/timedtext?v=koGtgs5iNfk&ei=QYOgauKvG_DHsfIPhIWrkAk&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788929457&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=4A754E2516EF3C8088204DE65224460554677DAF.85645FFC11571BBE4B484B292959DD6B718F39E5&key=yt8&kind=asr&lang=ru"
+      }
+    ]
+  },
+  {
+    "id": "9QniN5XarQo",
+    "http": 200,
+    "description": "Меняем название скрипта, пишем код и запускаем проект.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Запуск MOKO SE\n00:28 - Открытие проекта\n00:36 - Изменение названия скрипта\n01:30 - Запуск пустого проекта\n01:45 - Заполнение первого скрипта\n01:58 - Запуск проекта\n02:07 - Дополнение первого скрипта\n02:28 - Запуск проекта\n02:50 - Заполнение второго скрипта\n03:30 - заполнение третьего скрипта\n03:56 - Запуск проекта\n04:09 - Спасибо за внимание\n04:17 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#moko #python #автоматизация",
+    "source": "public watch page",
+    "title": "Урок №2. Запуск проекта. Импорт библиотеки MOKO и применение стандартных функций.",
+    "playability": "OK",
+    "caption_tracks": [
+      {
+        "language": "ru",
+        "url": "https://www.youtube.com/api/timedtext?v=9QniN5XarQo&ei=QYOgatzWHajsut0Pv9epkQk&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788929457&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=136A580B33C14A678776F63DC63FB964C8524A81.7725ED7AA6B91C2341440770811FFE2439D9C402&key=yt8&kind=asr&lang=ru"
+      }
+    ]
+  },
+  {
+    "id": "tgIy0Ra-mn0",
+    "http": 200,
+    "description": "Пояснение что находится в папках программы MOKO SE.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:21 - Открытие папки\n00:29 - Папка Data\n00:41 - Папка Drivers\n00:48 - Папка Images \n01:03 - Папка License\n01:08 - Папка PDF reports\n01:15 - Папка Plugins\n01:21 - Папка Projects\n01:31 - Папка PythonLibrary\n01:38 - Папка Report\n01:43 - Папка Screenshot\n01:51 - Папка Settings\n02:00 - Папка Temp\n02:08 - Папка Utilities\n02:15 - Папка Word reports\n02:21 - Спасибо за внимание\n02:29 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#mokose #python #автоматизация",
+    "source": "public watch page",
+    "title": "Урок №0.1. Разбираем предназначение всех папок в директории платформы.",
+    "playability": "OK",
+    "caption_tracks": [
+      {
+        "language": "ru",
+        "url": "https://www.youtube.com/api/timedtext?v=tgIy0Ra-mn0&ei=QYOgasmEHaaZy_sPiIO08AU&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788929457&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=407885CFA432C684E0657A83584DC1325C3F62F7.9318BA4495D5D96CA56063A46CBF9D8DBB3888B2&key=yt8&kind=asr&lang=ru"
+      }
+    ]
+  },
+  {
+    "id": "pzxfkmvQW2U",
+    "http": 200,
+    "description": "Сборка проекта для автоматизации. Подключаем 3 скрипта, библиотеку MOKO.py и шаблон протокола Microsoft Word. \n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Запуск MOKO SE\n00:35 - Название проекта\n00:54 - Подключение скриптов\n02:21 - Подключение библиотеки\n02:35 - Подключение шаблона MS Word\n03:08 - Открытие проекта\n03:19 - Спасибо за внимание\n03:26 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#moko #python #автоматизация",
+    "source": "public watch page",
+    "title": "Урок №1. Создание проекта: подключение скриптов, библиотек и шаблона Microsoft Word.",
+    "playability": "OK",
+    "caption_tracks": [
+      {
+        "language": "ru",
+        "url": "https://www.youtube.com/api/timedtext?v=pzxfkmvQW2U&ei=QYOgaqWyHYKXy_sPo-XE4AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788929457&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=AE4196E845C12AF7AB554C5AE30D54D9AEB124BC.2D4D02AC42390443C0A1F3B8B1ADDF04F3516E01&key=yt8&kind=asr&lang=ru"
+      }
+    ]
+  },
+  {
+    "id": "BSgXt5addDM",
+    "title": "Урок №0. Введение. Установка MOKO SE и PyCharm",
+    "description": "Первые шаги в освоении программной платформы MOKO SE.\n\nСсылки:\n1 Видео установки MOKO SE\nhttps://www.youtube.com/watch?v=WY41Ggzugy4\n2 Установка PyCharm\nhttps://www.jetbrains.com/ru-ru/pycharm/download/#section=windows\n3 Уроки Python для начинающих\nhttps://www.youtube.com/playlist?list=PLDyJYA6aTY1lPWXBPk0gw6gR8fEtPDGKa\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Установка MOKO SE\n01:24 - Установка PyCharm\n01:58 - Основы языка программирования Python\n02:18 - Спасибо за внимание\n02:18 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nссылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#mokose #python #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "e_2bLrqE6sk",
+    "title": "Контроллеры Управления и Телеметрии.  Системы телеметрии. Моноблоки.",
+    "description": "Разработка готовых систем – сложный и кропотливый\nтруд, требующий подбора оборудования для\nрешения комплекса задач.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:19 - Презентация контроллеров и систем телеметрии\n04:19 - Демонстрация на объекте работы контроллера\n12:22 - Спасибо за внимание\n12:29 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nссылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#moko #контроллеры #асутп",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "UO_n5resEjA",
+    "title": "Как сделать ассоциативные файлы с программой",
+    "description": "Инсталлятор MOKO SE на базе inno setup и ассоциативные с ним файлы.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:13 - Тема инсталлятор и ассоциации файлов\n00:46 - Инсталлятор Inno setup и файлы программы\n02:05 - Раздел Registry\n02:52 - Деинсталляция MOKO SE\n03:28 - Инсталляция MOKO SE\n04:10 - Работа с регистром\n05:17 - Спасибо за внимание\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nДокументация Inno setup:\nhttps://jrsoftware.org/ishelp/index.php\nПример:\n🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺\n[Registry]\n//cnf - MOKO SE CONFIG\nRoot: HKCR; Subkey: \".cnf\";  ValueData: \"MOKO SE CONFIG\";           ValueType: string;  ValueName: \"\"\nRoot: HKCR; Subkey: \"MOKO SE CONFIG\";  ValueData: \"MOKO SE CONFIG\";  ValueType: string;  ValueName: \"\"; \nRoot: HKCR; Subkey: \"MOKO SE CONFIG\\DefaultIcon\";  ValueData: \"{app}\\Images\\cnf.ICO\";  ValueType: string;  ValueName: \"\"\nRoot: HKCR; Subkey: \"MOKO SE CONFIG\\shell\\open\\command\"; ValueData: \"\"\"C:\\WINDOWS\\system32\\notepad.exe\"\" \"\"%1\"\"\";  ValueType: string;  ValueName: \"\" ;\n🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺\n\nссылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "zdXMG-IOhjA",
+    "title": "Johnny Respect - проморолик",
+    "description": "🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\n\nссылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#MOKO #instagram #johnnyrespect",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "hirOeoPDYvY",
+    "title": "MOKO SE - платформа для автоматизации.",
+    "description": "🔺 Автоматизация измерений\n🔺 MOKO SE — платформа для автоматизации\n🔺 Разработка ПО\n\nОсновные ссылки\n🔗 Сайт компании:\n\nmoko.by\nmoko.company\nmokose.pro\n🔗 База знаний:\n\nunimetrolog.ru\n🔗 Репозиторий GitHub:\n\ngithub.com/mokoserver\n🔗 Социальные сети:\n\nYouTube: @mokoserver\nTelegram:\nКанал | MokoSeBot\nInstagram:\n@mokoserver | @johnnyrespect\nВконтакте: vk.com/mokoserver\nFacebook: facebook.com/mokoserver\nLinkedIn: linkedin.com/company/mokoserver\n\n#MOKO #MOKOSE #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "9IOlJ_qBQ74",
+    "title": "MOKO SE - платформа для автоматизации. Магия.",
+    "description": "🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\n\nссылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#MOKO #MOKOSE #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "gb45P9-3Yfk",
+    "title": "Интеграция TELEGRAM бота в MOKO SE",
+    "description": "Подключение и использование Telegram бота в среде MOKO SE:\nhttps://t.me/MokoSeBot\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:16 - О чем видео TELEGRAM\n00:29 - Подключение TELEGRAM бота\n02:37 - Запуск проекта с TELEGRAM ботом\n03:44 - Демонстрация дополнительных функций ERROR и WARNING\n05:00 - Заключение\n05:10 - Спасибо за внимание\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nссылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#mokose #telegram #telegrambot",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "VzMZ4ohlJhI",
+    "title": "Использование картинок в Message и Report. MOKO SE",
+    "description": "Новые интерактивные возможности в MOKO SE.\nКартинки, сохранение файлов. Скриншоты. \nГде можно посмотреть примеры.\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nссылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#автоматизация #картинки #моко",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "crbctMTtlG8",
+    "title": "Мини обзор на Моноблоки Тесла с сенсорным дисплеем.",
+    "description": "Демонстрируем работоспособность программы на сенсорном моноблоке.\n\nМоноблок был предоставлен компанией Тесла:\nhttps://monoblok.by/\nНаши партнеры, компания Центр Технической Безопасности:\nhttps://ctb-mos.com/\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nссылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#автоматизация #моноблок #телеметрия",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "WY41Ggzugy4",
+    "title": "Презентация MOKO SE: большая не обрезанная. Знакомство и первый запуск.",
+    "description": "Обучающее видео как найти, скачать, установить и запустить MOKO SE на своем компьютере. \n\nСодержание:\n00:00 - Интро\n00:18 - О компании MOKO\n01:59 - Скачать описание MOKO SE\n03:13 - Скачать и установить MOKO SE\n06:09 - Установка лицензии\n09:00 - Установка библиотеки Request\n10:08 - Запускаем первый демонстрационный проект\n16:32 - Запускаем проект c плагином MOKO GRAPH\n18:46 - Демонстрация дерева\n19:55 - Проект поверка манометров\n21:25 - Объединение отчетов\n22:34 - Запускаем проект c плагином MOKO ClickServer\n24:40 - Отладка програмы из IDE\n28:38 - Спасибо за внимание\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nссылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#moko #автоматизация #программирование",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "DStpNxJKxiI",
+    "title": "Создаем уникальную кнопку в Labview",
+    "description": "Создаем уникальную кнопку в Labview\n\n#moko #автоматизация #программирование\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺MOKO DB - база данных для лабораторий.\n🔺MOKO MT - мобильное приложение  для управления платформой MOKO.\n🔺Разработка ПО.\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "TSAL-e7zO8Q",
+    "title": "Делаем вместе c Johnny Respect каталог продукции МОКО.",
+    "description": "Делаем вместе c Johnny Respect каталог продукции МОКО.\n\n#moko #mokose #автоматизация #программирование\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺MOKO DB - база данных для лабораторий.\n🔺MOKO MT - мобильное приложение  для управления платформой MOKO.\n🔺Разработка ПО.\n#moko #mokose #автоматизация #программирование\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: \nhttps://www.moko.by/\n\nСайт компании MOKO: \nhttps://www.moko.company/\n\nДокументация MOKO SE: \nhttps://unimetrolog.ru/\n\nТелеграмм канал: \nhttps://t.me/mokoserver\n\nInstagram канал: \nhttps://www.instagram.com/mokoserver/\n\nВконтакте: \nhttps://vk.com/mokoserver\n\nFacebook: \nhttps://www.facebook.com/mokoserver/\n\nLinkedin: \nhttps://www.linkedin.com/company/mokoserver",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "S1q0p8HLVqY",
+    "title": "MOKO SE - Создание PDF документов",
+    "description": "Создание PDF отчетов в MOKO SE.\n\n#moko #mokose #автоматизация #labview #pdf #программирование\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺MOKO DB - база данных для лабораторий.\n🔺MOKO MT - мобильное приложение  для управления платформой MOKO.\n🔺Разработка ПО.\n#moko #mokose #автоматизация #программирование\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: \nhttps://www.moko.by/\n\nСайт компании MOKO: \nhttps://www.moko.company/\n\nДокументация MOKO SE: \nhttps://unimetrolog.ru/\n\nТелеграмм канал: \nhttps://t.me/mokoserver\n\nInstagram канал: \nhttps://www.instagram.com/mokoserver/\n\nВконтакте: \nhttps://vk.com/mokoserver\n\nFacebook: \nhttps://www.facebook.com/mokoserver/\n\nLinkedin: \nhttps://www.linkedin.com/company/mokoserver",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "dOhiPXQIljo",
+    "title": "Управление запуском скриптов. MOKO SE.",
+    "description": "Управление запуском скриптов. Окно Edit Execution.\n\n#moko #mokose #автоматизация #labview #кнопки #программирование\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nСайт компании MOKO: https://www.moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver/\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "2BudDX-Tjqc",
+    "title": "Контроллер управления холодильниками ATLANT + мобильное приложение",
+    "description": "🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺MOKO DB - база данных для лабораторий.\n🔺MOKO MT - мобильное приложение  для управления платформой MOKO.\n🔺Разработка ПО.\n#moko #mokose #автоматизация #программирование\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\n\nСайт компании MOKO: https://www.moko.company/\n\nДокументация MOKO SE: https://unimetrolog.ru/\n\nТелеграмм канал: https://t.me/mokoserver\n\nInstagram канал: https://www.instagram.com/mokoserver/\n\nВконтакте: https://vk.com/mokoserver\n\nFacebook: https://www.facebook.com/mokoserver/",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "VeR-7cU_-Mc",
+    "title": "БелЭнергоКип - промо ролик",
+    "description": "🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\n\nссылки:\nСайт компании БелЭнергоКип: https://belenergokip.by/\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#MOKO #БелЭнергоКип #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "ASLRmlpA5Xw",
+    "title": "Модернизированный аппарат для упаковки от компании МОКО.",
+    "description": "Модернизированный аппарат для упаковки от компании МОКО. #модернизация #автоматизация #moko #johnnyrespect #моко\n________________________________________\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺MOKO DB - база данных для лабораторий.\n🔺MOKO MT - мобильное приложение  для управления платформой MOKO.\n🔺Разработка ПО.\n#moko #mokose #автоматизация #программирование\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: \nhttps://www.moko.by/\n\nСайт компании MOKO: \nhttps://www.moko.company/\n\nДокументация MOKO SE: \nhttps://unimetrolog.ru/\n\nТелеграмм канал: \nhttps://t.me/mokoserver\n\nInstagram канал: \nhttps://www.instagram.com/mokoserver/\n\nВконтакте: \nhttps://vk.com/mokoserver\n\nFacebook: \nhttps://www.facebook.com/mokoserver/\n\nLinkedin: \nhttps://www.linkedin.com/company/mokoserver",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "9sQpjOUh7f4",
+    "title": "Презентация плагина MOKO GRAPH",
+    "description": "Презентация плагина MOKO GRAPH для автоматизированного создания сложных графиков и отображения их в отчете WORD.\n________________________________________\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺MOKO DB - база данных для лабораторий.\n🔺MOKO MT - мобильное приложение  для управления платформой MOKO.\n🔺Разработка ПО.\n#moko #mokose #автоматизация #программирование\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\n\nСайт компании MOKO: https://www.moko.company/\n\nДокументация MOKO SE: https://unimetrolog.ru/\n\nТелеграмм канал: https://t.me/mokoserver\n\nInstagram канал: https://www.instagram.com/mokoserver/\n\nВконтакте: https://vk.com/mokoserver\n\nFacebook: https://www.facebook.com/mokoserver/\n\nLinkedin: https://www.linkedin.com/company/mokoserver/",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "cA1GXKStbMA",
+    "title": "Вставка спец символов в MOKO SE",
+    "description": "Вставка спец символов в MOKO SE\n\n#moko #mokose #автоматизация #labview #кнопки #программирование\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nСайт компании MOKO: https://www.moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver/\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "4Ot8GxQA6Yc",
+    "title": "Медиа услуги MOKO",
+    "description": "",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "XoFGTU8Kovk",
+    "title": "MOKO - разработка электроники и программного обеспечения.",
+    "description": "🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\n\nссылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#MOKO #MOKOSE #автоматизация",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "7YQ0j-HUuOs",
+    "title": "Анонс второй версии MOKO SE",
+    "description": "Изменен UI и дополнительные возможности.\n\n\n#moko #mokose #автоматизация #labview #кнопки #программирование #UI\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nСайт компании MOKO: https://www.moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver/\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "VoaZTXhmnmM",
+    "title": "MONITOR BALL. MALANKA. ENGLISH VERSION.",
+    "description": "",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "6s3BE6TtCD4",
+    "title": "Monitor Ball. MALANKA",
+    "description": "",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "xMjkBv8Qa10",
+    "title": "Создание своих уникальных кнопок в программе.  Уроки Labview.",
+    "description": "Как скачать красивую картинку и потом из нее сделать кнопку в среде LabView.\n\n#moko #mokose #автоматизация #labview #кнопки #программирование\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nСайт компании MOKO: https://www.moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver/\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "Z8M26IEMpOQ",
+    "title": "Пример опции объединение отчетов на базе решения.  Поверка манометров. MOKO SE.",
+    "description": "#moko #mokose #автоматизация #протоколы #манометры\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nСайт компании MOKO: https://www.moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/moko...\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "9EyE3bgGmZo",
+    "title": "SOFTEQ LAB компания сделала нам подарок.",
+    "description": "🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\n\nссылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#MOKO #softeqlab #johnnyrespect",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "4jCy0mh3E9s",
+    "title": "Как создать красивую иконку для программы в формате ico",
+    "description": "Бесплатная программа Paint .net:\nhttps://paintnet.ru/download/\n\nКрасивые картинки:\nhttps://www.iconfinder.com/\nhttps://www.flaticon.com/\n\nСайт преобразования в формат ico:\nhttps://icoconvert.com/\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "gWQBcpK8X5A",
+    "title": "Новый параметр для Тонального Модема. C# .Net.",
+    "description": "Пример как создать новый элемент  для программы MOKO Modem.\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "7DngQ_kX12M",
+    "title": "Создаем State Machine для управления очередью. Уроки LabView.",
+    "description": "Создание очереди в плагине на LabView\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "1CXaEv7QwuE",
+    "title": "Не запускается программа сервер на C# .Net. Что делать?",
+    "description": "Статьи для ознакомления:\nhttp://codius.ru/articles/IIS_Express__HTTP_Error_400_The_request_hostname_is_invalid\n\nNetsh запросы:\nnetsh http add urlacl url=http://+:55004/Server/plugin/WRITE/ user=Все\nnetsh http add urlacl url=http://+:55004/Server/plugin/READ/ user=Все\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "c1p5m_dTpdo",
+    "title": "Управление плагинами написанными на С#  .net и т.д. MOKO SE.",
+    "description": "Пример управления плагином из MOKO SE.\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "5Lm54uJEyL8",
+    "title": "Как создать несколько Google дисков на одном компьютере Win 10.",
+    "description": "Изучаем новые возможности Гугл диска.\nПодключение нескольких пользователей в среде Windows.\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "sv1_km5KX00",
+    "title": "Изменение разрешения картинки. MOKO SE.",
+    "description": "Демонстрация возможности изменения разрешения картинки в MOKO SE.\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "xEI929oBzYg",
+    "title": "Report TABLE через точку с запятой. MOKO SE.",
+    "description": "Демонстрация функции Report в MOKO SE\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "jR89eqIiAGM",
+    "title": "Загрузка картинок разных форматов. MOKO SE.",
+    "description": "Новые возможности в MOKO SE с картинками\n\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "U2Y2vPSSbLE",
+    "title": "Создание PRESET для устройства в плагине. Часть 2. Уроки LabView.",
+    "description": "Создание PRESET для устройства в плагине. Часть 2. Уроки LabView.\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "POZUZuiS7cI",
+    "title": "Создание PRESET для устройства в плагине. Часть 1. Уроки LabView.",
+    "description": "Создание PRESET для устройства в плагине. Часть 1. Уроки LabView.\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "lSWbtmhcpfc",
+    "title": "Обновление внешней библиотеки LabView на примере JSON. Уроки LabView.",
+    "description": "Работа с программой VIPM\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "fXtQYcZJ7tA",
+    "title": "Создаем новый плагин  используя MOKO ExPlugin. Уроки LabView.",
+    "description": "Дополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "T-uG-K0wJdg",
+    "title": "Настройки вида лицевой программы. Уроки LabView.",
+    "description": "Как нужно настраивать программу в LV.\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "q8obUwFp1m8",
+    "title": "Функционал дерева. MOKO SE.",
+    "description": "Дополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "PwvxyezgN9U",
+    "title": "Передвижная установка поверки систем налива нефтепродуктов от партнеров. Продукты и решения MOKO.",
+    "description": "Презентация: https://www.moko.by/assets/files/MOKO-OIL3000-.pdf\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "0Y3moGLIZbM",
+    "title": "Лаборатория под ключ. Лекция.",
+    "description": "Лаборатория под ключ. Модульный подход к разработке автоматизированных рабочих мест в лаборатории и на производстве.\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "rSy3uobcJwU",
+    "title": "Интервью CEO МОКО на ежегодной конференции Keysight",
+    "description": "Ежегодная Конференция Keysight: Теория и практика разработки и тестирования электронных устройств\n7 октября 2020\nМосква, гостиница «AZIMUT Отель Смоленская Москва»\n\nЧитайте журнал СОВРЕМЕННАЯ ЭЛЕКТРОНИКА на сайте https://www.soel.ru/\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "zTD8sbNUeGU",
+    "title": "Контроллеры: КУиТ-862, STM32F7. Мобильное приложение телеметрии. Продукты и решения MOKO.",
+    "description": "В видео демонстрируются\n1. Контроллер управления и телеметрии\n2. Управляющая плата с цветным дисплеем\n3. Мобильное приложение\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "24djPbWsmM8",
+    "title": "Разработка, производство радиоэлектронного оборудования спец. назначения. Продукты и решения MOKO.",
+    "description": "В видео представлены:\n\n1. Бортовые контроллеры\n2. Интеграция контроллера\n3. Многофункциональные устройства отображения информации\n4. Электронные датчики угла наклона\n5. Пример работы\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "GxL-DZFXYQY",
+    "title": "Передача с датчика информации на 2API.by для packbel.by. Продукты и решения MOKO.",
+    "description": "Передача данных по WI-FI на FTP сервер.\n\nФреймворк Yii\nПлата ESP8266\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "Sz_qOev_6Y0",
+    "title": "Поворотное устройство с навесной конструкцией и видеокамерой. Продукты и решения MOKO.",
+    "description": "Поворотное устройство с навесной конструкцией и видеокамерой. Продукты и решения MOKO.\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "opy_PhgdODo",
+    "title": "Стенд водоподготовки в БелГисс. Продукты и решения MOKO.",
+    "description": "Стенд водоподготовки в БелГисс. Продукты и решения MOKO.\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "t9HsjGb3dFs",
+    "title": "Стенд испытания стиральных машин в БелГисс. Продукты и решения MOKO.",
+    "description": "Стенд испытания стиральных машин в БелГисс. Продукты и решения MOKO.\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "m96Fj9w5RGw",
+    "title": "Прототип на базе stm32f769. Продукты и решения MOKO.",
+    "description": "Прототип на базе stm32f769. Продукты и решения MOKO.\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "69rZmdvcS_8",
+    "title": "Промо MOKO. Тестирование Short. #mokose #moko #johnnyrespect",
+    "description": "",
+    "http": 200,
+    "playability": "OK"
+  },
+  {
+    "id": "IQ2V9DLpqjg",
+    "title": "Драйвера на LabView для роботизированной руки Rozum Robotics. Продукты и решения MOKO.",
+    "description": "Драйвера на LabView для роботизированной руки Rozum Robotics. Продукты и решения MOKO.\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+    "http": 200,
+    "playability": "OK"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "status": "group_selection_pending",
+  "news_selected": "Н1 — Мегафон",
+  "other_four_unchanged": true,
+  "background_and_footer_unchanged": true,
+  "files": [
+    {
+      "file": "png/group_04_symbol.png",
+      "sha256": "4362417ab12ae72f901d69cbbd82bea2737f00c5044c9481ceaf1bb771a4876e"
+    },
+    {
+      "file": "png/group_05_wordmark.png",
+      "sha256": "247ae77a76aa1b07f289a2aee59b2522b207366d7a0867ec7800230bb645ac39"
+    },
+    {
+      "file": "png/group_06_symbol_systems.png",
+      "sha256": "2250332a3892f146ab495bb0787fd91ebefda2b3f1502b3461df1f08f3484f74"
+    }
+  ],
+  "stacked_systems_width_matches_moko": true,
+  "browser": {
+    "widths": [
+      390,
+      1440
+    ],
+    "all_images_loaded": true,
+    "modal_and_escape": true,
+    "overflow": false,
+    "js_errors": []
+  },
+  "visual_review": {
+    "overview": true,
+    "small_48px": true
+  }
+}

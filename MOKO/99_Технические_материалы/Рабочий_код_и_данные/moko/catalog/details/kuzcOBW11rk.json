@@ -1,0 +1,7 @@
+{
+  "id": "kuzcOBW11rk",
+  "title": "Урок №13.1. Плагин MOKO Clicker. Команды управления кнопками мыши и курсором",
+  "description": "Рассматриваем плагин MOKO Clicker. Применяем команды ClickerInit, MouseLeftClick, MouseRightClick, MouseMiddleClick и MouseMove\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:20 - Запуск MOKO SE\n00:31 - Подключение библиотеки MCLK\n01:05 - Команда ClickerInit\n02:02 - Команда MouseLeftClick\n03:25 - Команды MouseRightClick\n04:18 - Команда MouseMiddleClick\n05:06 - Команды MouseMove\n06:46 - Запуск проекта целиком\n07:46 - Спасибо за внимание\n07:54 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#click #python #автоматизация",
+  "http": 200,
+  "playability": "OK"
+}

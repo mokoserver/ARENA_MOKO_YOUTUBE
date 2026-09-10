@@ -1,0 +1,66 @@
+{
+  "reason": "Unselected A and B were archived by user. Self-contained galleries, comparison boards, vector source symbols and deterministic renderer are retained.",
+  "generator": "source/build_bold_concepts.py",
+  "files": [
+    {
+      "file": "bold_concepts/jpg/a_01_news.jpg",
+      "bytes": 206485,
+      "sha256": "8c7a3a70d627611b49fdf5e8e7562d8c03b94e92fb536128364a08051431a0c8"
+    },
+    {
+      "file": "bold_concepts/jpg/a_02_news_chat.jpg",
+      "bytes": 196805,
+      "sha256": "8433d1d02bd808bba1a984906b735ac04ee9592d65fc362b01527da590d45fa6"
+    },
+    {
+      "file": "bold_concepts/jpg/a_03_moko_systems.jpg",
+      "bytes": 208557,
+      "sha256": "b72a38a01ca1681fe336f4898a5b2edbc45f679214927d3bbe49f5706554b955"
+    },
+    {
+      "file": "bold_concepts/jpg/a_04_moko_se_bot.jpg",
+      "bytes": 205235,
+      "sha256": "0657e4e405710528de88b1cd2408f376d99258878fb62e250f332efe0c9464dc"
+    },
+    {
+      "file": "bold_concepts/jpg/a_05_contact_bot.jpg",
+      "bytes": 221171,
+      "sha256": "9edaebc6efa0b1d3752bebff80223dc9dff5fd43d8d3d7711c16b08971dc5c24"
+    },
+    {
+      "file": "bold_concepts/jpg/a_06_johnny_respect.jpg",
+      "bytes": 194928,
+      "sha256": "8abf4e20fa06f3ad0e8ac9dd96b0f975901727985d1316e938c339d979a38c28"
+    },
+    {
+      "file": "bold_concepts/jpg/b_01_news.jpg",
+      "bytes": 190792,
+      "sha256": "27197677e478fdb8f75f9dd72e6f53ea5c3205bef2dfb32da6bb68d942c230cf"
+    },
+    {
+      "file": "bold_concepts/jpg/b_02_news_chat.jpg",
+      "bytes": 179274,
+      "sha256": "bd39f6f8243c2bbabd8f2a77eac02b558dc180760ad08802d265b873980d312e"
+    },
+    {
+      "file": "bold_concepts/jpg/b_03_moko_systems.jpg",
+      "bytes": 193832,
+      "sha256": "efb43ef7f89c6bdfcaeb7b1cadce02ea94505bf19c43ebe683e867cbabf4f1a9"
+    },
+    {
+      "file": "bold_concepts/jpg/b_04_moko_se_bot.jpg",
+      "bytes": 179283,
+      "sha256": "b08e683e1f1fea29535c564872759632d5465fb089f46e679e6d059eb3a75e2b"
+    },
+    {
+      "file": "bold_concepts/jpg/b_05_contact_bot.jpg",
+      "bytes": 214691,
+      "sha256": "8b4d26b4a78400ed29067a12694c11408a5692c410dd1057f08a29cf951b1cb7"
+    },
+    {
+      "file": "bold_concepts/jpg/b_06_johnny_respect.jpg",
+      "bytes": 193718,
+      "sha256": "5fd0cea232eb1bcc2829b1027640843b745fa0b145c9db079d0712655f6a6182"
+    }
+  ]
+}

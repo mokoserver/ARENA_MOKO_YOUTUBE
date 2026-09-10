@@ -1,0 +1,143 @@
+{
+  "files": [
+    {
+      "file": "logo/moko_lockup_on_dark.png",
+      "width": 1178,
+      "height": 220
+    },
+    {
+      "file": "logo/moko_lockup_on_light.png",
+      "width": 1178,
+      "height": 220
+    },
+    {
+      "file": "logo/moko_lockup_white.png",
+      "width": 1178,
+      "height": 220
+    },
+    {
+      "file": "logo/moko_compact_on_dark.png",
+      "width": 800,
+      "height": 680
+    },
+    {
+      "file": "avatars/avatar_primary.png",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "avatars/avatar_with_name.png",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "youtube/channel_banner.png",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "file": "youtube/watermark_color.png",
+      "width": 150,
+      "height": 150
+    },
+    {
+      "file": "youtube/watermark_white.png",
+      "width": 150,
+      "height": 150
+    },
+    {
+      "file": "vk/community_cover.png",
+      "width": 1920,
+      "height": 768
+    },
+    {
+      "file": "vk/mobile_cover_static.png",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "file": "telegram/pinned_post_banner.png",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "file": "telegram/channel_wallpaper_optional.png",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "file": "vk/menu/01_python.png",
+      "width": 376,
+      "height": 256
+    },
+    {
+      "file": "vk/menu/02_labview.png",
+      "width": 376,
+      "height": 256
+    },
+    {
+      "file": "vk/menu/03_mokose.png",
+      "width": 376,
+      "height": 256
+    },
+    {
+      "file": "vk/menu/04_testing.png",
+      "width": 376,
+      "height": 256
+    },
+    {
+      "file": "vk/menu/05_projects.png",
+      "width": 376,
+      "height": 256
+    },
+    {
+      "file": "vk/menu/06_development.png",
+      "width": 376,
+      "height": 256
+    },
+    {
+      "file": "vk/menu/07_company.png",
+      "width": 376,
+      "height": 256
+    },
+    {
+      "file": "vk/menu/08_media.png",
+      "width": 376,
+      "height": 256
+    },
+    {
+      "file": "youtube/end_screen_background.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "streams/stream_start.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "streams/stream_pause.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "streams/stream_end.png",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "youtube_essential_bounds": [
+    766.058,
+    568.2915129151291,
+    1793.942,
+    818
+  ],
+  "palette": [
+    "#b8eb55",
+    "#ff9a48",
+    "#55d6c2",
+    "#55c9ff",
+    "#ed6262",
+    "#b69aff"
+  ]
+}

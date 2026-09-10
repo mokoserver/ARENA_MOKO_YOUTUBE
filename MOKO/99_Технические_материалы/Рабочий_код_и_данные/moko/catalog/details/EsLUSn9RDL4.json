@@ -1,0 +1,7 @@
+{
+  "id": "EsLUSn9RDL4",
+  "title": "Урок №1.1. Драйверы. Разработка и компиляция",
+  "description": "Рассмотрим создание собственного драйвера и его компиляцию.\n\nСодержание:\n00:00 - Интро\n00:09 - Приветствие\n00:24 - Переходим на сайт unimetrolog.ru\n00:38 - Необходимые файлы для разработки драйверов\n01:20 - Создание папки GitHub\n01:28 - Изменение значка папка\n01:58 - Создание папки MOKO\n02:12 - Распаковка MOKO_ExDriver\n02:19 - Распаковка MOKO_LabViewLibrary\n02:39 - Назначение папки MOKO_ExDriver\n02:44 - Назначение папки MOKO_LabViewLibrary\n03:00 - Создание нового драйвера\n03:21 - Открытие проекта LabView\n03:37 - Создание драйвера MyDriver\n04:00 - Комментарий для всех типов в Mode\n04:35 - Функциональные блоки в драйвере\n05:57 - Mode - init\n07:15 - Создание команды в set\n12:09 - Создание команды в get\n15:04 - Изменение иконки драйвера\n15:12 - Назначение входов и выходов драйвера\n15:45 - Создание build для MyDriver\n16:52 - Создание dll драйвера\n17:34 - Спасибо за внимание\n17:41 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#driver #dll #автоматизация",
+  "http": 200,
+  "playability": "OK"
+}

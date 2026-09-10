@@ -1,0 +1,244 @@
+{
+  "version": "01",
+  "status": "awaiting_user_approval",
+  "published": false,
+  "main_png_count": 25,
+  "checks": [
+    {
+      "file": "avatars/avatar_primary.png",
+      "size": 51015,
+      "sha256": "2c038e145bdc4412a69bde393f5eb2b40f9cf5f395b763cd078d9bf59c06d56c",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "avatars/avatar_with_name.png",
+      "size": 59818,
+      "sha256": "2bec3530c2ca05db90b5a3a5a22faa4548ac97e48c65228e6fc31e415a59deb4",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "logo/moko_lockup_on_dark.png",
+      "size": 30146,
+      "sha256": "5c30300cdbd1e27342f43848c57e2eac1a31f7a10e48b224dc91055e88225f1f",
+      "dimensions": [
+        1178,
+        220
+      ]
+    },
+    {
+      "file": "logo/moko_lockup_on_light.png",
+      "size": 30857,
+      "sha256": "175a45b8d683b3658b1c405f1df2ccf659c8a73f4286c510985ace8b41b1a58f",
+      "dimensions": [
+        1178,
+        220
+      ]
+    },
+    {
+      "file": "logo/moko_lockup_white.png",
+      "size": 21419,
+      "sha256": "d4eabac16e6df584ba704bbba5c100f7f36a4f0bb104eea0e06f49fa3840d775",
+      "dimensions": [
+        1178,
+        220
+      ]
+    },
+    {
+      "file": "logo/moko_compact_on_dark.png",
+      "size": 34613,
+      "sha256": "e3c26b192fcf370a4a9a7d078d71787810fc6d7458c4a612328a12f58d8c6611",
+      "dimensions": [
+        800,
+        680
+      ]
+    },
+    {
+      "file": "youtube/channel_banner.png",
+      "size": 109594,
+      "sha256": "bc494bf80d998ec24b2a8dc2f7d48519ed471250b5dab0c0e01979dce86fd20d",
+      "dimensions": [
+        2560,
+        1440
+      ]
+    },
+    {
+      "file": "youtube/end_screen_background.png",
+      "size": 71223,
+      "sha256": "d5cdea89b5693e232ea7e781db03737eee84923bc7576679b0a10d4a0b76401a",
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "youtube/watermark_color.png",
+      "size": 3947,
+      "sha256": "6d9b18cea1d667ffb3878b59eec2b9af3fcb5fec34d44d73c25250dbbb976fab",
+      "dimensions": [
+        150,
+        150
+      ]
+    },
+    {
+      "file": "youtube/watermark_white.png",
+      "size": 2496,
+      "sha256": "bd2c635d77233524f150d3598ddb57c193a04d3945647df007630a321c9362e4",
+      "dimensions": [
+        150,
+        150
+      ]
+    },
+    {
+      "file": "vk/community_cover.png",
+      "size": 69291,
+      "sha256": "e9ad8e299e82384d28f92c02cd78de5338fd1ab54a431686cd6a96e6b9f8b779",
+      "dimensions": [
+        1920,
+        768
+      ]
+    },
+    {
+      "file": "vk/mobile_cover_static.png",
+      "size": 80423,
+      "sha256": "4247b5456e7102b662663cf8a07edb1e7f1d86673478b501aa68c136cc2e6d91",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "file": "vk/menu/01_python.png",
+      "size": 6046,
+      "sha256": "6ef34632f0bbc6ccbdb4a52c48a1dca8df3fe8bb82eeb93ce7f7512b47157f3e",
+      "dimensions": [
+        376,
+        256
+      ]
+    },
+    {
+      "file": "vk/menu/02_labview.png",
+      "size": 4626,
+      "sha256": "56b7f4fc3e9f82d84499bf99a254735c037e65cfc911a79fb0353e89ae52acf0",
+      "dimensions": [
+        376,
+        256
+      ]
+    },
+    {
+      "file": "vk/menu/03_mokose.png",
+      "size": 6882,
+      "sha256": "ae1222732b0467e226fc3497d193e06f973e8efa4a180cc4a5d92c3cf592f5e2",
+      "dimensions": [
+        376,
+        256
+      ]
+    },
+    {
+      "file": "vk/menu/04_testing.png",
+      "size": 6535,
+      "sha256": "7c5c665917ec4b4b9ab59e2a88b4795a20131b0430fbf472dabc4c96f3cb0d37",
+      "dimensions": [
+        376,
+        256
+      ]
+    },
+    {
+      "file": "vk/menu/05_projects.png",
+      "size": 4188,
+      "sha256": "39033c136f2e8a59ea2c7b5f58c4480d59bca1e19abb39718e2be0d367edef9d",
+      "dimensions": [
+        376,
+        256
+      ]
+    },
+    {
+      "file": "vk/menu/06_development.png",
+      "size": 8000,
+      "sha256": "992a036d5cd6bbce35ba968031cf7c9cdda1f24204c99beed1543c800fe47839",
+      "dimensions": [
+        376,
+        256
+      ]
+    },
+    {
+      "file": "vk/menu/07_company.png",
+      "size": 7234,
+      "sha256": "ff391c6e416ac1e3d6cd1d3705963430e04f774711b68dcc49448f6515a1af1b",
+      "dimensions": [
+        376,
+        256
+      ]
+    },
+    {
+      "file": "vk/menu/08_media.png",
+      "size": 5313,
+      "sha256": "878f962f92a0f9ff6d4a996397571d415bb4a8139cb646404be61c9e9b051895",
+      "dimensions": [
+        376,
+        256
+      ]
+    },
+    {
+      "file": "telegram/pinned_post_banner.png",
+      "size": 64936,
+      "sha256": "3b92b81261cfb15bdd4103c7c51725de731ce14e474b328117656408409389fe",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "file": "telegram/channel_wallpaper_optional.png",
+      "size": 26285,
+      "sha256": "6db9be0bec2e83c3c356c321a62d81fa3540bc237abcda971880e4d0e1b6f0a8",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "file": "streams/stream_start.png",
+      "size": 78132,
+      "sha256": "72d6802dc11748c1452dc4cf454995cf6ac9803e9c58cacaca8d0a73862c8458",
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "streams/stream_pause.png",
+      "size": 74291,
+      "sha256": "4037b4df8fa84848d2fab0cef033884d6dac292e2a23208c0972d8b55d12ec0f",
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "streams/stream_end.png",
+      "size": 80673,
+      "sha256": "649e9f93e9a96a2485fc2ca9be7b19b7038fac7ebbe7f8a995509965acad1ea9",
+      "dimensions": [
+        1920,
+        1080
+      ]
+    }
+  ],
+  "exact_original_symbol": true,
+  "youtube_critical_content_inside_conservative_safe_area": true,
+  "browser": {
+    "mobile_width": 390,
+    "desktop_width": 1440,
+    "cards": 25,
+    "modal_open_close": true,
+    "escape_close": true,
+    "overflow": false,
+    "js_errors": []
+  }
+}

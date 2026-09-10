@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "01_news",
+    "title": "MOKO · Новости",
+    "description": "Новостной канал",
+    "color": "#55C9FF",
+    "png": "png/01_news.png",
+    "svg": "svg/01_news.svg"
+  },
+  {
+    "slug": "02_news_chat",
+    "title": "Чат новостей",
+    "description": "Обсуждение публикаций канала",
+    "color": "#B69AFF",
+    "png": "png/02_news_chat.png",
+    "svg": "svg/02_news_chat.svg"
+  },
+  {
+    "slug": "03_moko_systems",
+    "title": "MOKO Systems",
+    "description": "Группа с разделами",
+    "color": "#ED6262",
+    "png": "png/03_moko_systems.png",
+    "svg": "svg/03_moko_systems.svg"
+  },
+  {
+    "slug": "04_moko_se_bot",
+    "title": "MOKO SE Bot",
+    "description": "Бот-диспетчер для MOKO SE",
+    "color": "#55D6C2",
+    "png": "png/04_moko_se_bot.png",
+    "svg": "svg/04_moko_se_bot.svg"
+  },
+  {
+    "slug": "05_contact_bot",
+    "title": "Связь с MOKO",
+    "description": "Бот для обращений к команде",
+    "color": "#FF9A48",
+    "png": "png/05_contact_bot.png",
+    "svg": "svg/05_contact_bot.svg"
+  },
+  {
+    "slug": "06_johnny_respect",
+    "title": "Johnny Respect",
+    "description": "Личный бот в фирменном стиле MOKO",
+    "color": "#E8C782",
+    "png": "png/06_johnny_respect.png",
+    "svg": "svg/06_johnny_respect.svg"
+  }
+]

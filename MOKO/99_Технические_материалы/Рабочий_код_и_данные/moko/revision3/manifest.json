@@ -1,0 +1,74 @@
+[
+  {
+    "file": "01_graph.jpg",
+    "video": {
+      "id": "b5zjy0PHU0s",
+      "title": "Урок №12.1. Плагин MOKO Graph. Добавление графиков и их изменение, подпись осей и очистка графика",
+      "thumbnail": "https://i.ytimg.com/vi/b5zjy0PHU0s/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAAsSdwV8T9O7LXlK3S67En6qYopA"
+    },
+    "category": "Уроки MOKO SE",
+    "note": "Зелёный · график как главный объект",
+    "previous": "concepts/01_graph_1280x720.jpg",
+    "asset_note": "Концептуальная иллюстрация, не скриншот программы и не спецификация оборудования."
+  },
+  {
+    "file": "02_driver.jpg",
+    "video": {
+      "id": "EsLUSn9RDL4",
+      "title": "Урок №1.1. Драйверы. Разработка и компиляция",
+      "thumbnail": "https://i.ytimg.com/vi/EsLUSn9RDL4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCGEH9lsWK2nXGPJM9cy_7bi6xA8w"
+    },
+    "category": "Разработка",
+    "note": "Оранжевый · код и устройство",
+    "previous": "concepts/02_drivers_1280x720.jpg",
+    "asset_note": "Концептуальная иллюстрация, не скриншот программы и не спецификация оборудования."
+  },
+  {
+    "file": "03_telegram.jpg",
+    "video": {
+      "id": "tXsjlxHMt6Y",
+      "title": "Урок №10. Функция Telegram. Подключение телеграм бота MOKO SE BOT и его использование",
+      "thumbnail": "https://i.ytimg.com/vi/tXsjlxHMt6Y/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBzRySQawky_foE_Y1sMfYdlEQ0TA"
+    },
+    "category": "Уроки MOKO SE",
+    "note": "Тот же зелёный · обратная композиция",
+    "previous": null,
+    "asset_note": "Концептуальная иллюстрация, не скриншот программы и не спецификация оборудования."
+  },
+  {
+    "file": "04_headlight.jpg",
+    "video": {
+      "id": "nnktD99huyE",
+      "title": "Тестирование светодиодной фары с помощью MOKO SE",
+      "thumbnail": "https://i.ytimg.com/vi/nnktD99huyE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCqNcHcx1IFxsY2UDRnlYculTxCxg"
+    },
+    "category": "Практика",
+    "note": "Голубой · человек и объект испытаний",
+    "previous": "concepts/03_headlight_1280x720.jpg",
+    "asset_note": "Лицо и фара пока из первого ИИ-концепта. Для финала нужны реальное фото и точное изображение испытываемой фары."
+  },
+  {
+    "file": "05_stream.jpg",
+    "video": {
+      "id": "feEv04DYWbA",
+      "title": "Стрим #4.1: Разработка плагина для скоростного считывания данных с устройств.",
+      "thumbnail": "https://i.ytimg.com/vi/feEv04DYWbA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAIu7Q7uvAqsRMTcwyBb1CXsU_z9A"
+    },
+    "category": "Разработка",
+    "note": "Оранжевый · реальный портрет и интерфейс плагина",
+    "previous": null,
+    "asset_note": "Реальная фотография и реальный скриншот плагина из исходной обложки. Фон фотографии удалён автоматически, лицо не перерисовывалось. Для финального качества желателен исходный скриншот без сжатия."
+  },
+  {
+    "file": "06_expo.jpg",
+    "video": {
+      "id": "ex8ibsNSCiA",
+      "title": "Expo Electronica 2026: Как MOKO SE превратился в RF-SE для РФ | Партнерство с RFTEX",
+      "thumbnail": "https://i.ytimg.com/vi/ex8ibsNSCiA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCxYdtqr5ipEpj-Xu6kS6dFZSGFuA"
+    },
+    "category": "События",
+    "note": "Красный · реальный портрет и обозначение продукта",
+    "previous": null,
+    "asset_note": "Реальная фотография с удалённым фоном. Знак RF-SE извлечён из исходной обложки; тёмная надпись адаптирована к тёмному фону. Лицо не перерисовывалось. Интерфейс RF-SE не имитируется."
+  }
+]

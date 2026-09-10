@@ -1,0 +1,127 @@
+{
+  "reason": "Unselected concept raster intermediates; self-contained previews, comparison board, exact source-symbol SVGs and deterministic generator are retained.",
+  "preview": "bc_variants/MOKO_\u0411_\u0438_\u0412_\u041d\u043e\u0432\u044b\u0435_\u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b.html",
+  "generator": "source/build_bc_variants.py",
+  "files": [
+    {
+      "file": "bc_variants/jpg/b1_01_news.jpg",
+      "bytes": 143024,
+      "sha256": "77c9a916b257d50e6f0cab3297600cb0a751361e950d40cdda9d4b38f9db2986"
+    },
+    {
+      "file": "bc_variants/jpg/b1_02_news_chat.jpg",
+      "bytes": 132218,
+      "sha256": "c10f80b24dc3f667a685cd08e2780084478497593011112be8900b8858ab1641"
+    },
+    {
+      "file": "bc_variants/jpg/b1_03_moko_systems.jpg",
+      "bytes": 147714,
+      "sha256": "2e8dc6792cceb3f31ace12c147378eea269b175bfda6141c9ce323fa5cb421d0"
+    },
+    {
+      "file": "bc_variants/jpg/b1_04_moko_se_bot.jpg",
+      "bytes": 141400,
+      "sha256": "fe1e35c5643f0a3fdd24632054c0095dd9937b5de71af37fa359ab564b18970e"
+    },
+    {
+      "file": "bc_variants/jpg/b1_05_contact_bot.jpg",
+      "bytes": 153206,
+      "sha256": "7f8bbaa61dd5780d1e982579d65d028b6b49c48bdfb8b608882a6aa74020a049"
+    },
+    {
+      "file": "bc_variants/jpg/b1_06_johnny_respect.jpg",
+      "bytes": 147400,
+      "sha256": "bf3b5ba414ccb6a6d4f47f389a9687be82904d8ef48925ab15d12c416e47b84e"
+    },
+    {
+      "file": "bc_variants/jpg/b2_01_news.jpg",
+      "bytes": 127518,
+      "sha256": "9416f1ed0a7ee1faadad1b6beded08e60b579abaa135ce94b1ac6e10f730799a"
+    },
+    {
+      "file": "bc_variants/jpg/b2_02_news_chat.jpg",
+      "bytes": 119647,
+      "sha256": "ce616f171ea93d20e4c0238372e14070b1df831270cccad4c60f5c14137aba88"
+    },
+    {
+      "file": "bc_variants/jpg/b2_03_moko_systems.jpg",
+      "bytes": 128672,
+      "sha256": "6a2eba1e281453fda9759f7de03ed6fef2ed6c3f9ccea1e8fa5d31ee735cfd34"
+    },
+    {
+      "file": "bc_variants/jpg/b2_04_moko_se_bot.jpg",
+      "bytes": 121817,
+      "sha256": "d13713c96c99dda8b7ce39c73f7da3482a5641395ede7346219df40d3e706b7d"
+    },
+    {
+      "file": "bc_variants/jpg/b2_05_contact_bot.jpg",
+      "bytes": 138429,
+      "sha256": "3d5b9bd0cdd28f84fca5fcc2eda00ad818ad0ad7c9cae9ae206331c602a6af11"
+    },
+    {
+      "file": "bc_variants/jpg/b2_06_johnny_respect.jpg",
+      "bytes": 128669,
+      "sha256": "253bcbf72d453669ec0210a23778340bd0b9a048c44f29d848ac1fa72243f9ea"
+    },
+    {
+      "file": "bc_variants/jpg/c1_01_news.jpg",
+      "bytes": 95333,
+      "sha256": "f119fab268e0f948b733dffa855e6fce5dbfca0dd3a0c72598faaf16594e586a"
+    },
+    {
+      "file": "bc_variants/jpg/c1_02_news_chat.jpg",
+      "bytes": 87260,
+      "sha256": "20e45e17890eedeef701c88e8a66886900ee74df8f01d0faf523dd2b38bf730b"
+    },
+    {
+      "file": "bc_variants/jpg/c1_03_moko_systems.jpg",
+      "bytes": 96996,
+      "sha256": "1e9f3846c27467be1c4e67ea56c8a19bd8cca2ca1fe0e1dc0a22244bf25069b8"
+    },
+    {
+      "file": "bc_variants/jpg/c1_04_moko_se_bot.jpg",
+      "bytes": 94429,
+      "sha256": "93486bdd83f0ce536402e8dc16e00556490e5cd7dae072667fb14ff0ba19b43b"
+    },
+    {
+      "file": "bc_variants/jpg/c1_05_contact_bot.jpg",
+      "bytes": 100386,
+      "sha256": "b03cedd0124926fa64ad9cc8779bdcf8b8f5414eeed06c779caec0232d802209"
+    },
+    {
+      "file": "bc_variants/jpg/c1_06_johnny_respect.jpg",
+      "bytes": 87760,
+      "sha256": "d3717569e976a69da6acf8a8f752b305b6c80ba00dc6a52405f72880f7368235"
+    },
+    {
+      "file": "bc_variants/jpg/c2_01_news.jpg",
+      "bytes": 70290,
+      "sha256": "ae54a740777ef3ead15f8d572f976f0ff0810c5e5ebeeffa63c22d2ecde83994"
+    },
+    {
+      "file": "bc_variants/jpg/c2_02_news_chat.jpg",
+      "bytes": 67152,
+      "sha256": "195e292e7f3cf31c67269c4443481549c6b5df4bafbb2baf8d6591d553e8121e"
+    },
+    {
+      "file": "bc_variants/jpg/c2_03_moko_systems.jpg",
+      "bytes": 72185,
+      "sha256": "2c31c89b51538f5a87204bca2629b4ea5a66b87fc65338968b5934806f670e61"
+    },
+    {
+      "file": "bc_variants/jpg/c2_04_moko_se_bot.jpg",
+      "bytes": 71627,
+      "sha256": "49de09c939e95ea6f0d172cd86f8b8d4cb9f1b557aa0f9f904621f24bae515b7"
+    },
+    {
+      "file": "bc_variants/jpg/c2_05_contact_bot.jpg",
+      "bytes": 75301,
+      "sha256": "cc9f7020bd32ad52b521f107a11d4614bf456892bd3be1826fa4c52b7d1a513e"
+    },
+    {
+      "file": "bc_variants/jpg/c2_06_johnny_respect.jpg",
+      "bytes": 67918,
+      "sha256": "249b96db7b08166d46e594a582367ba4f464bc82593adf6d21704659bdf6c75d"
+    }
+  ]
+}

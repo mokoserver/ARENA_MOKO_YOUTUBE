@@ -1,0 +1,227 @@
+[
+  {
+    "file": "avatars/avatar_primary.png",
+    "title": "Основной аватар",
+    "group": "logo",
+    "note": "Рекомендую: крупный знак хорошо читается в маленьком круге.",
+    "style": "avatar",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "avatars/avatar_with_name.png",
+    "title": "Аватар с названием",
+    "group": "logo",
+    "note": "Альтернатива: знак и надпись MOKO.",
+    "style": "avatar",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "logo/moko_lockup_on_dark.png",
+    "title": "Логотип для тёмного фона",
+    "group": "logo",
+    "note": "Прозрачный фон. Цветной знак и светлая надпись.",
+    "style": "logo",
+    "width": 1178,
+    "height": 220
+  },
+  {
+    "file": "logo/moko_lockup_on_light.png",
+    "title": "Логотип для светлого фона",
+    "group": "logo",
+    "note": "Прозрачный фон. Цветной знак и тёмная надпись.",
+    "style": "logo light",
+    "width": 1178,
+    "height": 220
+  },
+  {
+    "file": "logo/moko_lockup_white.png",
+    "title": "Белый логотип",
+    "group": "logo",
+    "note": "Одноцветный вариант на прозрачном фоне.",
+    "style": "logo",
+    "width": 1178,
+    "height": 220
+  },
+  {
+    "file": "logo/moko_compact_on_dark.png",
+    "title": "Компактная компоновка",
+    "group": "logo",
+    "note": "Знак над надписью MOKO / SYSTEMS. Прозрачный фон.",
+    "style": "compact",
+    "width": 800,
+    "height": 680
+  },
+  {
+    "file": "youtube/channel_banner.png",
+    "title": "Шапка YouTube",
+    "group": "youtube",
+    "note": "Загружать целиком: не обрезать до узкой полосы.",
+    "style": "",
+    "width": 2560,
+    "height": 1440
+  },
+  {
+    "file": "youtube/end_screen_background.png",
+    "title": "Фон конечной заставки",
+    "group": "youtube",
+    "note": "Вставить в монтаж; элементы видео и подписки добавить отдельно в YouTube Studio.",
+    "style": "",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "youtube/watermark_color.png",
+    "title": "Водяной знак · цветной",
+    "group": "youtube",
+    "note": "Прозрачный PNG.",
+    "style": "watermark",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "file": "youtube/watermark_white.png",
+    "title": "Водяной знак · белый",
+    "group": "youtube",
+    "note": "Для тёмного видео или насыщенного фона.",
+    "style": "watermark",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "file": "vk/community_cover.png",
+    "title": "Обложка сообщества VK",
+    "group": "vk",
+    "note": "Горизонтальная версия. Проверить обрезку в редакторе VK.",
+    "style": "",
+    "width": 1920,
+    "height": 768
+  },
+  {
+    "file": "vk/mobile_cover_static.png",
+    "title": "Мобильная обложка VK",
+    "group": "vk",
+    "note": "Вертикальная статичная версия. Не анимация.",
+    "style": "portrait",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "vk/menu/01_python.png",
+    "title": "Меню · Python",
+    "group": "menu",
+    "note": "Ссылку раздела назначить в VK.",
+    "style": "tile",
+    "width": 376,
+    "height": 256
+  },
+  {
+    "file": "vk/menu/02_labview.png",
+    "title": "Меню · LabVIEW",
+    "group": "menu",
+    "note": "Ссылку раздела назначить в VK.",
+    "style": "tile",
+    "width": 376,
+    "height": 256
+  },
+  {
+    "file": "vk/menu/03_mokose.png",
+    "title": "Меню · MOKO SE",
+    "group": "menu",
+    "note": "Ссылку раздела назначить в VK.",
+    "style": "tile",
+    "width": 376,
+    "height": 256
+  },
+  {
+    "file": "vk/menu/04_testing.png",
+    "title": "Меню · Испытания",
+    "group": "menu",
+    "note": "Ссылку раздела назначить в VK.",
+    "style": "tile",
+    "width": 376,
+    "height": 256
+  },
+  {
+    "file": "vk/menu/05_projects.png",
+    "title": "Меню · Проекты",
+    "group": "menu",
+    "note": "Ссылку раздела назначить в VK.",
+    "style": "tile",
+    "width": 376,
+    "height": 256
+  },
+  {
+    "file": "vk/menu/06_development.png",
+    "title": "Меню · Разработка",
+    "group": "menu",
+    "note": "Ссылку раздела назначить в VK.",
+    "style": "tile",
+    "width": 376,
+    "height": 256
+  },
+  {
+    "file": "vk/menu/07_company.png",
+    "title": "Меню · О компании",
+    "group": "menu",
+    "note": "Ссылку раздела назначить в VK.",
+    "style": "tile",
+    "width": 376,
+    "height": 256
+  },
+  {
+    "file": "vk/menu/08_media.png",
+    "title": "Меню · Медиа",
+    "group": "menu",
+    "note": "Ссылку раздела назначить в VK.",
+    "style": "tile",
+    "width": 376,
+    "height": 256
+  },
+  {
+    "file": "telegram/pinned_post_banner.png",
+    "title": "Баннер закреплённого поста",
+    "group": "telegram",
+    "note": "Опубликовать как изображение поста и закрепить сообщение.",
+    "style": "",
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "file": "telegram/channel_wallpaper_optional.png",
+    "title": "Необязательные обои",
+    "group": "telegram",
+    "note": "Спокойный фон. Доступность установки зависит от настроек оформления канала.",
+    "style": "portrait",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "streams/stream_start.png",
+    "title": "Начало эфира",
+    "group": "streams",
+    "note": "Статичная сцена 16:9 для OBS или другого видеомикшера.",
+    "style": "",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "streams/stream_pause.png",
+    "title": "Пауза эфира",
+    "group": "streams",
+    "note": "Статичная сцена 16:9 для OBS или другого видеомикшера.",
+    "style": "",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "streams/stream_end.png",
+    "title": "Завершение эфира",
+    "group": "streams",
+    "note": "Статичная сцена 16:9 для OBS или другого видеомикшера.",
+    "style": "",
+    "width": 1920,
+    "height": 1080
+  }
+]

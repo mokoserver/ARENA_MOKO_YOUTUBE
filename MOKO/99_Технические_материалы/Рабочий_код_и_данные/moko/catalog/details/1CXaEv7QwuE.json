@@ -1,0 +1,7 @@
+{
+  "id": "1CXaEv7QwuE",
+  "title": "Не запускается программа сервер на C# .Net. Что делать?",
+  "description": "Статьи для ознакомления:\nhttp://codius.ru/articles/IIS_Express__HTTP_Error_400_The_request_hostname_is_invalid\n\nNetsh запросы:\nnetsh http add urlacl url=http://+:55004/Server/plugin/WRITE/ user=Все\nnetsh http add urlacl url=http://+:55004/Server/plugin/READ/ user=Все\n\nДополнительная информация.\n________________________________________\nСайт компании MOKO: https://www.moko.by/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://www.facebook.com/mokoserver/\nLinkedin: https://www.linkedin.com/company/mokoserver\n________________________________________",
+  "http": 200,
+  "playability": "OK"
+}

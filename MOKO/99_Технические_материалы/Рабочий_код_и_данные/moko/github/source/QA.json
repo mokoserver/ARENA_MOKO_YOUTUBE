@@ -1,0 +1,25 @@
+{
+  "purpose": "MOKO GitHub organization avatar",
+  "style": "В — Графический знак",
+  "published": false,
+  "files": [
+    {
+      "file": "MOKO_GitHub_512.png",
+      "size": 46953,
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "e5ea6a44ab76cafa5f4039a4f323ff0a388bcc8a5882cfe4237bc7555e0b886d"
+    },
+    {
+      "file": "MOKO_GitHub_1024.png",
+      "size": 103785,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "sha256": "f7223323775ab2f8bda76f3b4b3788c2057a22879c24b9645df4e78b1e5de23a"
+    }
+  ]
+}

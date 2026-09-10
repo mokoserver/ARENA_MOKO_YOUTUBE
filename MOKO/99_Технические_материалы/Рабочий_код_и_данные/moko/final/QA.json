@@ -1,0 +1,15 @@
+{
+  "videos": 94,
+  "horizontal": 92,
+  "vertical": 2,
+  "preserved_unchanged": 18,
+  "new": 76,
+  "jpeg_under_2mb": true,
+  "archive_integrity": "ok",
+  "sha256_all_match": true,
+  "javascript_syntax": "ok",
+  "whole_video_review": false,
+  "youtube_upload": false,
+  "mobile_browser_runtime": "passed: 94 cards, 21 Python, 76 new, 2 Shorts, ID search, modal navigation, no overflow",
+  "javascript_errors": []
+}

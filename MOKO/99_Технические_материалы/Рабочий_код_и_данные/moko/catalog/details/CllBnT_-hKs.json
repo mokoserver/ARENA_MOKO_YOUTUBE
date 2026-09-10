@@ -1,0 +1,7 @@
+{
+  "id": "CllBnT_-hKs",
+  "title": "Автоматизированная поверка мультиметра на базе MOKO SE - демо проект",
+  "description": "Демонстрация автоматизированной поверки по интерфейсу.\nЭталон: Калибратор Fluke 5520A;\nПоверяемое устройство: Мультиметр Keysight(Agilent) 34460A\nПрограммная платформа: MOKO SE\n\nСодержание:\n00:00 - Интро\n00:05 - Приветствие\n00:37 - Запуск демо проекта MOKO SE\n04:23 - Создание протокола поверки\n04:45 - Редактирование протокола поверки\n05:50 - Возможность перемерить точку\n07:57 - Формат выводимых данных\n08:20 - Спасибо за внимание\n08:41 - Аутро\n\n🔺Автоматизация измерений.\n🔺MOKO SE - платформа для автоматизации.\n🔺Разработка ПО.\n\nCсылки:\nСайт компании MOKO: https://moko.by/\nСайт компании MOKO: https://moko.company/\nСайт компании MOKO: https://mokose.pro/\nДокументация MOKO SE: https://unimetrolog.ru/\nТелеграмм канал: https://t.me/mokoserver\nInstagram канал: https://www.instagram.com/mokoserver/\nВконтакте: https://vk.com/mokoserver\nFacebook: https://facebook.com/mokoserver/\nLinkedin: https://linkedin.com/company/mokoserver\n\n#поверка #мультиметр #автоматизация",
+  "http": 200,
+  "playability": "OK"
+}

@@ -1,0 +1,155 @@
+[
+  {
+    "file": "png/01_news.png",
+    "archive": "MOKO_6_аватаров_Telegram_v01.zip",
+    "member": "png/01_news.png",
+    "bytes": 97122
+  },
+  {
+    "file": "png/02_news_chat.png",
+    "archive": "MOKO_6_аватаров_Telegram_v01.zip",
+    "member": "png/02_news_chat.png",
+    "bytes": 103536
+  },
+  {
+    "file": "png/03_moko_systems.png",
+    "archive": "MOKO_6_аватаров_Telegram_v01.zip",
+    "member": "png/03_moko_systems.png",
+    "bytes": 89894
+  },
+  {
+    "file": "png/04_moko_se_bot.png",
+    "archive": "MOKO_6_аватаров_Telegram_v01.zip",
+    "member": "png/04_moko_se_bot.png",
+    "bytes": 101858
+  },
+  {
+    "file": "png/05_contact_bot.png",
+    "archive": "MOKO_6_аватаров_Telegram_v01.zip",
+    "member": "png/05_contact_bot.png",
+    "bytes": 99406
+  },
+  {
+    "file": "png/06_johnny_respect.png",
+    "archive": "MOKO_6_аватаров_Telegram_v01.zip",
+    "member": "png/06_johnny_respect.png",
+    "bytes": 105471
+  },
+  {
+    "file": "concept02/png/01_news.png",
+    "archive": "concept02/MOKO_Telegram_Концепт_02.zip",
+    "member": "png/01_news.png",
+    "bytes": 43857
+  },
+  {
+    "file": "concept02/png/02_news_chat.png",
+    "archive": "concept02/MOKO_Telegram_Концепт_02.zip",
+    "member": "png/02_news_chat.png",
+    "bytes": 46768
+  },
+  {
+    "file": "concept02/png/03_moko_systems.png",
+    "archive": "concept02/MOKO_Telegram_Концепт_02.zip",
+    "member": "png/03_moko_systems.png",
+    "bytes": 42716
+  },
+  {
+    "file": "concept02/png/04_moko_se_bot.png",
+    "archive": "concept02/MOKO_Telegram_Концепт_02.zip",
+    "member": "png/04_moko_se_bot.png",
+    "bytes": 52052
+  },
+  {
+    "file": "concept02/png/05_contact_bot.png",
+    "archive": "concept02/MOKO_Telegram_Концепт_02.zip",
+    "member": "png/05_contact_bot.png",
+    "bytes": 55117
+  },
+  {
+    "file": "concept02/png/06_johnny_respect.png",
+    "archive": "concept02/MOKO_Telegram_Концепт_02.zip",
+    "member": "png/06_johnny_respect.png",
+    "bytes": 50411
+  },
+  {
+    "file": "concept03/png/01_news.png",
+    "archive": "concept03/MOKO_Telegram_Концепт_03.zip",
+    "member": "png/01_news.png",
+    "bytes": 122892
+  },
+  {
+    "file": "concept03/png/02_news_chat.png",
+    "archive": "concept03/MOKO_Telegram_Концепт_03.zip",
+    "member": "png/02_news_chat.png",
+    "bytes": 132740
+  },
+  {
+    "file": "concept03/png/03_moko_systems.png",
+    "archive": "concept03/MOKO_Telegram_Концепт_03.zip",
+    "member": "png/03_moko_systems.png",
+    "bytes": 130867
+  },
+  {
+    "file": "concept03/png/04_moko_se_bot.png",
+    "archive": "concept03/MOKO_Telegram_Концепт_03.zip",
+    "member": "png/04_moko_se_bot.png",
+    "bytes": 134685
+  },
+  {
+    "file": "concept03/png/05_contact_bot.png",
+    "archive": "concept03/MOKO_Telegram_Концепт_03.zip",
+    "member": "png/05_contact_bot.png",
+    "bytes": 153223
+  },
+  {
+    "file": "concept03/png/06_johnny_respect.png",
+    "archive": "concept03/MOKO_Telegram_Концепт_03.zip",
+    "member": "png/06_johnny_respect.png",
+    "bytes": 132148
+  },
+  {
+    "file": "alternatives04/png/news_01_megaphone.png",
+    "vector_source": "alternatives04/svg/news_01_megaphone.svg",
+    "bytes": 143437
+  },
+  {
+    "file": "alternatives04/png/news_02_broadcast.png",
+    "vector_source": "alternatives04/svg/news_02_broadcast.svg",
+    "bytes": 159700
+  },
+  {
+    "file": "alternatives04/png/news_03_lightning.png",
+    "vector_source": "alternatives04/svg/news_03_lightning.svg",
+    "bytes": 141006
+  },
+  {
+    "file": "alternatives04/png/group_01_network.png",
+    "vector_source": "alternatives04/svg/group_01_network.svg",
+    "bytes": 154491
+  },
+  {
+    "file": "alternatives04/png/group_02_sections.png",
+    "vector_source": "alternatives04/svg/group_02_sections.svg",
+    "bytes": 137009
+  },
+  {
+    "file": "alternatives04/png/group_03_team.png",
+    "vector_source": "alternatives04/svg/group_03_team.svg",
+    "bytes": 139718
+  },
+  {
+    "file": "group05/png/group_04_symbol.png",
+    "vector_source": "group05/svg/group_04_symbol.svg",
+    "bytes": 140305
+  },
+  {
+    "file": "group05/png/group_05_wordmark.png",
+    "vector_source": "group05/svg/group_05_wordmark.svg",
+    "bytes": 170022
+  },
+  {
+    "file": "group05/png/group_06_symbol_systems.png",
+    "vector_source": "group05/svg/group_06_symbol_systems.svg",
+    "bytes": 157547
+  }
+]

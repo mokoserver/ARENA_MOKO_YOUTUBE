@@ -1,0 +1,242 @@
+[
+  {
+    "slug": "01_youtube",
+    "title": "YouTube",
+    "emoji": "▶️",
+    "section": "Общение",
+    "color": "#D64545",
+    "file": "png_100/01_youtube.png",
+    "svg": "svg/01_youtube.svg",
+    "webp": "webp_100/01_youtube.webp"
+  },
+  {
+    "slug": "02_telegram",
+    "title": "Telegram",
+    "emoji": "✈️",
+    "section": "Общение",
+    "color": "#2587B3",
+    "file": "png_100/02_telegram.png",
+    "svg": "svg/02_telegram.svg",
+    "webp": "webp_100/02_telegram.webp"
+  },
+  {
+    "slug": "03_like",
+    "title": "Лайк",
+    "emoji": "👍",
+    "section": "Реакции",
+    "color": "#2587B3",
+    "file": "png_100/03_like.png",
+    "svg": "svg/03_like.svg",
+    "webp": "webp_100/03_like.webp"
+  },
+  {
+    "slug": "04_dislike",
+    "title": "Дизлайк",
+    "emoji": "👎",
+    "section": "Реакции",
+    "color": "#B93636",
+    "file": "png_100/04_dislike.png",
+    "svg": "svg/04_dislike.svg",
+    "webp": "webp_100/04_dislike.webp"
+  },
+  {
+    "slug": "05_heart",
+    "title": "Сердце",
+    "emoji": "❤️",
+    "section": "Реакции",
+    "color": "#D64545",
+    "file": "png_100/05_heart.png",
+    "svg": "svg/05_heart.svg",
+    "webp": "webp_100/05_heart.webp"
+  },
+  {
+    "slug": "06_fire",
+    "title": "Огонь",
+    "emoji": "🔥",
+    "section": "Реакции",
+    "color": "#C7772D",
+    "file": "png_100/06_fire.png",
+    "svg": "svg/06_fire.svg",
+    "webp": "webp_100/06_fire.webp"
+  },
+  {
+    "slug": "07_smile",
+    "title": "Улыбка",
+    "emoji": "🙂",
+    "section": "Реакции",
+    "color": "#C6A54C",
+    "file": "png_100/07_smile.png",
+    "svg": "svg/07_smile.svg",
+    "webp": "webp_100/07_smile.webp"
+  },
+  {
+    "slug": "08_laugh",
+    "title": "Смех",
+    "emoji": "😂",
+    "section": "Реакции",
+    "color": "#C6A54C",
+    "file": "png_100/08_laugh.png",
+    "svg": "svg/08_laugh.svg",
+    "webp": "webp_100/08_laugh.webp"
+  },
+  {
+    "slug": "09_wink",
+    "title": "Подмигивание",
+    "emoji": "😉",
+    "section": "Реакции",
+    "color": "#C6A54C",
+    "file": "png_100/09_wink.png",
+    "svg": "svg/09_wink.svg",
+    "webp": "webp_100/09_wink.webp"
+  },
+  {
+    "slug": "10_thanks",
+    "title": "Спасибо",
+    "emoji": "🙏",
+    "section": "Реакции",
+    "color": "#C6A54C",
+    "file": "png_100/10_thanks.png",
+    "svg": "svg/10_thanks.svg",
+    "webp": "webp_100/10_thanks.webp"
+  },
+  {
+    "slug": "11_done",
+    "title": "Готово",
+    "emoji": "✅",
+    "section": "Статусы",
+    "color": "#23886B",
+    "file": "png_100/11_done.png",
+    "svg": "svg/11_done.svg",
+    "webp": "webp_100/11_done.webp"
+  },
+  {
+    "slug": "12_error",
+    "title": "Ошибка",
+    "emoji": "❌",
+    "section": "Статусы",
+    "color": "#D64545",
+    "file": "png_100/12_error.png",
+    "svg": "svg/12_error.svg",
+    "webp": "webp_100/12_error.webp"
+  },
+  {
+    "slug": "13_question",
+    "title": "Вопрос",
+    "emoji": "❓",
+    "section": "Статусы",
+    "color": "#8C64B2",
+    "file": "png_100/13_question.png",
+    "svg": "svg/13_question.svg",
+    "webp": "webp_100/13_question.webp"
+  },
+  {
+    "slug": "14_attention",
+    "title": "Внимание",
+    "emoji": "⚠️",
+    "section": "Статусы",
+    "color": "#C59D32",
+    "file": "png_100/14_attention.png",
+    "svg": "svg/14_attention.svg",
+    "webp": "webp_100/14_attention.webp"
+  },
+  {
+    "slug": "15_wait",
+    "title": "Ожидание",
+    "emoji": "⏳",
+    "section": "Статусы",
+    "color": "#C59D32",
+    "file": "png_100/15_wait.png",
+    "svg": "svg/15_wait.svg",
+    "webp": "webp_100/15_wait.webp"
+  },
+  {
+    "slug": "16_idea",
+    "title": "Идея",
+    "emoji": "💡",
+    "section": "Статусы",
+    "color": "#C59D32",
+    "file": "png_100/16_idea.png",
+    "svg": "svg/16_idea.svg",
+    "webp": "webp_100/16_idea.webp"
+  },
+  {
+    "slug": "17_code",
+    "title": "Код",
+    "emoji": "💻",
+    "section": "Инженерия",
+    "color": "#2587B3",
+    "file": "png_100/17_code.png",
+    "svg": "svg/17_code.svg",
+    "webp": "webp_100/17_code.webp"
+  },
+  {
+    "slug": "18_python",
+    "title": "Python",
+    "emoji": "🐍",
+    "section": "Инженерия",
+    "color": "#91B943",
+    "file": "png_100/18_python.png",
+    "svg": "svg/18_python.svg",
+    "webp": "webp_100/18_python.webp"
+  },
+  {
+    "slug": "19_labview",
+    "title": "LabVIEW",
+    "emoji": "🧩",
+    "section": "Инженерия",
+    "color": "#C7772D",
+    "file": "png_100/19_labview.png",
+    "svg": "svg/19_labview.svg",
+    "webp": "webp_100/19_labview.webp"
+  },
+  {
+    "slug": "20_measurement",
+    "title": "Измерения",
+    "emoji": "📈",
+    "section": "Инженерия",
+    "color": "#2587B3",
+    "file": "png_100/20_measurement.png",
+    "svg": "svg/20_measurement.svg",
+    "webp": "webp_100/20_measurement.webp"
+  },
+  {
+    "slug": "21_hardware",
+    "title": "Оборудование",
+    "emoji": "⚙️",
+    "section": "Инженерия",
+    "color": "#2587B3",
+    "file": "png_100/21_hardware.png",
+    "svg": "svg/21_hardware.svg",
+    "webp": "webp_100/21_hardware.webp"
+  },
+  {
+    "slug": "22_moko_se",
+    "title": "MOKO SE",
+    "emoji": "🤖",
+    "section": "Инженерия",
+    "color": "#238F83",
+    "file": "png_100/22_moko_se.png",
+    "svg": "svg/22_moko_se.svg",
+    "webp": "webp_100/22_moko_se.webp"
+  },
+  {
+    "slug": "23_launch",
+    "title": "Запуск",
+    "emoji": "🚀",
+    "section": "Инженерия",
+    "color": "#238F83",
+    "file": "png_100/23_launch.png",
+    "svg": "svg/23_launch.svg",
+    "webp": "webp_100/23_launch.webp"
+  },
+  {
+    "slug": "24_moko",
+    "title": "MOKO",
+    "emoji": "🔺",
+    "section": "Инженерия",
+    "color": "#D64545",
+    "file": "png_100/24_moko.png",
+    "svg": "svg/24_moko.svg",
+    "webp": "webp_100/24_moko.webp"
+  }
+]

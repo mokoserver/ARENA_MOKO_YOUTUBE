@@ -1,0 +1,26 @@
+[
+  {
+    "code": "Г4",
+    "slug": "group_04_symbol",
+    "title": "Фирменный знак",
+    "description": "Основная группа обозначена самим MOKO",
+    "png": "png/group_04_symbol.png",
+    "svg": "svg/group_04_symbol.svg"
+  },
+  {
+    "code": "Г5",
+    "slug": "group_05_wordmark",
+    "title": "MOKO / SYSTEMS",
+    "description": "Название компании вместо пиктограммы",
+    "png": "png/group_05_wordmark.png",
+    "svg": "svg/group_05_wordmark.svg"
+  },
+  {
+    "code": "Г6",
+    "slug": "group_06_symbol_systems",
+    "title": "Знак + SYSTEMS",
+    "description": "Фирменный знак и явное название направления",
+    "png": "png/group_06_symbol_systems.png",
+    "svg": "svg/group_06_symbol_systems.svg"
+  }
+]

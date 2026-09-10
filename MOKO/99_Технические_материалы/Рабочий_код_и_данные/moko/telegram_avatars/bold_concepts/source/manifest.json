@@ -1,0 +1,164 @@
+[
+  {
+    "style": "a",
+    "slug": "01_news",
+    "title": "Новости",
+    "file": "jpg/a_01_news.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "alternatives04/svg/news_01_megaphone.svg"
+  },
+  {
+    "style": "a",
+    "slug": "02_news_chat",
+    "title": "Чат новостей",
+    "file": "jpg/a_02_news_chat.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "concept03/svg/02_news_chat.svg"
+  },
+  {
+    "style": "a",
+    "slug": "03_moko_systems",
+    "title": "MOKO Systems",
+    "file": "jpg/a_03_moko_systems.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "group05/svg/group_04_symbol.svg"
+  },
+  {
+    "style": "a",
+    "slug": "04_moko_se_bot",
+    "title": "MOKO SE Bot",
+    "file": "jpg/a_04_moko_se_bot.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "concept03/svg/04_moko_se_bot.svg"
+  },
+  {
+    "style": "a",
+    "slug": "05_contact_bot",
+    "title": "Связь с MOKO",
+    "file": "jpg/a_05_contact_bot.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "concept03/svg/05_contact_bot.svg"
+  },
+  {
+    "style": "a",
+    "slug": "06_johnny_respect",
+    "title": "Johnny Respect",
+    "file": "jpg/a_06_johnny_respect.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "concept03/svg/06_johnny_respect.svg"
+  },
+  {
+    "style": "b",
+    "slug": "01_news",
+    "title": "Новости",
+    "file": "jpg/b_01_news.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "alternatives04/svg/news_01_megaphone.svg"
+  },
+  {
+    "style": "b",
+    "slug": "02_news_chat",
+    "title": "Чат новостей",
+    "file": "jpg/b_02_news_chat.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "concept03/svg/02_news_chat.svg"
+  },
+  {
+    "style": "b",
+    "slug": "03_moko_systems",
+    "title": "MOKO Systems",
+    "file": "jpg/b_03_moko_systems.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "group05/svg/group_04_symbol.svg"
+  },
+  {
+    "style": "b",
+    "slug": "04_moko_se_bot",
+    "title": "MOKO SE Bot",
+    "file": "jpg/b_04_moko_se_bot.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "concept03/svg/04_moko_se_bot.svg"
+  },
+  {
+    "style": "b",
+    "slug": "05_contact_bot",
+    "title": "Связь с MOKO",
+    "file": "jpg/b_05_contact_bot.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "concept03/svg/05_contact_bot.svg"
+  },
+  {
+    "style": "b",
+    "slug": "06_johnny_respect",
+    "title": "Johnny Respect",
+    "file": "jpg/b_06_johnny_respect.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "concept03/svg/06_johnny_respect.svg"
+  },
+  {
+    "style": "c",
+    "slug": "01_news",
+    "title": "Новости",
+    "file": "jpg/c_01_news.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "alternatives04/svg/news_01_megaphone.svg"
+  },
+  {
+    "style": "c",
+    "slug": "02_news_chat",
+    "title": "Чат новостей",
+    "file": "jpg/c_02_news_chat.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "concept03/svg/02_news_chat.svg"
+  },
+  {
+    "style": "c",
+    "slug": "03_moko_systems",
+    "title": "MOKO Systems",
+    "file": "jpg/c_03_moko_systems.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "group05/svg/group_04_symbol.svg"
+  },
+  {
+    "style": "c",
+    "slug": "04_moko_se_bot",
+    "title": "MOKO SE Bot",
+    "file": "jpg/c_04_moko_se_bot.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "concept03/svg/04_moko_se_bot.svg"
+  },
+  {
+    "style": "c",
+    "slug": "05_contact_bot",
+    "title": "Связь с MOKO",
+    "file": "jpg/c_05_contact_bot.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "concept03/svg/05_contact_bot.svg"
+  },
+  {
+    "style": "c",
+    "slug": "06_johnny_respect",
+    "title": "Johnny Respect",
+    "file": "jpg/c_06_johnny_respect.jpg",
+    "width": 1024,
+    "height": 1024,
+    "source_symbol": "concept03/svg/06_johnny_respect.svg"
+  }
+]

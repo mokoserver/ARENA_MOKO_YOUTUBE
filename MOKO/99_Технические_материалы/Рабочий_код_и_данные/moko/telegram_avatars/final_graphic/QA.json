@@ -1,0 +1,93 @@
+{
+  "final_direction": "В — Графический знак (исходный)",
+  "not_variants": [
+    "В1",
+    "В2"
+  ],
+  "news_symbol": "Мегафон",
+  "group_symbol": "Крупный знак MOKO",
+  "published": false,
+  "files": [
+    {
+      "file": "png/01_news.png",
+      "sha256": "552a719cd87867fe21485018c82e64b2c1b8dc66de7d2d2d22f3a609e7faa9c6",
+      "size": 54986,
+      "approved_render_match": true
+    },
+    {
+      "file": "png/02_news_chat.png",
+      "sha256": "ea3d2cd16815443a9ab9bd71a80558daf67c7e32b893d8942939d57eeeaf1a8e",
+      "size": 46262,
+      "approved_render_match": true
+    },
+    {
+      "file": "png/03_moko_systems.png",
+      "sha256": "2081331bd19a6452a9dcb51f7fdeb5a6724041c0da22560a201a2190202ba8a1",
+      "size": 57171,
+      "approved_render_match": true
+    },
+    {
+      "file": "png/04_moko_se_bot.png",
+      "sha256": "51092013428bbc2da59346a1dc1bc4a5f8dd3d3a81064dcfd9e9b0dd2ee81986",
+      "size": 52336,
+      "approved_render_match": true
+    },
+    {
+      "file": "png/05_contact_bot.png",
+      "sha256": "960e5967bee2692d12116e1478a6541cfd0421c41cbd4938af3252b02f912a91",
+      "size": 58812,
+      "approved_render_match": true
+    },
+    {
+      "file": "png/06_johnny_respect.png",
+      "sha256": "80e95d589bb8fd98fb8c90e29879b8156863682549693126ed37086bb61121c3",
+      "size": 45183,
+      "approved_render_match": true
+    }
+  ],
+  "svg_browser_comparison": {
+    "01_news.svg": {
+      "mae": 0.286,
+      "p95": 1.0
+    },
+    "02_news_chat.svg": {
+      "mae": 0.309,
+      "p95": 1.0
+    },
+    "03_moko_systems.svg": {
+      "mae": 0.295,
+      "p95": 1.0
+    },
+    "04_moko_se_bot.svg": {
+      "mae": 0.379,
+      "p95": 1.0
+    },
+    "05_contact_bot.svg": {
+      "mae": 0.338,
+      "p95": 1.0
+    },
+    "06_johnny_respect.svg": {
+      "mae": 0.296,
+      "p95": 1.0
+    }
+  },
+  "browser": {
+    "widths": [
+      390,
+      1440
+    ],
+    "cards": 6,
+    "all_images_loaded": true,
+    "modal_and_escape": true,
+    "horizontal_overflow": false,
+    "js_errors": []
+  },
+  "zip": {
+    "files": 15,
+    "png": 6,
+    "svg": 6,
+    "testzip_ok": true,
+    "png_byte_identity": true
+  },
+  "visual_review": true
+}

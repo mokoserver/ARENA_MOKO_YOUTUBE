@@ -1,0 +1,57 @@
+{
+  "news_selection": "Н1 — Мегафон",
+  "group_selection": "Г4 — Крупный знак MOKO",
+  "other_four_unchanged": true,
+  "published": false,
+  "files": [
+    {
+      "file": "png/01_news.png",
+      "source": "alternatives04/png/news_01_megaphone.png",
+      "size": 143437,
+      "sha256": "2678318a9c06b11450619dfbfb625b228ff694096fd68b38ad9a5af9e9deed8b"
+    },
+    {
+      "file": "png/02_news_chat.png",
+      "source": "concept03/png/02_news_chat.png",
+      "size": 132740,
+      "sha256": "0b0e0af059adf53e3ac72fb47b2dbb0d4cac948b6aede75380b3f6cc26bc0e67"
+    },
+    {
+      "file": "png/03_moko_systems.png",
+      "source": "group05/png/group_04_symbol.png",
+      "size": 140305,
+      "sha256": "4362417ab12ae72f901d69cbbd82bea2737f00c5044c9481ceaf1bb771a4876e"
+    },
+    {
+      "file": "png/04_moko_se_bot.png",
+      "source": "concept03/png/04_moko_se_bot.png",
+      "size": 134685,
+      "sha256": "e3bf5e9a26498079020d17fa8e56aaac9e46dd79a7f43c26cfc7452c11128df6"
+    },
+    {
+      "file": "png/05_contact_bot.png",
+      "source": "concept03/png/05_contact_bot.png",
+      "size": 153223,
+      "sha256": "6fd471542ec3c575035cc70f41f306fa96d45d0355d580513c49cf67831d0b1b"
+    },
+    {
+      "file": "png/06_johnny_respect.png",
+      "source": "concept03/png/06_johnny_respect.png",
+      "size": 132148,
+      "sha256": "72bf8f3c52c37dbff2d13315b49b69eed2f0c3810384749e982dc3a3ba75cce7"
+    }
+  ],
+  "zip_byte_identity": true,
+  "browser": {
+    "widths": [
+      390,
+      1440
+    ],
+    "cards": 6,
+    "images_loaded": true,
+    "modal_and_escape": true,
+    "overflow": false,
+    "js_errors": []
+  },
+  "visual_review": true
+}

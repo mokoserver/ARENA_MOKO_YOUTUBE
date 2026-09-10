@@ -1,0 +1,150 @@
+{
+  "count": 24,
+  "format": "static_custom_emoji",
+  "size": [
+    100,
+    100
+  ],
+  "published": false,
+  "telegram_bot_acceptance_tested": false,
+  "files": [
+    {
+      "file": "png_100/01_youtube.png",
+      "bytes": 7104,
+      "sha256": "2eaaad573eae046919b2019a5763f331e9f04567469c868d0b8abae5faa0c350"
+    },
+    {
+      "file": "png_100/02_telegram.png",
+      "bytes": 9072,
+      "sha256": "9bd38a42a4f86d1295a7671a1370cd1572c34b69331c1940aa4bd7e7296db53c"
+    },
+    {
+      "file": "png_100/03_like.png",
+      "bytes": 7645,
+      "sha256": "a610d203e21b59cd3c56ff86bc0e26d4867fa72520e00c5a1e75bfa4f2b2e12c"
+    },
+    {
+      "file": "png_100/04_dislike.png",
+      "bytes": 7382,
+      "sha256": "32b86ed3f06d34f88070cc42ecf1d9234c6b00eed2ba38e1c5a3268ba805242c"
+    },
+    {
+      "file": "png_100/05_heart.png",
+      "bytes": 7276,
+      "sha256": "a8e337d1edbf4353b856a670e25fea904f700c77f8bc75b1ed221df67bc6addd"
+    },
+    {
+      "file": "png_100/06_fire.png",
+      "bytes": 8775,
+      "sha256": "fabd1c351d6a83093bbfcb5e874d253ad4a652d0249608bc5ed3243152b53ee6"
+    },
+    {
+      "file": "png_100/07_smile.png",
+      "bytes": 7337,
+      "sha256": "9a593a6f0f56cf80e19610229cb9021dd1e5db7114ff20a92327bb8debfbbc88"
+    },
+    {
+      "file": "png_100/08_laugh.png",
+      "bytes": 9029,
+      "sha256": "b11e24d739d76790dd9a9b9199f1f37c08f191a9fbc61dfc14b947e647f29472"
+    },
+    {
+      "file": "png_100/09_wink.png",
+      "bytes": 7797,
+      "sha256": "65cc06a207f1c853f8f28f749fa5df2faf66ff5e974870153aa0cf6457909792"
+    },
+    {
+      "file": "png_100/10_thanks.png",
+      "bytes": 10196,
+      "sha256": "7e9132d62385c88f711294f44a3a599a745e122c857164828ca69b5417450ff4"
+    },
+    {
+      "file": "png_100/11_done.png",
+      "bytes": 7883,
+      "sha256": "091b3bc50c820af6b885548d3c5e111718f3096b53ad4e9b62c8acbacf99664b"
+    },
+    {
+      "file": "png_100/12_error.png",
+      "bytes": 6502,
+      "sha256": "8a406017c943e735539e358b37e8cb8ffb72fd3610d9d05062aa62f23698df1a"
+    },
+    {
+      "file": "png_100/13_question.png",
+      "bytes": 7615,
+      "sha256": "c2e723d742c9f03b40b574ab404269fdd7c93f142e5bd8fb488a4caa1d779565"
+    },
+    {
+      "file": "png_100/14_attention.png",
+      "bytes": 7022,
+      "sha256": "5efa1ea043cf224b28381f2d3705b60bfaad1717689ab99880db0ad6ca4398b1"
+    },
+    {
+      "file": "png_100/15_wait.png",
+      "bytes": 9529,
+      "sha256": "da7a6b5f1afe17c11fc2d1a29382bfd38f03d3f69f74609f4c9bb91c4a865dc8"
+    },
+    {
+      "file": "png_100/16_idea.png",
+      "bytes": 9346,
+      "sha256": "1181702e139562873eca9450943268cd4fec59d302aa034008039ca3b7deca87"
+    },
+    {
+      "file": "png_100/17_code.png",
+      "bytes": 8553,
+      "sha256": "f64296fdd2d5e3c272ec4f19e6e59537ef2d507fd7296655fcdfce683b295fd3"
+    },
+    {
+      "file": "png_100/18_python.png",
+      "bytes": 8395,
+      "sha256": "8214c2fd5075ef3ae7c9592e2c4405bfd12803b8385d80fe14dd3f538f2f09ed"
+    },
+    {
+      "file": "png_100/19_labview.png",
+      "bytes": 6799,
+      "sha256": "49149e538ed3062bb1d724d7f67281186620e3e04c146f098c094dbf24ceabcd"
+    },
+    {
+      "file": "png_100/20_measurement.png",
+      "bytes": 8787,
+      "sha256": "d51e9c865bd00114f439cca50908ae54c22e6657bf06c84886fb0d2efbc8a1d4"
+    },
+    {
+      "file": "png_100/21_hardware.png",
+      "bytes": 7766,
+      "sha256": "94a0d401ed4abe9dd8ac9f6b63f6f117d6e48f43c916aa16229b8ca7214390a2"
+    },
+    {
+      "file": "png_100/22_moko_se.png",
+      "bytes": 8894,
+      "sha256": "281562d38208d0d5ead6e552095db193a5b827946ebbbe692d091eecc932a0b3"
+    },
+    {
+      "file": "png_100/23_launch.png",
+      "bytes": 9498,
+      "sha256": "b80e74ca30c8d5f3bdca301b9bb16271aec3633fcc36966cd9452527e3050229"
+    },
+    {
+      "file": "png_100/24_moko.png",
+      "bytes": 8176,
+      "sha256": "be38512963840a80aa3ad81526fa4a40daa41f127c15077b1257c6660cdba0e4"
+    }
+  ],
+  "browser": {
+    "widths": [
+      390,
+      1440
+    ],
+    "cards": 24,
+    "all_images_loaded": true,
+    "modal_and_escape": true,
+    "light_and_dark": true,
+    "overflow": false,
+    "js_errors": []
+  },
+  "png_webp_visible_pixels_identical": true,
+  "zip": {
+    "files": 76,
+    "testzip": true,
+    "png_byte_identity": true
+  }
+}

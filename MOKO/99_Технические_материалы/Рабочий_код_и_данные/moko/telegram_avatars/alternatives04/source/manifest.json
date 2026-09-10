@@ -1,0 +1,68 @@
+[
+  {
+    "code": "N1",
+    "label": "Н1",
+    "slug": "news_01_megaphone",
+    "title": "Новости · Мегафон",
+    "description": "Обновления и объявления",
+    "kind": "news",
+    "recommended": true,
+    "png": "png/news_01_megaphone.png",
+    "svg": "svg/news_01_megaphone.svg"
+  },
+  {
+    "code": "N2",
+    "label": "Н2",
+    "slug": "news_02_broadcast",
+    "title": "Новости · Вещание",
+    "description": "Публикации и трансляция новостей",
+    "kind": "news",
+    "recommended": false,
+    "png": "png/news_02_broadcast.png",
+    "svg": "svg/news_02_broadcast.svg"
+  },
+  {
+    "code": "N3",
+    "label": "Н3",
+    "slug": "news_03_lightning",
+    "title": "Новости · Молния",
+    "description": "Быстрые и важные обновления",
+    "kind": "news",
+    "recommended": false,
+    "png": "png/news_03_lightning.png",
+    "svg": "svg/news_03_lightning.svg"
+  },
+  {
+    "code": "G1",
+    "label": "Г1",
+    "slug": "group_01_network",
+    "title": "Группа · Связанные узлы",
+    "description": "Взаимодействие участников",
+    "kind": "group",
+    "recommended": false,
+    "png": "png/group_01_network.png",
+    "svg": "svg/group_01_network.svg"
+  },
+  {
+    "code": "G2",
+    "label": "Г2",
+    "slug": "group_02_sections",
+    "title": "Группа · Дерево разделов",
+    "description": "Одна группа — несколько тем",
+    "kind": "group",
+    "recommended": true,
+    "png": "png/group_02_sections.png",
+    "svg": "svg/group_02_sections.svg"
+  },
+  {
+    "code": "G3",
+    "label": "Г3",
+    "slug": "group_03_team",
+    "title": "Группа · Команда",
+    "description": "Люди и общение",
+    "kind": "group",
+    "recommended": false,
+    "png": "png/group_03_team.png",
+    "svg": "svg/group_03_team.svg"
+  }
+]

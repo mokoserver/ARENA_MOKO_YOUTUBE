@@ -1,0 +1,46 @@
+{
+  "status": "alternatives_awaiting_selection",
+  "background_and_footer_preserved": true,
+  "other_four_avatars_changed": false,
+  "files": [
+    {
+      "file": "png/news_01_megaphone.png",
+      "sha256": "2678318a9c06b11450619dfbfb625b228ff694096fd68b38ad9a5af9e9deed8b"
+    },
+    {
+      "file": "png/news_02_broadcast.png",
+      "sha256": "4a4f1004a4ba2a80f5dc4261471f0b3d911ee4ccfc437bf97b713db0c2663f47"
+    },
+    {
+      "file": "png/news_03_lightning.png",
+      "sha256": "267d3f392832114fe0d78d69a2094133755f952db4d459cc8cf13acba3933f0d"
+    },
+    {
+      "file": "png/group_01_network.png",
+      "sha256": "7bced5233b1d880635aff20d3d572292f7f75bae1419668e042e807ab7b01e3f"
+    },
+    {
+      "file": "png/group_02_sections.png",
+      "sha256": "d7056ce3bf5b76f270cfc61b14e42fc166a8f73812d5a8e9155bd81e02a7c9a4"
+    },
+    {
+      "file": "png/group_03_team.png",
+      "sha256": "bb12ea573f1fc0a54c7101ba072f2403166a746c7d6fe5d9fbf91d1ef0312839"
+    }
+  ],
+  "browser": {
+    "widths": [
+      390,
+      1440
+    ],
+    "cards": 6,
+    "all_images_loaded": true,
+    "modal_and_escape": true,
+    "overflow": false,
+    "js_errors": []
+  },
+  "visual_review": {
+    "overview": true,
+    "small_48px": true
+  }
+}

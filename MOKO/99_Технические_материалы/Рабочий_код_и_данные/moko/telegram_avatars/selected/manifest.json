@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "01_news",
+    "title": "Новости",
+    "description": "Новостной канал",
+    "color": "#167DA4",
+    "png": "png/01_news.png",
+    "svg": "svg/01_news.svg",
+    "source_png": "alternatives04/png/news_01_megaphone.png",
+    "source_svg": "alternatives04/svg/news_01_megaphone.svg",
+    "symbol": "Мегафон"
+  },
+  {
+    "slug": "02_news_chat",
+    "title": "Чат новостей",
+    "description": "Обсуждение публикаций",
+    "color": "#7950AD",
+    "png": "png/02_news_chat.png",
+    "svg": "svg/02_news_chat.svg",
+    "source_png": "concept03/png/02_news_chat.png",
+    "source_svg": "concept03/svg/02_news_chat.svg",
+    "symbol": "Диалоги"
+  },
+  {
+    "slug": "03_moko_systems",
+    "title": "MOKO Systems",
+    "description": "Группа с разделами",
+    "color": "#B93636",
+    "png": "png/03_moko_systems.png",
+    "svg": "svg/03_moko_systems.svg",
+    "source_png": "group05/png/group_04_symbol.png",
+    "source_svg": "group05/svg/group_04_symbol.svg",
+    "symbol": "Крупный знак MOKO"
+  },
+  {
+    "slug": "04_moko_se_bot",
+    "title": "MOKO SE Bot",
+    "description": "Бот-диспетчер для MOKO SE",
+    "color": "#087E75",
+    "png": "png/04_moko_se_bot.png",
+    "svg": "svg/04_moko_se_bot.svg",
+    "source_png": "concept03/png/04_moko_se_bot.png",
+    "source_svg": "concept03/svg/04_moko_se_bot.svg",
+    "symbol": "Робот SE"
+  },
+  {
+    "slug": "05_contact_bot",
+    "title": "Связь с MOKO",
+    "description": "Бот для обращений к команде",
+    "color": "#B85D1B",
+    "png": "png/05_contact_bot.png",
+    "svg": "svg/05_contact_bot.svg",
+    "source_png": "concept03/png/05_contact_bot.png",
+    "source_svg": "concept03/svg/05_contact_bot.svg",
+    "symbol": "Гарнитура"
+  },
+  {
+    "slug": "06_johnny_respect",
+    "title": "Johnny Respect",
+    "description": "Личный бот",
+    "color": "#172238",
+    "png": "png/06_johnny_respect.png",
+    "svg": "svg/06_johnny_respect.svg",
+    "source_png": "concept03/png/06_johnny_respect.png",
+    "source_svg": "concept03/svg/06_johnny_respect.svg",
+    "symbol": "JR"
+  }
+]

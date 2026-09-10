@@ -1,0 +1,44 @@
+[
+  {
+    "id": "tgIy0Ra-mn0",
+    "headline": "Структура папок",
+    "lesson": "0.1",
+    "note": "По описанию: назначение Data, Drivers, Images, Plugins, Projects, PythonLibrary и остальных папок. Иллюстрация папок, не абстрактное дерево данных из урока 14.",
+    "path": "/home/user/moko/production/thumbnails/tgIy0Ra-mn0.jpg"
+  },
+  {
+    "id": "pzxfkmvQW2U",
+    "headline": "Собираем проект",
+    "lesson": "1",
+    "note": "Подключение трёх скриптов, MOKO.py и шаблона Microsoft Word. Концептуальная схема сборки, без выдуманных настроек программы.",
+    "path": "/home/user/moko/production/thumbnails/pzxfkmvQW2U.jpg"
+  },
+  {
+    "id": "9QniN5XarQo",
+    "headline": "Запускаем проект",
+    "lesson": "2",
+    "note": "Описание и главы: изменение имени скрипта, заполнение трёх скриптов и повторные запуски. Не смешивать со сборкой проекта в уроке 1.",
+    "path": "/home/user/moko/production/thumbnails/9QniN5XarQo.jpg"
+  },
+  {
+    "id": "koGtgs5iNfk",
+    "headline": "Типы сообщений",
+    "lesson": "3",
+    "note": "Исправлен прежний черновой смысл «этапы программы». В описании перечислены типы info, error, plugin, driver, report, warning. Правая карточка — схема типов, не снимок интерфейса.",
+    "path": "/home/user/moko/production/thumbnails/koGtgs5iNfk.jpg"
+  },
+  {
+    "id": "w9YARQn9SFs",
+    "headline": "Диалоговые окна",
+    "lesson": "4",
+    "note": "Messenger формирует окна, таймер, ввод string/boolean, выбор и изображения. Не изображать социальный мессенджер, Telegram или переписку.",
+    "path": "/home/user/moko/production/thumbnails/w9YARQn9SFs.jpg"
+  },
+  {
+    "id": "S3gTxhKKBOs",
+    "headline": "Обмен с приборами",
+    "lesson": "6",
+    "note": "Устанавливаем значения и получаем данные через функцию Driver; далее формируется протокол Word. Это Python-урок, не курс разработки LabVIEW-драйвера. Прибор — условная иллюстрация без модели и показаний.",
+    "path": "/home/user/moko/production/thumbnails/S3gTxhKKBOs.jpg"
+  }
+]
