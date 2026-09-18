@@ -12,12 +12,15 @@ parser.add_argument('--destination',default='/home/user/.cache/MOKO_workbench')
 parser.add_argument('--hydrate-archived',action='store_true',help='Also recreate earlier archived PNG intermediates from their ZIP or SVG sources.')
 args=parser.parse_args()
 plan=json.loads((HERE/'Карта_переноса.json').read_text())
+verified=0
 for row in plan['files']:
+ if row.get('removed'):continue
  source=PROJECT/row['new']
  assert source.is_file(),str(source)
  assert source.stat().st_size==row['size'],str(source)
  assert hashlib.sha256(source.read_bytes()).hexdigest()==row['sha256'],str(source)
-print('Verified',len(plan['files']),'unchanged original files.')
+ verified+=1
+print('Verified',verified,'unchanged original files; skipped',len(plan['files'])-verified,'rows removed by user cleanup.')
 if not args.restore:raise SystemExit(0)
 dest=Path(args.destination).resolve()
 assert dest.is_relative_to(Path('/home/user')), 'Destination must stay inside the workspace.'
@@ -25,6 +28,7 @@ assert not dest.is_relative_to(PROJECT), 'Do not restore into the sorted deliver
 if dest.exists() and any(dest.iterdir()):raise SystemExit('Destination is not empty. Choose another cache directory.')
 dest.mkdir(parents=True,exist_ok=True)
 for row in plan['files']:
+ if row.get('removed'):continue
  src=PROJECT/row['new'];dst=dest/row['old'];dst.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(src,dst)
  # Only the disposable working copy is patched. Archived source files remain byte-identical.
  if dst.suffix.lower() in ['.py','.json','.md','.txt','.csv']:

@@ -73,7 +73,8 @@
       "format": "JPG",
       "dimensions": "1968 × 1012",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/batch02/new_items.json",
@@ -115,7 +116,8 @@
       "format": "PNG",
       "dimensions": "1280 × 720",
       "theme": "Python — автоматизация в MOKO SE",
-      "video_id": "9QniN5XarQo"
+      "video_id": "9QniN5XarQo",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/batch03/S3gTxhKKBOs.png",
@@ -129,7 +131,8 @@
       "format": "PNG",
       "dimensions": "1280 × 720",
       "theme": "Python — автоматизация в MOKO SE",
-      "video_id": "S3gTxhKKBOs"
+      "video_id": "S3gTxhKKBOs",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/batch03/assets/dialog.png",
@@ -213,7 +216,8 @@
       "format": "JPG",
       "dimensions": "1968 × 1040",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/batch03/koGtgs5iNfk.png",
@@ -227,7 +231,8 @@
       "format": "PNG",
       "dimensions": "1280 × 720",
       "theme": "Python — автоматизация в MOKO SE",
-      "video_id": "koGtgs5iNfk"
+      "video_id": "koGtgs5iNfk",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/batch03/new_items.json",
@@ -255,7 +260,8 @@
       "format": "PNG",
       "dimensions": "1280 × 720",
       "theme": "Python — автоматизация в MOKO SE",
-      "video_id": "pzxfkmvQW2U"
+      "video_id": "pzxfkmvQW2U",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/batch03/render.py",
@@ -409,7 +415,8 @@
       "format": "PNG",
       "dimensions": "1280 × 720",
       "theme": "Python — автоматизация в MOKO SE",
-      "video_id": "tgIy0Ra-mn0"
+      "video_id": "tgIy0Ra-mn0",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/batch03/update_registry.py",
@@ -437,7 +444,8 @@
       "format": "PNG",
       "dimensions": "1280 × 720",
       "theme": "Python — автоматизация в MOKO SE",
-      "video_id": "w9YARQn9SFs"
+      "video_id": "w9YARQn9SFs",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/brand/Inter.ttf",
@@ -507,7 +515,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/branded/graph_art.png",
@@ -521,7 +530,8 @@
       "format": "PNG",
       "dimensions": "1376 × 768",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/branded/render.py",
@@ -549,7 +559,8 @@
       "format": "JPG",
       "dimensions": "1600 × 606",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/branding/MOKO_Инструкция_по_оформлению.docx",
@@ -3223,7 +3234,8 @@
       "format": "JPG",
       "dimensions": "1344 × 1256",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/concepts/01_graph.png",
@@ -3237,7 +3249,8 @@
       "format": "PNG",
       "dimensions": "1376 × 768",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/concepts/01_graph_1280x720.jpg",
@@ -3251,7 +3264,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/concepts/02_drivers.png",
@@ -3265,7 +3279,8 @@
       "format": "PNG",
       "dimensions": "1376 × 768",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/concepts/02_drivers_1280x720.jpg",
@@ -3279,7 +3294,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/concepts/03_headlight.png",
@@ -3293,7 +3309,8 @@
       "format": "PNG",
       "dimensions": "1376 × 768",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/concepts/03_headlight_1280x720.jpg",
@@ -3307,7 +3324,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/concepts.zip",
@@ -3321,7 +3339,8 @@
       "format": "ZIP",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/current_overview.jpg",
@@ -3335,7 +3354,8 @@
       "format": "JPG",
       "dimensions": "1200 × 2700",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/docs/MOKO_Правила_обложек_v1.1.docx",
@@ -3349,7 +3369,8 @@
       "format": "DOCX",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/docs/MOKO_Правила_обложек_v1.docx",
@@ -3363,7 +3384,8 @@
       "format": "DOCX",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/docs/MOKO_Правила_обложек_v1.md",
@@ -3377,7 +3399,8 @@
       "format": "MD",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/docs/MOKO_Реестр_94_видео.csv",
@@ -3391,7 +3414,8 @@
       "format": "CSV",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/docs/MOKO_Реестр_94_видео_v1.1.csv",
@@ -3405,7 +3429,8 @@
       "format": "CSV",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/docs/MOKO_Реестр_94_видео_и_плейлисты.xlsx",
@@ -3419,7 +3444,8 @@
       "format": "XLSX",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/docs/MOKO_Реестр_94_видео_и_плейлисты_v1.1.xlsx",
@@ -3433,7 +3459,8 @@
       "format": "XLSX",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/docs/MOKO_Сводная_карта_плейлистов_v1.1.docx",
@@ -3447,7 +3474,8 @@
       "format": "DOCX",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/docs/MOKO_Сводная_карта_плейлистов_v1.docx",
@@ -3461,7 +3489,8 @@
       "format": "DOCX",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/docs/build_documents.py",
@@ -3479,7 +3508,7 @@
     },
     {
       "old": "moko/emoji/MOKO_24_эмодзи_v01.zip",
-      "new": "02_Telegram/02_Эмодзи_24/MOKO_24_эмодзи_v01.zip",
+      "new": "02_Telegram/02_Эмодзи_27/MOKO_24_эмодзи_v01.zip",
       "size": 767023,
       "sha256": "90f75884701f92a11bc66bd573996f965519064561b0c80e19c9a531fe9ed0c6",
       "platform": "Telegram",
@@ -3493,12 +3522,12 @@
     },
     {
       "old": "moko/emoji/MOKO_Эмодзи_Превью.jpg",
-      "new": "02_Telegram/02_Эмодзи_24/MOKO_Эмодзи_Превью.jpg",
-      "size": 227216,
-      "sha256": "efe54d048038705fade48e64295b880c574ac32bbde6fe8eed55ab473040dc20",
+      "new": "02_Telegram/02_Эмодзи_27/MOKO_Эмодзи_Превью.jpg",
+      "size": 252417,
+      "sha256": "39623b6c155a143ae2ad1fa7e21f07f424ee51b96ac91cac1432a430114e0778",
       "platform": "Telegram",
       "section": "Кастомные эмодзи",
-      "status": "24 статичных · не опубликовано",
+      "status": "24 статичных · не опубликовано · обновлено v02 18.09.2026",
       "name": "MOKO_Эмодзи_Превью",
       "format": "JPG",
       "dimensions": "1440 × 1320",
@@ -3507,12 +3536,12 @@
     },
     {
       "old": "moko/emoji/MOKO_Эмодзи_Просмотр.html",
-      "new": "02_Telegram/02_Эмодзи_24/MOKO_Эмодзи_Просмотр.html",
-      "size": 320092,
-      "sha256": "07f638ec553d6b12004244c16ee66d44276f046bf873b6d4c8efed91eccb0290",
+      "new": "02_Telegram/02_Эмодзи_27/MOKO_Эмодзи_Просмотр.html",
+      "size": 364521,
+      "sha256": "b9ab2336f2a3e432191f79d059188d664b5871f8cbe5f270f4391052fd0cc144",
       "platform": "Telegram",
       "section": "Кастомные эмодзи",
-      "status": "24 статичных · не опубликовано",
+      "status": "24 статичных · не опубликовано · обновлено v02 18.09.2026",
       "name": "MOKO_Эмодзи_Просмотр",
       "format": "HTML",
       "dimensions": "",
@@ -3521,12 +3550,12 @@
     },
     {
       "old": "moko/emoji/README.md",
-      "new": "02_Telegram/02_Эмодзи_24/README.md",
-      "size": 4255,
-      "sha256": "3b8e4da434ee1c5bab1c0383953d5c448976684535b21f9c80baff057e755c1c",
+      "new": "02_Telegram/02_Эмодзи_27/README.md",
+      "size": 2612,
+      "sha256": "078bdf00364eec493c791209794f90034652f17e549b7e5227c9b8d92d0d9ac0",
       "platform": "Telegram",
       "section": "Кастомные эмодзи",
-      "status": "24 статичных · не опубликовано",
+      "status": "24 статичных · не опубликовано · обновлено v02 18.09.2026",
       "name": "README",
       "format": "MD",
       "dimensions": "",
@@ -3535,7 +3564,7 @@
     },
     {
       "old": "moko/emoji/png_100/01_youtube.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/01_youtube.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/01_youtube.png",
       "size": 7104,
       "sha256": "2eaaad573eae046919b2019a5763f331e9f04567469c868d0b8abae5faa0c350",
       "platform": "Telegram",
@@ -3549,7 +3578,7 @@
     },
     {
       "old": "moko/emoji/png_100/02_telegram.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/02_telegram.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/02_telegram.png",
       "size": 9072,
       "sha256": "9bd38a42a4f86d1295a7671a1370cd1572c34b69331c1940aa4bd7e7296db53c",
       "platform": "Telegram",
@@ -3563,7 +3592,7 @@
     },
     {
       "old": "moko/emoji/png_100/03_like.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/03_like.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/03_like.png",
       "size": 7645,
       "sha256": "a610d203e21b59cd3c56ff86bc0e26d4867fa72520e00c5a1e75bfa4f2b2e12c",
       "platform": "Telegram",
@@ -3577,7 +3606,7 @@
     },
     {
       "old": "moko/emoji/png_100/04_dislike.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/04_dislike.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/04_dislike.png",
       "size": 7382,
       "sha256": "32b86ed3f06d34f88070cc42ecf1d9234c6b00eed2ba38e1c5a3268ba805242c",
       "platform": "Telegram",
@@ -3591,7 +3620,7 @@
     },
     {
       "old": "moko/emoji/png_100/05_heart.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/05_heart.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/05_heart.png",
       "size": 7276,
       "sha256": "a8e337d1edbf4353b856a670e25fea904f700c77f8bc75b1ed221df67bc6addd",
       "platform": "Telegram",
@@ -3605,7 +3634,7 @@
     },
     {
       "old": "moko/emoji/png_100/06_fire.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/06_fire.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/06_fire.png",
       "size": 8775,
       "sha256": "fabd1c351d6a83093bbfcb5e874d253ad4a652d0249608bc5ed3243152b53ee6",
       "platform": "Telegram",
@@ -3619,7 +3648,7 @@
     },
     {
       "old": "moko/emoji/png_100/07_smile.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/07_smile.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/07_smile.png",
       "size": 7337,
       "sha256": "9a593a6f0f56cf80e19610229cb9021dd1e5db7114ff20a92327bb8debfbbc88",
       "platform": "Telegram",
@@ -3633,7 +3662,7 @@
     },
     {
       "old": "moko/emoji/png_100/08_laugh.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/08_laugh.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/08_laugh.png",
       "size": 9029,
       "sha256": "b11e24d739d76790dd9a9b9199f1f37c08f191a9fbc61dfc14b947e647f29472",
       "platform": "Telegram",
@@ -3647,7 +3676,7 @@
     },
     {
       "old": "moko/emoji/png_100/09_wink.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/09_wink.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/09_wink.png",
       "size": 7797,
       "sha256": "65cc06a207f1c853f8f28f749fa5df2faf66ff5e974870153aa0cf6457909792",
       "platform": "Telegram",
@@ -3661,7 +3690,7 @@
     },
     {
       "old": "moko/emoji/png_100/10_thanks.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/10_thanks.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/10_thanks.png",
       "size": 10196,
       "sha256": "7e9132d62385c88f711294f44a3a599a745e122c857164828ca69b5417450ff4",
       "platform": "Telegram",
@@ -3675,7 +3704,7 @@
     },
     {
       "old": "moko/emoji/png_100/11_done.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/11_done.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/11_done.png",
       "size": 7883,
       "sha256": "091b3bc50c820af6b885548d3c5e111718f3096b53ad4e9b62c8acbacf99664b",
       "platform": "Telegram",
@@ -3689,7 +3718,7 @@
     },
     {
       "old": "moko/emoji/png_100/12_error.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/12_error.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/12_error.png",
       "size": 6502,
       "sha256": "8a406017c943e735539e358b37e8cb8ffb72fd3610d9d05062aa62f23698df1a",
       "platform": "Telegram",
@@ -3703,7 +3732,7 @@
     },
     {
       "old": "moko/emoji/png_100/13_question.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/13_question.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/13_question.png",
       "size": 7615,
       "sha256": "c2e723d742c9f03b40b574ab404269fdd7c93f142e5bd8fb488a4caa1d779565",
       "platform": "Telegram",
@@ -3717,7 +3746,7 @@
     },
     {
       "old": "moko/emoji/png_100/14_attention.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/14_attention.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/14_attention.png",
       "size": 7022,
       "sha256": "5efa1ea043cf224b28381f2d3705b60bfaad1717689ab99880db0ad6ca4398b1",
       "platform": "Telegram",
@@ -3731,7 +3760,7 @@
     },
     {
       "old": "moko/emoji/png_100/15_wait.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/15_wait.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/15_wait.png",
       "size": 9529,
       "sha256": "da7a6b5f1afe17c11fc2d1a29382bfd38f03d3f69f74609f4c9bb91c4a865dc8",
       "platform": "Telegram",
@@ -3745,7 +3774,7 @@
     },
     {
       "old": "moko/emoji/png_100/16_idea.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/16_idea.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/16_idea.png",
       "size": 9346,
       "sha256": "1181702e139562873eca9450943268cd4fec59d302aa034008039ca3b7deca87",
       "platform": "Telegram",
@@ -3759,7 +3788,7 @@
     },
     {
       "old": "moko/emoji/png_100/17_code.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/17_code.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/17_code.png",
       "size": 8553,
       "sha256": "f64296fdd2d5e3c272ec4f19e6e59537ef2d507fd7296655fcdfce683b295fd3",
       "platform": "Telegram",
@@ -3773,7 +3802,7 @@
     },
     {
       "old": "moko/emoji/png_100/18_python.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/18_python.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/18_python.png",
       "size": 8395,
       "sha256": "8214c2fd5075ef3ae7c9592e2c4405bfd12803b8385d80fe14dd3f538f2f09ed",
       "platform": "Telegram",
@@ -3787,7 +3816,7 @@
     },
     {
       "old": "moko/emoji/png_100/19_labview.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/19_labview.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/19_labview.png",
       "size": 6799,
       "sha256": "49149e538ed3062bb1d724d7f67281186620e3e04c146f098c094dbf24ceabcd",
       "platform": "Telegram",
@@ -3801,7 +3830,7 @@
     },
     {
       "old": "moko/emoji/png_100/20_measurement.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/20_measurement.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/20_measurement.png",
       "size": 8787,
       "sha256": "d51e9c865bd00114f439cca50908ae54c22e6657bf06c84886fb0d2efbc8a1d4",
       "platform": "Telegram",
@@ -3815,7 +3844,7 @@
     },
     {
       "old": "moko/emoji/png_100/21_hardware.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/21_hardware.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/21_hardware.png",
       "size": 7766,
       "sha256": "94a0d401ed4abe9dd8ac9f6b63f6f117d6e48f43c916aa16229b8ca7214390a2",
       "platform": "Telegram",
@@ -3829,7 +3858,7 @@
     },
     {
       "old": "moko/emoji/png_100/22_moko_se.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/22_moko_se.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/22_moko_se.png",
       "size": 8894,
       "sha256": "281562d38208d0d5ead6e552095db193a5b827946ebbbe692d091eecc932a0b3",
       "platform": "Telegram",
@@ -3843,7 +3872,7 @@
     },
     {
       "old": "moko/emoji/png_100/23_launch.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/23_launch.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/23_launch.png",
       "size": 9498,
       "sha256": "b80e74ca30c8d5f3bdca301b9bb16271aec3633fcc36966cd9452527e3050229",
       "platform": "Telegram",
@@ -3857,7 +3886,7 @@
     },
     {
       "old": "moko/emoji/png_100/24_moko.png",
-      "new": "02_Telegram/02_Эмодзи_24/png_100/24_moko.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/24_moko.png",
       "size": 8176,
       "sha256": "be38512963840a80aa3ad81526fa4a40daa41f127c15077b1257c6660cdba0e4",
       "platform": "Telegram",
@@ -3927,7 +3956,7 @@
     },
     {
       "old": "moko/emoji/svg/01_youtube.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/01_youtube.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/01_youtube.svg",
       "size": 885,
       "sha256": "f13469d362fc166b86a30850ef374b8ed7c3502a31849833172a0fa5e2774577",
       "platform": "Telegram",
@@ -3941,7 +3970,7 @@
     },
     {
       "old": "moko/emoji/svg/02_telegram.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/02_telegram.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/02_telegram.svg",
       "size": 961,
       "sha256": "31a030b3230122afd3b9a194d36fd088184e99245c1bc6a707d32e4724eeee3f",
       "platform": "Telegram",
@@ -3955,7 +3984,7 @@
     },
     {
       "old": "moko/emoji/svg/03_like.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/03_like.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/03_like.svg",
       "size": 1066,
       "sha256": "08b2dad160897df1090ee5c6a912c6202b8a3fc01f89430f815e12c651506e7c",
       "platform": "Telegram",
@@ -3969,7 +3998,7 @@
     },
     {
       "old": "moko/emoji/svg/04_dislike.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/04_dislike.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/04_dislike.svg",
       "size": 1114,
       "sha256": "8b8145bafe7171c05440a2a2fd8bf684cbdc8093b4db33350a3fc96b6454105f",
       "platform": "Telegram",
@@ -3983,7 +4012,7 @@
     },
     {
       "old": "moko/emoji/svg/05_heart.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/05_heart.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/05_heart.svg",
       "size": 872,
       "sha256": "9bd12134b1a8a208360868a0eca14c3f186fbf9f261bbedd675e32889dd23c6e",
       "platform": "Telegram",
@@ -3997,7 +4026,7 @@
     },
     {
       "old": "moko/emoji/svg/06_fire.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/06_fire.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/06_fire.svg",
       "size": 984,
       "sha256": "06448cd4d4fbed043102e970985294854710c2ff3c2f6b96c094e8bcd335a2df",
       "platform": "Telegram",
@@ -4011,7 +4040,7 @@
     },
     {
       "old": "moko/emoji/svg/07_smile.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/07_smile.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/07_smile.svg",
       "size": 991,
       "sha256": "b5f2d7717f7be2fef1d06d50581a74183e420f85f7dde79470a9d55d87ac13e6",
       "platform": "Telegram",
@@ -4025,7 +4054,7 @@
     },
     {
       "old": "moko/emoji/svg/08_laugh.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/08_laugh.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/08_laugh.svg",
       "size": 1194,
       "sha256": "81cb3f7b890803452eb1ba00555f2f919d9bbe131003110275430c80048a29f6",
       "platform": "Telegram",
@@ -4039,7 +4068,7 @@
     },
     {
       "old": "moko/emoji/svg/09_wink.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/09_wink.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/09_wink.svg",
       "size": 963,
       "sha256": "bf4006ebe70530157538738ece8be10f57b7d0d67b16aeea6159c0179f566c78",
       "platform": "Telegram",
@@ -4053,7 +4082,7 @@
     },
     {
       "old": "moko/emoji/svg/10_thanks.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/10_thanks.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/10_thanks.svg",
       "size": 1252,
       "sha256": "7b1a7d89c9a39f7b402ae5c231501438dfea2028535ab42248f1f1c1dda3eeb0",
       "platform": "Telegram",
@@ -4067,7 +4096,7 @@
     },
     {
       "old": "moko/emoji/svg/11_done.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/11_done.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/11_done.svg",
       "size": 895,
       "sha256": "579f961ab47e8360c71647e311037aa64092c49a5008e7995cccb0f597133e81",
       "platform": "Telegram",
@@ -4081,7 +4110,7 @@
     },
     {
       "old": "moko/emoji/svg/12_error.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/12_error.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/12_error.svg",
       "size": 903,
       "sha256": "e4c981d2b71e67f0e52a81a796c2c2ba53108eb743d56082c14cec318e329b01",
       "platform": "Telegram",
@@ -4095,7 +4124,7 @@
     },
     {
       "old": "moko/emoji/svg/13_question.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/13_question.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/13_question.svg",
       "size": 3049,
       "sha256": "48635278b8838dc5c2d9ddc6bb08dd10163dc21ffe274190f7a0ccb8328034ee",
       "platform": "Telegram",
@@ -4109,7 +4138,7 @@
     },
     {
       "old": "moko/emoji/svg/14_attention.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/14_attention.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/14_attention.svg",
       "size": 1035,
       "sha256": "bf658daf34e0828a6cb8083886e8c575624d3e278fa04379edb1be5586890543",
       "platform": "Telegram",
@@ -4123,7 +4152,7 @@
     },
     {
       "old": "moko/emoji/svg/15_wait.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/15_wait.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/15_wait.svg",
       "size": 1043,
       "sha256": "28e731881a683c6470fe52c609d15bec6916d5903412682f8b809e339b68dcd7",
       "platform": "Telegram",
@@ -4137,7 +4166,7 @@
     },
     {
       "old": "moko/emoji/svg/16_idea.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/16_idea.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/16_idea.svg",
       "size": 1076,
       "sha256": "4a230325bb2e21287edd01d187f01bc982df23b83f33a6d5774e9fe67d11c52a",
       "platform": "Telegram",
@@ -4151,7 +4180,7 @@
     },
     {
       "old": "moko/emoji/svg/17_code.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/17_code.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/17_code.svg",
       "size": 927,
       "sha256": "983a69a96f7257537d0a08b0715993d1b943b0bc07a791f714e9047c904cc1fc",
       "platform": "Telegram",
@@ -4165,7 +4194,7 @@
     },
     {
       "old": "moko/emoji/svg/18_python.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/18_python.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/18_python.svg",
       "size": 3071,
       "sha256": "27d03215a7ff29def38f2486788343c05dc3bb12eda89e58c5b9307f51088b63",
       "platform": "Telegram",
@@ -4179,7 +4208,7 @@
     },
     {
       "old": "moko/emoji/svg/19_labview.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/19_labview.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/19_labview.svg",
       "size": 1104,
       "sha256": "ec32c511a7ea9df24c1f95d6a18bacddb52be11bc90079d9fa1ba69d59f47496",
       "platform": "Telegram",
@@ -4193,7 +4222,7 @@
     },
     {
       "old": "moko/emoji/svg/20_measurement.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/20_measurement.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/20_measurement.svg",
       "size": 1135,
       "sha256": "deea3fa213df92799cb1f3d5639e370c2c178c09b5125053a57c62360e8433aa",
       "platform": "Telegram",
@@ -4207,7 +4236,7 @@
     },
     {
       "old": "moko/emoji/svg/21_hardware.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/21_hardware.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/21_hardware.svg",
       "size": 1642,
       "sha256": "ea1ae24c2e19885f8502caa2ec7a8900426d5376950138336ef4dbb86705d5a3",
       "platform": "Telegram",
@@ -4221,7 +4250,7 @@
     },
     {
       "old": "moko/emoji/svg/22_moko_se.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/22_moko_se.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/22_moko_se.svg",
       "size": 4039,
       "sha256": "c6302e5e3904a92805a1e30acb5f185e2dd9d9b198c11dd1163bbe71c8476094",
       "platform": "Telegram",
@@ -4235,7 +4264,7 @@
     },
     {
       "old": "moko/emoji/svg/23_launch.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/23_launch.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/23_launch.svg",
       "size": 1011,
       "sha256": "30c66bc345fa41133d7fb4e1dfca689a6fa67cd1a6b71547be042ed9b328993e",
       "platform": "Telegram",
@@ -4249,7 +4278,7 @@
     },
     {
       "old": "moko/emoji/svg/24_moko.svg",
-      "new": "02_Telegram/02_Эмодзи_24/svg/24_moko.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/24_moko.svg",
       "size": 1227,
       "sha256": "707ed19909dd6ebc2526c4ccdf8900cfadcb47bbd3c7578f6457f23a06ef6c54",
       "platform": "Telegram",
@@ -4263,7 +4292,7 @@
     },
     {
       "old": "moko/emoji/webp_100/01_youtube.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/01_youtube.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/01_youtube.webp",
       "size": 4440,
       "sha256": "280b58810d566e86f23eb30303e2d1ad3da2cfaff9d6fec3a0a25229cc332b29",
       "platform": "Telegram",
@@ -4277,7 +4306,7 @@
     },
     {
       "old": "moko/emoji/webp_100/02_telegram.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/02_telegram.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/02_telegram.webp",
       "size": 5658,
       "sha256": "5f71abfdee6d403f22ad65e9839e32432c7bc0b42d86b668a665500ee0c53d9b",
       "platform": "Telegram",
@@ -4291,7 +4320,7 @@
     },
     {
       "old": "moko/emoji/webp_100/03_like.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/03_like.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/03_like.webp",
       "size": 5064,
       "sha256": "6129d3951329077ee13d98a849413e0fcae1439d01b5b3c6d9f23a7d5b45b3c9",
       "platform": "Telegram",
@@ -4305,7 +4334,7 @@
     },
     {
       "old": "moko/emoji/webp_100/04_dislike.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/04_dislike.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/04_dislike.webp",
       "size": 4716,
       "sha256": "8d13ecd4a389b13b4c27fb4c85da2dca38a4eeb9eebc5de764bfa4c43f40676d",
       "platform": "Telegram",
@@ -4319,7 +4348,7 @@
     },
     {
       "old": "moko/emoji/webp_100/05_heart.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/05_heart.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/05_heart.webp",
       "size": 4608,
       "sha256": "70c86878884917eb63011ab56ccc6a66237ca9d00cd53054cec00a2fb9fe3df2",
       "platform": "Telegram",
@@ -4333,7 +4362,7 @@
     },
     {
       "old": "moko/emoji/webp_100/06_fire.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/06_fire.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/06_fire.webp",
       "size": 6074,
       "sha256": "ff0b33b56c002bb3d1968793c688d0c48f63b798c6c89663642b5617d6883dbb",
       "platform": "Telegram",
@@ -4347,7 +4376,7 @@
     },
     {
       "old": "moko/emoji/webp_100/07_smile.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/07_smile.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/07_smile.webp",
       "size": 4438,
       "sha256": "598930d35667efa909fb5295cbe6a02c62b98d717021f774e2c43dbc6eccee61",
       "platform": "Telegram",
@@ -4361,7 +4390,7 @@
     },
     {
       "old": "moko/emoji/webp_100/08_laugh.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/08_laugh.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/08_laugh.webp",
       "size": 6142,
       "sha256": "39d85081fe26d450445dff635e84bb5bb3d3e9c542ecbeb02340e4c0076bb0de",
       "platform": "Telegram",
@@ -4375,7 +4404,7 @@
     },
     {
       "old": "moko/emoji/webp_100/09_wink.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/09_wink.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/09_wink.webp",
       "size": 4692,
       "sha256": "2aa1b23d2fca246970d78296ef4df9e7c4ece4ad1254f6e7c205d22d79172223",
       "platform": "Telegram",
@@ -4389,7 +4418,7 @@
     },
     {
       "old": "moko/emoji/webp_100/10_thanks.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/10_thanks.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/10_thanks.webp",
       "size": 7242,
       "sha256": "e03f435ec55b20ad0d14c6a25aefc34151a6c098bd379ddbdd0540ccb407d5f4",
       "platform": "Telegram",
@@ -4403,7 +4432,7 @@
     },
     {
       "old": "moko/emoji/webp_100/11_done.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/11_done.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/11_done.webp",
       "size": 4652,
       "sha256": "7fcbdfe2754cf55ad84ff493fba0bac7aff9e72bd29fd179efa62f66953d8020",
       "platform": "Telegram",
@@ -4417,7 +4446,7 @@
     },
     {
       "old": "moko/emoji/webp_100/12_error.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/12_error.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/12_error.webp",
       "size": 3656,
       "sha256": "54e14b31b8ab995008b72ba3036c3d26a8fc5338bb2e40c2ff15a59fc0d2e5c9",
       "platform": "Telegram",
@@ -4431,7 +4460,7 @@
     },
     {
       "old": "moko/emoji/webp_100/13_question.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/13_question.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/13_question.webp",
       "size": 4738,
       "sha256": "dbc9d051db332406dcd6e7629af3d062386f08a506d8bfdb39ebf36d04de6f86",
       "platform": "Telegram",
@@ -4445,7 +4474,7 @@
     },
     {
       "old": "moko/emoji/webp_100/14_attention.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/14_attention.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/14_attention.webp",
       "size": 4616,
       "sha256": "021948748adced143d67ad4435010236dc5288cca285d9399e3ed3692cc38842",
       "platform": "Telegram",
@@ -4459,7 +4488,7 @@
     },
     {
       "old": "moko/emoji/webp_100/15_wait.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/15_wait.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/15_wait.webp",
       "size": 5928,
       "sha256": "92ef0c55efdb05813752eeae6417271cf724711f5657359bbb4b5ac9d8f22343",
       "platform": "Telegram",
@@ -4473,7 +4502,7 @@
     },
     {
       "old": "moko/emoji/webp_100/16_idea.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/16_idea.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/16_idea.webp",
       "size": 6124,
       "sha256": "173ea23c252b7392ebe157f10ae158cf0c709a5306ff293c170bb074a65fa2d8",
       "platform": "Telegram",
@@ -4487,7 +4516,7 @@
     },
     {
       "old": "moko/emoji/webp_100/17_code.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/17_code.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/17_code.webp",
       "size": 5004,
       "sha256": "04ea7a7b67ec470bcefc75fdd60cc52f33730a405c3c36598ed9e5c19f2c40f9",
       "platform": "Telegram",
@@ -4501,7 +4530,7 @@
     },
     {
       "old": "moko/emoji/webp_100/18_python.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/18_python.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/18_python.webp",
       "size": 5460,
       "sha256": "eb92ff6c03e5149ada04e9b4c48088ccd28666eee2ed96456d417337d6d84f49",
       "platform": "Telegram",
@@ -4515,7 +4544,7 @@
     },
     {
       "old": "moko/emoji/webp_100/19_labview.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/19_labview.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/19_labview.webp",
       "size": 4386,
       "sha256": "3349c2ffbee2f9d9de0a6e264ea0c862fcad9ee7e1faf910a27eadb278614353",
       "platform": "Telegram",
@@ -4529,7 +4558,7 @@
     },
     {
       "old": "moko/emoji/webp_100/20_measurement.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/20_measurement.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/20_measurement.webp",
       "size": 5892,
       "sha256": "4ca7df1038e5224e33b5b03402498fb08c148934ad36afc01ecd0d439d4899ef",
       "platform": "Telegram",
@@ -4543,7 +4572,7 @@
     },
     {
       "old": "moko/emoji/webp_100/21_hardware.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/21_hardware.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/21_hardware.webp",
       "size": 4602,
       "sha256": "9bdb438029736b7cda17a505e6b74b1258dd1650790ebae29d76070d40b085a2",
       "platform": "Telegram",
@@ -4557,7 +4586,7 @@
     },
     {
       "old": "moko/emoji/webp_100/22_moko_se.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/22_moko_se.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/22_moko_se.webp",
       "size": 5808,
       "sha256": "3acd60a6a98df5019be6f41227ac6f13154e3fd7620172b3ce6ebd63c0dcdaaa",
       "platform": "Telegram",
@@ -4571,7 +4600,7 @@
     },
     {
       "old": "moko/emoji/webp_100/23_launch.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/23_launch.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/23_launch.webp",
       "size": 5962,
       "sha256": "f06cf32744194802062e7aec2dcc4d581e951a97078c9d0e5e0550712ff2c65d",
       "platform": "Telegram",
@@ -4585,7 +4614,7 @@
     },
     {
       "old": "moko/emoji/webp_100/24_moko.webp",
-      "new": "02_Telegram/02_Эмодзи_24/webp_100/24_moko.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/24_moko.webp",
       "size": 5330,
       "sha256": "7d605aa0d662e5e2d17a80547dabaedd062a6b004cd187caf94c43e2d65fbafd",
       "platform": "Telegram",
@@ -4599,12 +4628,12 @@
     },
     {
       "old": "moko/emoji/Привязка_эмодзи.csv",
-      "new": "02_Telegram/02_Эмодзи_24/Привязка_эмодзи.csv",
-      "size": 1535,
-      "sha256": "93522e2309318cae8e5d2b01679ca5ed6658596089808c977f54e705b9977c61",
+      "new": "02_Telegram/02_Эмодзи_27/Привязка_эмодзи.csv",
+      "size": 1722,
+      "sha256": "06d33eb28e7a2ca4243c97fc2f89218cc3754806c462f54bf2896d56f6c37512",
       "platform": "Telegram",
       "section": "Кастомные эмодзи",
-      "status": "24 статичных · не опубликовано",
+      "status": "24 статичных · не опубликовано · обновлено v02 18.09.2026",
       "name": "Привязка_эмодзи",
       "format": "CSV",
       "dimensions": "",
@@ -6415,7 +6444,8 @@
       "format": "ZIP",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/production/README.txt",
@@ -6429,7 +6459,8 @@
       "format": "TXT",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/production/all_12_preview.jpg",
@@ -6443,7 +6474,8 @@
       "format": "JPG",
       "dimensions": "1968 × 1910",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/production/build_current.py",
@@ -6485,7 +6517,8 @@
       "format": "HTML",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/production/thumbnails/-WRagVBYLxg.jpg",
@@ -7787,7 +7820,8 @@
       "format": "ZIP",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/releases/release02/README.txt",
@@ -7801,7 +7835,8 @@
       "format": "TXT",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/releases/release02/preview_18.html",
@@ -7815,7 +7850,8 @@
       "format": "HTML",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision10/05_stream_moko_snapback.jpg",
@@ -7857,7 +7893,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision12/06_expo_stylized.jpg",
@@ -7941,7 +7978,8 @@
       "format": "ZIP",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision2/assets/driver.png",
@@ -8039,7 +8077,8 @@
       "format": "HTML",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision2/series_overview.jpg",
@@ -8053,7 +8092,8 @@
       "format": "JPG",
       "dimensions": "1968 × 1048",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision2/thumbs/01_graph.jpg",
@@ -8067,7 +8107,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision2/thumbs/02_driver.jpg",
@@ -8081,7 +8122,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision2/thumbs/03_telegram.jpg",
@@ -8095,7 +8137,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision2/thumbs/04_headlight.jpg",
@@ -8109,7 +8152,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision2/thumbs/05_stream.jpg",
@@ -8123,7 +8167,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision2/thumbs/06_expo.jpg",
@@ -8137,7 +8182,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision3/MOKO_series_v3.zip",
@@ -8151,7 +8197,8 @@
       "format": "ZIP",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision3/assets/expo_cutout.png",
@@ -8221,7 +8268,8 @@
       "format": "JPG",
       "dimensions": "1648 × 1120",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision3/build_review.py",
@@ -8249,7 +8297,8 @@
       "format": "JPG",
       "dimensions": "896 × 504",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision3/manifest.json",
@@ -8291,7 +8340,8 @@
       "format": "HTML",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision3/series_overview.jpg",
@@ -8305,7 +8355,8 @@
       "format": "JPG",
       "dimensions": "1968 × 1048",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision3/thumbs/01_graph.jpg",
@@ -8319,7 +8370,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision3/thumbs/02_driver.jpg",
@@ -8333,7 +8385,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision3/thumbs/03_telegram.jpg",
@@ -8347,7 +8400,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision3/thumbs/04_headlight.jpg",
@@ -8361,7 +8415,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision3/thumbs/05_stream.jpg",
@@ -8375,7 +8430,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision3/thumbs/06_expo.jpg",
@@ -8389,7 +8445,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision4/05_stream_framed.jpg",
@@ -8403,7 +8460,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision4/05_stream_framed.png",
@@ -8417,7 +8475,8 @@
       "format": "PNG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision4/frame_comparison.jpg",
@@ -8431,7 +8490,8 @@
       "format": "JPG",
       "dimensions": "1648 × 609",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision4/render.py",
@@ -8459,7 +8519,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision5/portrait_comparison.jpg",
@@ -8473,7 +8534,8 @@
       "format": "JPG",
       "dimensions": "1648 × 609",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision5/render.py",
@@ -8501,7 +8563,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision6/hair_reference_grid.jpg",
@@ -8515,7 +8578,8 @@
       "format": "JPG",
       "dimensions": "1000 × 710",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision7/05_stream_real_hair.jpg",
@@ -8529,7 +8593,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision7/hair_check.jpg",
@@ -8543,7 +8608,8 @@
       "format": "JPG",
       "dimensions": "1000 × 650",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision7/restore_hair.py",
@@ -8571,7 +8637,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/revision9/05_stream_cap.jpg",
@@ -8585,7 +8652,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/selected/MOKO_test_thumbnails.zip",
@@ -8599,7 +8667,8 @@
       "format": "ZIP",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/selected/all_six_previews.jpg",
@@ -8613,7 +8682,8 @@
       "format": "JPG",
       "dimensions": "1968 × 1032",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/selected/manifest.json",
@@ -8641,7 +8711,8 @@
       "format": "HTML",
       "dimensions": "",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/selected/thumbs/01_graph.jpg",
@@ -8655,7 +8726,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/selected/thumbs/02_driver.jpg",
@@ -8669,7 +8741,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/selected/thumbs/03_telegram.jpg",
@@ -8683,7 +8756,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/selected/thumbs/04_headlight.jpg",
@@ -8697,7 +8771,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/selected/thumbs/05_stream.jpg",
@@ -8711,7 +8786,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/selected/thumbs/06_expo.jpg",
@@ -8725,7 +8801,8 @@
       "format": "JPG",
       "dimensions": "1280 × 720",
       "theme": "",
-      "video_id": ""
+      "video_id": "",
+      "removed": "2026-09-18: удалено из воркспейса по запросу пользователя; резервная копия в истории GitHub"
     },
     {
       "old": "moko/telegram_avatars/MOKO_6_аватаров_Telegram.jpg",
@@ -10250,6 +10327,202 @@
       "name": "Screenshot_2026-09-09-00-25-01-437_com.google.android.apps.photos",
       "format": "JPG",
       "dimensions": "1080 × 2400",
+      "theme": "",
+      "video_id": ""
+    },
+    {
+      "old": "02_Telegram/02_Эмодзи_27/png_100/25_link.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/25_link.png",
+      "size": 10184,
+      "sha256": "49fdc0544f895f9e0de059ef3a5de63c2dd36791ded2f9bb0043e37167aedebf",
+      "platform": "Telegram",
+      "section": "Кастомные эмодзи",
+      "status": "добавлено 18.09.2026 · не опубликовано",
+      "name": "25_link",
+      "format": "PNG",
+      "dimensions": "100 × 100",
+      "theme": "",
+      "video_id": ""
+    },
+    {
+      "old": "02_Telegram/02_Эмодзи_27/webp_100/25_link.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/25_link.webp",
+      "size": 6070,
+      "sha256": "110fb50c913890d41d23b4aa99663fb9cd656266922711267a45526c33ae5c7a",
+      "platform": "Telegram",
+      "section": "Кастомные эмодзи",
+      "status": "добавлено 18.09.2026 · не опубликовано",
+      "name": "25_link",
+      "format": "WEBP",
+      "dimensions": "100 × 100",
+      "theme": "",
+      "video_id": ""
+    },
+    {
+      "old": "02_Telegram/02_Эмодзи_27/svg/25_link.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/25_link.svg",
+      "size": 1052,
+      "sha256": "42cd29418efb721d0e3396d7313f8d30e823e8cc9b170f32ee0c64af06499e82",
+      "platform": "Telegram",
+      "section": "Кастомные эмодзи",
+      "status": "добавлено 18.09.2026 · не опубликовано",
+      "name": "25_link",
+      "format": "SVG",
+      "dimensions": "вектор",
+      "theme": "",
+      "video_id": ""
+    },
+    {
+      "old": "02_Telegram/02_Эмодзи_27/png_100/26_github.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/26_github.png",
+      "size": 10103,
+      "sha256": "1b1f926d765db33e32007915e84cb4b9b880dfce4895c8cb36c0bb2b2c8d6e6f",
+      "platform": "Telegram",
+      "section": "Кастомные эмодзи",
+      "status": "добавлено 18.09.2026 · не опубликовано",
+      "name": "26_github",
+      "format": "PNG",
+      "dimensions": "100 × 100",
+      "theme": "",
+      "video_id": ""
+    },
+    {
+      "old": "02_Telegram/02_Эмодзи_27/webp_100/26_github.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/26_github.webp",
+      "size": 5928,
+      "sha256": "8f7db6fb4f3e5a40083bfa9959db4a87433550d88a4c4de1003a713bbdd123a4",
+      "platform": "Telegram",
+      "section": "Кастомные эмодзи",
+      "status": "добавлено 18.09.2026 · не опубликовано",
+      "name": "26_github",
+      "format": "WEBP",
+      "dimensions": "100 × 100",
+      "theme": "",
+      "video_id": ""
+    },
+    {
+      "old": "02_Telegram/02_Эмодзи_27/svg/26_github.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/26_github.svg",
+      "size": 1558,
+      "sha256": "691565fb37819d28a3ab8b08a55bc67101c65450ee448b28fb11907cafd735d1",
+      "platform": "Telegram",
+      "section": "Кастомные эмодзи",
+      "status": "добавлено 18.09.2026 · не опубликовано",
+      "name": "26_github",
+      "format": "SVG",
+      "dimensions": "вектор",
+      "theme": "",
+      "video_id": ""
+    },
+    {
+      "old": "02_Telegram/02_Эмодзи_27/png_100/27_info.png",
+      "new": "02_Telegram/02_Эмодзи_27/png_100/27_info.png",
+      "size": 8824,
+      "sha256": "eece2f34dbf4e5eca5424f32cc517741c4e4c76f3ff4d92f163b15aea54321a9",
+      "platform": "Telegram",
+      "section": "Кастомные эмодзи",
+      "status": "добавлено 18.09.2026 · не опубликовано",
+      "name": "27_info",
+      "format": "PNG",
+      "dimensions": "100 × 100",
+      "theme": "",
+      "video_id": ""
+    },
+    {
+      "old": "02_Telegram/02_Эмодзи_27/webp_100/27_info.webp",
+      "new": "02_Telegram/02_Эмодзи_27/webp_100/27_info.webp",
+      "size": 5134,
+      "sha256": "4e8c624c7f8e8754f40dd27063cffb4e7356d0d043b45c7d0699d3c6c6b8d886",
+      "platform": "Telegram",
+      "section": "Кастомные эмодзи",
+      "status": "добавлено 18.09.2026 · не опубликовано",
+      "name": "27_info",
+      "format": "WEBP",
+      "dimensions": "100 × 100",
+      "theme": "",
+      "video_id": ""
+    },
+    {
+      "old": "02_Telegram/02_Эмодзи_27/svg/27_info.svg",
+      "new": "02_Telegram/02_Эмодзи_27/svg/27_info.svg",
+      "size": 1002,
+      "sha256": "79faf957af7f2dd26f2a25c247294d1ebb2d059a8aefd379092b54d5c8660409",
+      "platform": "Telegram",
+      "section": "Кастомные эмодзи",
+      "status": "добавлено 18.09.2026 · не опубликовано",
+      "name": "27_info",
+      "format": "SVG",
+      "dimensions": "вектор",
+      "theme": "",
+      "video_id": ""
+    },
+    {
+      "old": "02_Telegram/02_Эмодзи_27/MOKO_27_эмодзи_v02.zip",
+      "new": "02_Telegram/02_Эмодзи_27/MOKO_27_эмодзи_v02.zip",
+      "size": 867598,
+      "sha256": "563dda439b075f25896cb1b45ba1b49a0ddba93e171e054ed52dc9d986b2bbfd",
+      "platform": "Telegram",
+      "section": "Кастомные эмодзи",
+      "status": "единый набор 27 · не опубликовано",
+      "name": "MOKO_27_эмодзи_v02",
+      "format": "ZIP",
+      "dimensions": "",
+      "theme": "",
+      "video_id": ""
+    },
+    {
+      "old": "02_Telegram/05_Аватар_MOKO_Telegraph/MOKO_Telegraph_1024.png",
+      "new": "02_Telegram/05_Аватар_MOKO_Telegraph/MOKO_Telegraph_1024.png",
+      "size": 35213,
+      "sha256": "3ce55132bc4ee422cda6bc1b8c56d7a5c80102c25117fc13f9af516ea9bb96b4",
+      "platform": "Telegram",
+      "section": "Аватар MOKO Telegraph",
+      "status": "добавлено 18.09.2026 · не установлено",
+      "name": "MOKO_Telegraph_1024",
+      "format": "PNG",
+      "dimensions": "1024 × 1024",
+      "theme": "",
+      "video_id": ""
+    },
+    {
+      "old": "02_Telegram/05_Аватар_MOKO_Telegraph/MOKO_Telegraph.svg",
+      "new": "02_Telegram/05_Аватар_MOKO_Telegraph/MOKO_Telegraph.svg",
+      "size": 1137,
+      "sha256": "de0fb893a64fb8b74bb739c3a64f40b45d62e7f14b54b47376e8e4f74dda8be3",
+      "platform": "Telegram",
+      "section": "Аватар MOKO Telegraph",
+      "status": "добавлено 18.09.2026 · не установлено",
+      "name": "MOKO_Telegraph",
+      "format": "SVG",
+      "dimensions": "вектор",
+      "theme": "",
+      "video_id": ""
+    },
+    {
+      "old": "02_Telegram/05_Аватар_MOKO_Telegraph/MOKO_Telegraph_Превью.jpg",
+      "new": "02_Telegram/05_Аватар_MOKO_Telegraph/MOKO_Telegraph_Превью.jpg",
+      "size": 72986,
+      "sha256": "a4ac19603a78fb6fc52c7e4f30fb40554e4419be283cf9eb7b8b23dbca987007",
+      "platform": "Telegram",
+      "section": "Аватар MOKO Telegraph",
+      "status": "добавлено 18.09.2026",
+      "name": "MOKO_Telegraph_Превью",
+      "format": "JPG",
+      "dimensions": "",
+      "theme": "",
+      "video_id": ""
+    },
+    {
+      "old": "02_Telegram/05_Аватар_MOKO_Telegraph/README.md",
+      "new": "02_Telegram/05_Аватар_MOKO_Telegraph/README.md",
+      "size": 1089,
+      "sha256": "bd0dc4c68bcb58a8fac2d17173ee777736d6e9dbb6ac94370616b8f233924c85",
+      "platform": "Telegram",
+      "section": "Аватар MOKO Telegraph",
+      "status": "добавлено 18.09.2026",
+      "name": "README",
+      "format": "TXT",
+      "dimensions": "",
       "theme": "",
       "video_id": ""
     }

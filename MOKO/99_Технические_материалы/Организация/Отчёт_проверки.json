@@ -53,5 +53,11 @@
     }
   ],
   "catalog_material_rows": 740,
-  "catalog_file_links_checked": 753
+  "catalog_file_links_checked": 753,
+  "cleanup_2026_09_18": {
+    "removed_folder": "01_YouTube/90_Архив_этапов",
+    "removed_rows": 77,
+    "reason": "запрос пользователя: почистить воркспейс от старых ютубовских слайдов",
+    "github_backup_kept": true
+  }
 }
