@@ -1,0 +1,164 @@
+[
+  {
+    "slug": "01_about",
+    "title": "О проекте",
+    "emoji": "🔺",
+    "accent": "#D64545",
+    "file": "png_100/01_about.png",
+    "svg": "svg/01_about.svg",
+    "webp": "webp_100/01_about.webp"
+  },
+  {
+    "slug": "02_news",
+    "title": "Новости",
+    "emoji": "📰",
+    "accent": "#2587B3",
+    "file": "png_100/02_news.png",
+    "svg": "svg/02_news.svg",
+    "webp": "webp_100/02_news.webp"
+  },
+  {
+    "slug": "03_forum",
+    "title": "Форум",
+    "emoji": "💬",
+    "accent": "#238F83",
+    "file": "png_100/03_forum.png",
+    "svg": "svg/03_forum.svg",
+    "webp": "webp_100/03_forum.webp"
+  },
+  {
+    "slug": "04_soft",
+    "title": "Софт",
+    "emoji": "🖥️",
+    "accent": "#91B943",
+    "file": "png_100/04_soft.png",
+    "svg": "svg/04_soft.svg",
+    "webp": "webp_100/04_soft.webp"
+  },
+  {
+    "slug": "05_docs",
+    "title": "Документация",
+    "emoji": "📄",
+    "accent": "#C59D32",
+    "file": "png_100/05_docs.png",
+    "svg": "svg/05_docs.svg",
+    "webp": "webp_100/05_docs.webp"
+  },
+  {
+    "slug": "06_lifehack",
+    "title": "Лайфхаки",
+    "emoji": "✨",
+    "accent": "#C13E7A",
+    "file": "png_100/06_lifehack.png",
+    "svg": "svg/06_lifehack.svg",
+    "webp": "webp_100/06_lifehack.webp"
+  },
+  {
+    "slug": "07_projects",
+    "title": "Проекты",
+    "emoji": "📐",
+    "accent": "#C7772D",
+    "file": "png_100/07_projects.png",
+    "svg": "svg/07_projects.svg",
+    "webp": "webp_100/07_projects.webp"
+  },
+  {
+    "slug": "08_books",
+    "title": "Литература",
+    "emoji": "📚",
+    "accent": "#8C64B2",
+    "file": "png_100/08_books.png",
+    "svg": "svg/08_books.svg",
+    "webp": "webp_100/08_books.webp"
+  },
+  {
+    "slug": "09_gallery",
+    "title": "Галерея",
+    "emoji": "🖼️",
+    "accent": "#238F83",
+    "file": "png_100/09_gallery.png",
+    "svg": "svg/09_gallery.svg",
+    "webp": "webp_100/09_gallery.webp"
+  },
+  {
+    "slug": "10_drivers",
+    "title": "Драйвера",
+    "emoji": "🔌",
+    "accent": "#C7772D",
+    "file": "png_100/10_drivers.png",
+    "svg": "svg/10_drivers.svg",
+    "webp": "webp_100/10_drivers.webp"
+  },
+  {
+    "slug": "11_suggest",
+    "title": "Предложения",
+    "emoji": "📮",
+    "accent": "#91B943",
+    "file": "png_100/11_suggest.png",
+    "svg": "svg/11_suggest.svg",
+    "webp": "webp_100/11_suggest.webp"
+  },
+  {
+    "slug": "12_code",
+    "title": "Код",
+    "emoji": "💻",
+    "accent": "#91B943",
+    "file": "png_100/12_code.png",
+    "svg": "svg/12_code.svg",
+    "webp": "webp_100/12_code.webp"
+  },
+  {
+    "slug": "13_video",
+    "title": "Видео",
+    "emoji": "🎬",
+    "accent": "#D64545",
+    "file": "png_100/13_video.png",
+    "svg": "svg/13_video.svg",
+    "webp": "webp_100/13_video.webp"
+  },
+  {
+    "slug": "14_archive",
+    "title": "Архив",
+    "emoji": "🗃️",
+    "accent": "#C59D32",
+    "file": "png_100/14_archive.png",
+    "svg": "svg/14_archive.svg",
+    "webp": "webp_100/14_archive.webp"
+  },
+  {
+    "slug": "15_live",
+    "title": "Эфир",
+    "emoji": "📡",
+    "accent": "#D64545",
+    "file": "png_100/15_live.png",
+    "svg": "svg/15_live.svg",
+    "webp": "webp_100/15_live.webp"
+  },
+  {
+    "slug": "16_question",
+    "title": "Вопрос",
+    "emoji": "❓",
+    "accent": "#2587B3",
+    "file": "png_100/16_question.png",
+    "svg": "svg/16_question.svg",
+    "webp": "webp_100/16_question.webp"
+  },
+  {
+    "slug": "17_tests",
+    "title": "Испытания",
+    "emoji": "🧪",
+    "accent": "#C13E7A",
+    "file": "png_100/17_tests.png",
+    "svg": "svg/17_tests.svg",
+    "webp": "webp_100/17_tests.webp"
+  },
+  {
+    "slug": "18_moko_se",
+    "title": "MOKO SE",
+    "emoji": "📏",
+    "accent": "#238F83",
+    "file": "png_100/18_moko_se.png",
+    "svg": "svg/18_moko_se.svg",
+    "webp": "webp_100/18_moko_se.webp"
+  }
+]
