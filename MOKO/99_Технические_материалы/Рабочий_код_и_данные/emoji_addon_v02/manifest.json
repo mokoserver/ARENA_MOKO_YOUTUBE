@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "25_link",
+    "title": "Ссылка",
+    "emoji": "🔗",
+    "section": "Навигация",
+    "color": "#2587B3",
+    "file": "png_100/25_link.png",
+    "svg": "svg/25_link.svg",
+    "webp": "webp_100/25_link.webp"
+  },
+  {
+    "slug": "26_github",
+    "title": "GitHub",
+    "emoji": "💻",
+    "section": "Площадки",
+    "color": "#63738A",
+    "file": "png_100/26_github.png",
+    "svg": "svg/26_github.svg",
+    "webp": "webp_100/26_github.webp"
+  },
+  {
+    "slug": "27_info",
+    "title": "Информация",
+    "emoji": "ℹ️",
+    "section": "Навигация",
+    "color": "#2587B3",
+    "file": "png_100/27_info.png",
+    "svg": "svg/27_info.svg",
+    "webp": "webp_100/27_info.webp"
+  }
+]

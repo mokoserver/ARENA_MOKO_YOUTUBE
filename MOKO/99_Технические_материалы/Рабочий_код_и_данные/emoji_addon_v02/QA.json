@@ -1,0 +1,41 @@
+{
+  "new_count": 3,
+  "total_with_originals": 27,
+  "published": false,
+  "telegram_bot_acceptance_tested": false,
+  "files": [
+    {
+      "file": "png_100/25_link.png",
+      "bytes": 10184,
+      "sha256": "49fdc0544f895f9e0de059ef3a5de63c2dd36791ded2f9bb0043e37167aedebf"
+    },
+    {
+      "file": "png_100/26_github.png",
+      "bytes": 10103,
+      "sha256": "1b1f926d765db33e32007915e84cb4b9b880dfce4895c8cb36c0bb2b2c8d6e6f"
+    },
+    {
+      "file": "png_100/27_info.png",
+      "bytes": 8824,
+      "sha256": "eece2f34dbf4e5eca5424f32cc517741c4e4c76f3ff4d92f163b15aea54321a9"
+    }
+  ],
+  "browser_checks": [
+    {
+      "width": 390,
+      "all_images_loaded": true,
+      "cards": 3,
+      "all_modals_tested": true,
+      "horizontal_overflow": false,
+      "js_errors": []
+    },
+    {
+      "width": 1440,
+      "all_images_loaded": true,
+      "cards": 3,
+      "all_modals_tested": true,
+      "horizontal_overflow": false,
+      "js_errors": []
+    }
+  ]
+}
