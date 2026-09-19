@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "01_about",
+    "title": "О проекте",
+    "emoji": "🔺",
+    "c": "#d64545",
+    "d": "#b93636",
+    "file": "png_v03/01_about.png",
+    "svg": "svg_v03/01_about.svg",
+    "webp": "webp_v03/01_about.webp"
+  },
+  {
+    "slug": "02_news",
+    "title": "Новости",
+    "emoji": "📰",
+    "c": "#D64545",
+    "d": "#8F2F2F",
+    "file": "png_v03/02_news.png",
+    "svg": "svg_v03/02_news.svg",
+    "webp": "webp_v03/02_news.webp"
+  },
+  {
+    "slug": "03_forum",
+    "title": "Форум",
+    "emoji": "💬",
+    "c": "#55C9FF",
+    "d": "#2A8DC0",
+    "file": "png_v03/03_forum.png",
+    "svg": "svg_v03/03_forum.svg",
+    "webp": "webp_v03/03_forum.webp"
+  },
+  {
+    "slug": "04_soft",
+    "title": "Софт",
+    "emoji": "🖥️",
+    "c": "#B8EB55",
+    "d": "#7FA832",
+    "file": "png_v03/04_soft.png",
+    "svg": "svg_v03/04_soft.svg",
+    "webp": "webp_v03/04_soft.webp"
+  },
+  {
+    "slug": "05_docs",
+    "title": "Документация",
+    "emoji": "📄",
+    "c": "#6B7177",
+    "d": "#464B50",
+    "file": "png_v03/05_docs.png",
+    "svg": "svg_v03/05_docs.svg",
+    "webp": "webp_v03/05_docs.webp"
+  },
+  {
+    "slug": "06_lifehack",
+    "title": "Лайфхаки",
+    "emoji": "✨",
+    "c": "#FF9A48",
+    "d": "#C06A26",
+    "file": "png_v03/06_lifehack.png",
+    "svg": "svg_v03/06_lifehack.svg",
+    "webp": "webp_v03/06_lifehack.webp"
+  },
+  {
+    "slug": "07_projects",
+    "title": "Проекты",
+    "emoji": "📐",
+    "c": "#B69AFF",
+    "d": "#7E63C4",
+    "file": "png_v03/07_projects.png",
+    "svg": "svg_v03/07_projects.svg",
+    "webp": "webp_v03/07_projects.webp"
+  },
+  {
+    "slug": "08_books",
+    "title": "Литература",
+    "emoji": "📚",
+    "c": "#55D6C2",
+    "d": "#2B9C8A",
+    "file": "png_v03/08_books.png",
+    "svg": "svg_v03/08_books.svg",
+    "webp": "webp_v03/08_books.webp"
+  },
+  {
+    "slug": "09_gallery",
+    "title": "Галерея",
+    "emoji": "🖼️",
+    "c": "#ED6262",
+    "d": "#B03A3A",
+    "file": "png_v03/09_gallery.png",
+    "svg": "svg_v03/09_gallery.svg",
+    "webp": "webp_v03/09_gallery.webp"
+  },
+  {
+    "slug": "10_drivers",
+    "title": "Драйвера",
+    "emoji": "🔌",
+    "c": "#8CC63F",
+    "d": "#5F8C26",
+    "file": "png_v03/10_drivers.png",
+    "svg": "svg_v03/10_drivers.svg",
+    "webp": "webp_v03/10_drivers.webp"
+  },
+  {
+    "slug": "11_suggest",
+    "title": "Предложения",
+    "emoji": "📮",
+    "c": "#2E9BD6",
+    "d": "#1B6C97",
+    "file": "png_v03/11_suggest.png",
+    "svg": "svg_v03/11_suggest.svg",
+    "webp": "webp_v03/11_suggest.webp"
+  },
+  {
+    "slug": "12_code",
+    "title": "Код",
+    "emoji": "💻",
+    "c": "#3ECF6E",
+    "d": "#23934C",
+    "file": "png_v03/12_code.png",
+    "svg": "svg_v03/12_code.svg",
+    "webp": "webp_v03/12_code.webp"
+  },
+  {
+    "slug": "13_video",
+    "title": "Видео",
+    "emoji": "🎬",
+    "c": "#B93636",
+    "d": "#7E2424",
+    "file": "png_v03/13_video.png",
+    "svg": "svg_v03/13_video.svg",
+    "webp": "webp_v03/13_video.webp"
+  },
+  {
+    "slug": "14_archive",
+    "title": "Архив",
+    "emoji": "🗃️",
+    "c": "#9CA3AF",
+    "d": "#6B7177",
+    "file": "png_v03/14_archive.png",
+    "svg": "svg_v03/14_archive.svg",
+    "webp": "webp_v03/14_archive.webp"
+  },
+  {
+    "slug": "15_live",
+    "title": "Эфир",
+    "emoji": "📡",
+    "c": "#FF7A59",
+    "d": "#C24E31",
+    "file": "png_v03/15_live.png",
+    "svg": "svg_v03/15_live.svg",
+    "webp": "webp_v03/15_live.webp"
+  },
+  {
+    "slug": "16_question",
+    "title": "Вопрос",
+    "emoji": "❓",
+    "c": "#6EA8FE",
+    "d": "#2F5FC4",
+    "file": "png_v03/16_question.png",
+    "svg": "svg_v03/16_question.svg",
+    "webp": "webp_v03/16_question.webp"
+  },
+  {
+    "slug": "17_tests",
+    "title": "Испытания",
+    "emoji": "🧪",
+    "c": "#FFC53D",
+    "d": "#C08A1D",
+    "file": "png_v03/17_tests.png",
+    "svg": "svg_v03/17_tests.svg",
+    "webp": "webp_v03/17_tests.webp"
+  },
+  {
+    "slug": "18_moko_se",
+    "title": "MOKO SE",
+    "emoji": "📏",
+    "c": "#0FA3A3",
+    "d": "#067070",
+    "file": "png_v03/18_moko_se.png",
+    "svg": "svg_v03/18_moko_se.svg",
+    "webp": "webp_v03/18_moko_se.webp"
+  }
+]
